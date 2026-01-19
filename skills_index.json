@@ -1,5 +1,11 @@
 [
   {
+    "id": "3d-web-experience",
+    "path": "skills/3d-web-experience",
+    "name": "3d-web-experience",
+    "description": "\"Expert in building 3D experiences for the web - Three.js, React Three Fiber, Spline, WebGL, and interactive 3D scenes. Covers product configurators, 3D portfolios, immersive websites, and bringing depth to web experiences. Use when: 3D website, three.js, WebGL, react three fiber, 3D experience.\""
+  },
+  {
     "id": "api-fuzzing-bug-bounty",
     "path": "skills/api-fuzzing-bug-bounty",
     "name": "API Fuzzing for Bug Bounty",
@@ -216,10 +222,52 @@
     "description": "Use when you need to address review or issue comments on an open GitHub Pull Request using the gh CLI."
   },
   {
+    "id": "agent-evaluation",
+    "path": "skills/agent-evaluation",
+    "name": "agent-evaluation",
+    "description": "\"Testing and benchmarking LLM agents including behavioral testing, capability assessment, reliability metrics, and production monitoring\u2014where even top agents achieve less than 50% on real-world benchmarks Use when: agent testing, agent evaluation, benchmark agents, agent reliability, test agent.\""
+  },
+  {
     "id": "agent-manager-skill",
     "path": "skills/agent-manager-skill",
     "name": "agent-manager-skill",
     "description": "Manage multiple local CLI agents via tmux sessions (start/stop/monitor/assign) with cron-friendly scheduling."
+  },
+  {
+    "id": "agent-memory-systems",
+    "path": "skills/agent-memory-systems",
+    "name": "agent-memory-systems",
+    "description": "\"Memory is the cornerstone of intelligent agents. Without it, every interaction starts from zero. This skill covers the architecture of agent memory: short-term (context window), long-term (vector stores), and the cognitive architectures that organize them.  Key insight: Memory isn't just storage - it's retrieval. A million stored facts mean nothing if you can't find the right one. Chunking, embedding, and retrieval strategies determine whether your agent remembers or forgets.  The field is fragm\""
+  },
+  {
+    "id": "agent-tool-builder",
+    "path": "skills/agent-tool-builder",
+    "name": "agent-tool-builder",
+    "description": "\"Tools are how AI agents interact with the world. A well-designed tool is the difference between an agent that works and one that hallucinates, fails silently, or costs 10x more tokens than necessary.  This skill covers tool design from schema to error handling. JSON Schema best practices, description writing that actually helps the LLM, validation, and the emerging MCP standard that's becoming the lingua franca for AI tools.  Key insight: Tool descriptions are more important than tool implementa\""
+  },
+  {
+    "id": "ai-agents-architect",
+    "path": "skills/ai-agents-architect",
+    "name": "ai-agents-architect",
+    "description": "\"Expert in designing and building autonomous AI agents. Masters tool use, memory systems, planning strategies, and multi-agent orchestration. Use when: build agent, AI agent, autonomous agent, tool use, function calling.\""
+  },
+  {
+    "id": "ai-product",
+    "path": "skills/ai-product",
+    "name": "ai-product",
+    "description": "\"Every product will be AI-powered. The question is whether you'll build it right or ship a demo that falls apart in production.  This skill covers LLM integration patterns, RAG architecture, prompt engineering that scales, AI UX that users trust, and cost optimization that doesn't bankrupt you. Use when: keywords, file_patterns, code_patterns.\""
+  },
+  {
+    "id": "ai-wrapper-product",
+    "path": "skills/ai-wrapper-product",
+    "name": "ai-wrapper-product",
+    "description": "\"Expert in building products that wrap AI APIs (OpenAI, Anthropic, etc.) into focused tools people will pay for. Not just 'ChatGPT but different' - products that solve specific problems with AI. Covers prompt engineering for products, cost management, rate limiting, and building defensible AI businesses. Use when: AI wrapper, GPT product, AI tool, wrap AI, AI SaaS.\""
+  },
+  {
+    "id": "algolia-search",
+    "path": "skills/algolia-search",
+    "name": "algolia-search",
+    "description": "\"Expert patterns for Algolia search implementation, indexing strategies, React InstantSearch, and relevance tuning Use when: adding search to, algolia, instantsearch, search api, search functionality.\""
   },
   {
     "id": "algorithmic-art",
@@ -250,6 +298,24 @@
     "path": "skills/autonomous-agent-patterns",
     "name": "autonomous-agent-patterns",
     "description": "\"Design patterns for building autonomous coding agents. Covers tool integration, permission systems, browser automation, and human-in-the-loop workflows. Use when building AI agents, designing tool APIs, implementing permission systems, or creating autonomous coding assistants.\""
+  },
+  {
+    "id": "autonomous-agents",
+    "path": "skills/autonomous-agents",
+    "name": "autonomous-agents",
+    "description": "\"Autonomous agents are AI systems that can independently decompose goals, plan actions, execute tools, and self-correct without constant human guidance. The challenge isn't making them capable - it's making them reliable. Every extra decision multiplies failure probability.  This skill covers agent loops (ReAct, Plan-Execute), goal decomposition, reflection patterns, and production reliability. Key insight: compounding error rates kill autonomous agents. A 95% success rate per step drops to 60% b\""
+  },
+  {
+    "id": "aws-serverless",
+    "path": "skills/aws-serverless",
+    "name": "aws-serverless",
+    "description": "\"Specialized skill for building production-ready serverless applications on AWS. Covers Lambda functions, API Gateway, DynamoDB, SQS/SNS event-driven patterns, SAM/CDK deployment, and cold start optimization.\""
+  },
+  {
+    "id": "azure-functions",
+    "path": "skills/azure-functions",
+    "name": "azure-functions",
+    "description": "\"Expert patterns for Azure Functions development including isolated worker model, Durable Functions orchestration, cold start optimization, and production patterns. Covers .NET, Python, and Node.js programming models. Use when: azure function, azure functions, durable functions, azure serverless, function app.\""
   },
   {
     "id": "backend-dev-guidelines",
@@ -294,6 +360,24 @@
     "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply."
   },
   {
+    "id": "browser-automation",
+    "path": "skills/browser-automation",
+    "name": "browser-automation",
+    "description": "\"Browser automation powers web testing, scraping, and AI agent interactions. The difference between a flaky script and a reliable system comes down to understanding selectors, waiting strategies, and anti-detection patterns.  This skill covers Playwright (recommended) and Puppeteer, with patterns for testing, scraping, and agentic browser control. Key insight: Playwright won the framework war. Unless you need Puppeteer's stealth ecosystem or are Chrome-only, Playwright is the better choice in 202\""
+  },
+  {
+    "id": "browser-extension-builder",
+    "path": "skills/browser-extension-builder",
+    "name": "browser-extension-builder",
+    "description": "\"Expert in building browser extensions that solve real problems - Chrome, Firefox, and cross-browser extensions. Covers extension architecture, manifest v3, content scripts, popup UIs, monetization strategies, and Chrome Web Store publishing. Use when: browser extension, chrome extension, firefox addon, extension, manifest v3.\""
+  },
+  {
+    "id": "bullmq-specialist",
+    "path": "skills/bullmq-specialist",
+    "name": "bullmq-specialist",
+    "description": "\"BullMQ expert for Redis-backed job queues, background processing, and reliable async execution in Node.js/TypeScript applications. Use when: bullmq, bull queue, redis queue, background job, job queue.\""
+  },
+  {
     "id": "bun-development",
     "path": "skills/bun-development",
     "name": "bun-development",
@@ -312,6 +396,18 @@
     "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations."
   },
   {
+    "id": "clerk-auth",
+    "path": "skills/clerk-auth",
+    "name": "clerk-auth",
+    "description": "\"Expert patterns for Clerk auth implementation, middleware, organizations, webhooks, and user sync Use when: adding authentication, clerk auth, user authentication, sign in, sign up.\""
+  },
+  {
+    "id": "computer-use-agents",
+    "path": "skills/computer-use-agents",
+    "name": "computer-use-agents",
+    "description": "\"Build AI agents that interact with computers like humans do - viewing screens, moving cursors, clicking buttons, and typing text. Covers Anthropic's Computer Use, OpenAI's Operator/CUA, and open-source alternatives. Critical focus on sandboxing, security, and handling the unique challenges of vision-based control. Use when: computer use, desktop automation agent, screen control AI, vision-based agent, GUI automation.\""
+  },
+  {
     "id": "concise-planning",
     "path": "skills/concise-planning",
     "name": "concise-planning",
@@ -322,6 +418,18 @@
     "path": "skills/content-creator",
     "name": "content-creator",
     "description": "Create SEO-optimized marketing content with consistent brand voice. Includes brand voice analyzer, SEO optimizer, content frameworks, and social media templates. Use when writing blog posts, creating social media content, analyzing brand voice, optimizing SEO, planning content calendars, or when user mentions content creation, brand voice, SEO optimization, social media marketing, or content strategy."
+  },
+  {
+    "id": "context-window-management",
+    "path": "skills/context-window-management",
+    "name": "context-window-management",
+    "description": "\"Strategies for managing LLM context windows including summarization, trimming, routing, and avoiding context rot Use when: context window, token limit, context management, context engineering, long context.\""
+  },
+  {
+    "id": "conversation-memory",
+    "path": "skills/conversation-memory",
+    "name": "conversation-memory",
+    "description": "\"Persistent memory systems for LLM conversations including short-term, long-term, and entity-based memory Use when: conversation memory, remember, memory persistence, long-term memory, chat history.\""
   },
   {
     "id": "core-components",
@@ -336,6 +444,12 @@
     "description": "Core component library and design system patterns. Use when building UI, using design tokens, or working with the component library."
   },
   {
+    "id": "crewai",
+    "path": "skills/crewai",
+    "name": "crewai",
+    "description": "\"Expert in CrewAI - the leading role-based multi-agent framework used by 60% of Fortune 500 companies. Covers agent design with roles and goals, task definition, crew orchestration, process types (sequential, hierarchical, parallel), memory systems, and flows for complex workflows. Essential for building collaborative AI agent teams. Use when: crewai, multi-agent team, agent roles, crew of agents, role-based agents.\""
+  },
+  {
     "id": "claude-d3js-skill",
     "path": "skills/.disabled/claude-d3js-skill",
     "name": "d3-viz",
@@ -346,6 +460,12 @@
     "path": "skills/claude-d3js-skill",
     "name": "d3-viz",
     "description": "Creating interactive data visualisations using d3.js. This skill should be used when creating custom charts, graphs, network diagrams, geographic visualisations, or any complex SVG-based data visualisation that requires fine-grained control over visual elements, transitions, or interactions. Use this for bespoke visualisations beyond standard charting libraries, whether in React, Vue, Svelte, vanilla JavaScript, or any other environment."
+  },
+  {
+    "id": "discord-bot-architect",
+    "path": "skills/discord-bot-architect",
+    "name": "discord-bot-architect",
+    "description": "\"Specialized skill for building production-ready Discord bots. Covers Discord.js (JavaScript) and Pycord (Python), gateway intents, slash commands, interactive components, rate limiting, and sharding.\""
   },
   {
     "id": "dispatching-parallel-agents",
@@ -372,6 +492,12 @@
     "description": "\"Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks\""
   },
   {
+    "id": "email-systems",
+    "path": "skills/email-systems",
+    "name": "email-systems",
+    "description": "\"Email has the highest ROI of any marketing channel. $36 for every $1 spent. Yet most startups treat it as an afterthought - bulk blasts, no personalization, landing in spam folders.  This skill covers transactional email that works, marketing automation that converts, deliverability that reaches inboxes, and the infrastructure decisions that scale. Use when: keywords, file_patterns, code_patterns.\""
+  },
+  {
     "id": "executing-plans",
     "path": "skills/.disabled/executing-plans",
     "name": "executing-plans",
@@ -396,6 +522,12 @@
     "description": "Intelligently organizes files and folders by understanding context, finding duplicates, and suggesting better organizational structures. Use when user wants to clean up directories, organize downloads, remove duplicates, or restructure projects."
   },
   {
+    "id": "file-uploads",
+    "path": "skills/file-uploads",
+    "name": "file-uploads",
+    "description": "\"Expert at handling file uploads and cloud storage. Covers S3, Cloudflare R2, presigned URLs, multipart uploads, and image optimization. Knows how to handle large files without blocking. Use when: file upload, S3, R2, presigned URL, multipart.\""
+  },
+  {
     "id": "finishing-a-development-branch",
     "path": "skills/.disabled/finishing-a-development-branch",
     "name": "finishing-a-development-branch",
@@ -406,6 +538,12 @@
     "path": "skills/finishing-a-development-branch",
     "name": "finishing-a-development-branch",
     "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup"
+  },
+  {
+    "id": "firebase",
+    "path": "skills/firebase",
+    "name": "firebase",
+    "description": "\"Firebase gives you a complete backend in minutes - auth, database, storage, functions, hosting. But the ease of setup hides real complexity. Security rules are your last line of defense, and they're often wrong. Firestore queries are limited, and you learn this after you've designed your data model.  This skill covers Firebase Authentication, Firestore, Realtime Database, Cloud Functions, Cloud Storage, and Firebase Hosting. Key insight: Firebase is optimized for read-heavy, denormalized data. I\""
   },
   {
     "id": "frontend-design",
@@ -426,6 +564,12 @@
     "description": "Frontend development guidelines for React/TypeScript applications. Modern patterns including Suspense, lazy loading, useSuspenseQuery, file organization with features directory, MUI v7 styling, TanStack Router, performance optimization, and TypeScript best practices. Use when creating components, pages, features, fetching data, styling, routing, or working with frontend code."
   },
   {
+    "id": "gcp-cloud-run",
+    "path": "skills/gcp-cloud-run",
+    "name": "gcp-cloud-run",
+    "description": "\"Specialized skill for building production-ready serverless applications on GCP. Covers Cloud Run services (containerized), Cloud Run Functions (event-driven), cold start optimization, and event-driven architecture with Pub/Sub.\""
+  },
+  {
     "id": "git-pushing",
     "path": "skills/git-pushing",
     "name": "git-pushing",
@@ -436,6 +580,30 @@
     "path": "skills/github-workflow-automation",
     "name": "github-workflow-automation",
     "description": "\"Automate GitHub workflows with AI assistance. Includes PR reviews, issue triage, CI/CD integration, and Git operations. Use when automating GitHub workflows, setting up PR review automation, creating GitHub Actions, or triaging issues.\""
+  },
+  {
+    "id": "graphql",
+    "path": "skills/graphql",
+    "name": "graphql",
+    "description": "\"GraphQL gives clients exactly the data they need - no more, no less. One endpoint, typed schema, introspection. But the flexibility that makes it powerful also makes it dangerous. Without proper controls, clients can craft queries that bring down your server.  This skill covers schema design, resolvers, DataLoader for N+1 prevention, federation for microservices, and client integration with Apollo/urql. Key insight: GraphQL is a contract. The schema is the API documentation. Design it carefully.\""
+  },
+  {
+    "id": "hubspot-integration",
+    "path": "skills/hubspot-integration",
+    "name": "hubspot-integration",
+    "description": "\"Expert patterns for HubSpot CRM integration including OAuth authentication, CRM objects, associations, batch operations, webhooks, and custom objects. Covers Node.js and Python SDKs. Use when: hubspot, hubspot api, hubspot crm, hubspot integration, contacts api.\""
+  },
+  {
+    "id": "inngest",
+    "path": "skills/inngest",
+    "name": "inngest",
+    "description": "\"Inngest expert for serverless-first background jobs, event-driven workflows, and durable execution without managing queues or workers. Use when: inngest, serverless background job, event-driven workflow, step function, durable execution.\""
+  },
+  {
+    "id": "interactive-portfolio",
+    "path": "skills/interactive-portfolio",
+    "name": "interactive-portfolio",
+    "description": "\"Expert in building portfolios that actually land jobs and clients - not just showing work, but creating memorable experiences. Covers developer portfolios, designer portfolios, creative portfolios, and portfolios that convert visitors into opportunities. Use when: portfolio, personal website, showcase work, developer portfolio, designer portfolio.\""
   },
   {
     "id": "internal-comms-anthropic",
@@ -468,6 +636,18 @@
     "description": "Guide for continuous improvement, error proofing, and standardization. Use this skill when the user wants to improve code quality, refactor, or discuss process improvements."
   },
   {
+    "id": "langfuse",
+    "path": "skills/langfuse",
+    "name": "langfuse",
+    "description": "\"Expert in Langfuse - the open-source LLM observability platform. Covers tracing, prompt management, evaluation, datasets, and integration with LangChain, LlamaIndex, and OpenAI. Essential for debugging, monitoring, and improving LLM applications in production. Use when: langfuse, llm observability, llm tracing, prompt management, llm evaluation.\""
+  },
+  {
+    "id": "langgraph",
+    "path": "skills/langgraph",
+    "name": "langgraph",
+    "description": "\"Expert in LangGraph - the production-grade framework for building stateful, multi-actor AI applications. Covers graph construction, state management, cycles and branches, persistence with checkpointers, human-in-the-loop patterns, and the ReAct agent pattern. Used in production at LinkedIn, Uber, and 400+ companies. This is LangChain's recommended approach for building agents. Use when: langgraph, langchain agent, stateful agent, agent graph, react agent.\""
+  },
+  {
     "id": "llm-app-patterns",
     "path": "skills/llm-app-patterns",
     "name": "llm-app-patterns",
@@ -492,16 +672,52 @@
     "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK)."
   },
   {
+    "id": "micro-saas-launcher",
+    "path": "skills/micro-saas-launcher",
+    "name": "micro-saas-launcher",
+    "description": "\"Expert in launching small, focused SaaS products fast - the indie hacker approach to building profitable software. Covers idea validation, MVP development, pricing, launch strategies, and growing to sustainable revenue. Ship in weeks, not months. Use when: micro saas, indie hacker, small saas, side project, saas mvp.\""
+  },
+  {
+    "id": "neon-postgres",
+    "path": "skills/neon-postgres",
+    "name": "neon-postgres",
+    "description": "\"Expert patterns for Neon serverless Postgres, branching, connection pooling, and Prisma/Drizzle integration Use when: neon database, serverless postgres, database branching, neon postgres, postgres serverless.\""
+  },
+  {
+    "id": "nextjs-supabase-auth",
+    "path": "skills/nextjs-supabase-auth",
+    "name": "nextjs-supabase-auth",
+    "description": "\"Expert integration of Supabase Auth with Next.js App Router Use when: supabase auth next, authentication next.js, login supabase, auth middleware, protected route.\""
+  },
+  {
     "id": "notebooklm",
     "path": "skills/notebooklm",
     "name": "notebooklm",
     "description": "Use this skill to query your Google NotebookLM notebooks directly from Claude Code for source-grounded, citation-backed answers from Gemini. Browser automation, library management, persistent auth. Drastically reduced hallucinations through document-only responses."
   },
   {
+    "id": "notion-template-business",
+    "path": "skills/notion-template-business",
+    "name": "notion-template-business",
+    "description": "\"Expert in building and selling Notion templates as a business - not just making templates, but building a sustainable digital product business. Covers template design, pricing, marketplaces, marketing, and scaling to real revenue. Use when: notion template, sell templates, digital product, notion business, gumroad.\""
+  },
+  {
     "id": "pdf-official",
     "path": "skills/pdf-official",
     "name": "pdf",
     "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale."
+  },
+  {
+    "id": "personal-tool-builder",
+    "path": "skills/personal-tool-builder",
+    "name": "personal-tool-builder",
+    "description": "\"Expert in building custom tools that solve your own problems first. The best products often start as personal tools - scratch your own itch, build for yourself, then discover others have the same itch. Covers rapid prototyping, local-first apps, CLI tools, scripts that grow into products, and the art of dogfooding. Use when: build a tool, personal tool, scratch my itch, solve my problem, CLI tool.\""
+  },
+  {
+    "id": "plaid-fintech",
+    "path": "skills/plaid-fintech",
+    "name": "plaid-fintech",
+    "description": "\"Expert patterns for Plaid API integration including Link token flows, transactions sync, identity verification, Auth for ACH, balance checks, webhook handling, and fintech compliance best practices. Use when: plaid, bank account linking, bank connection, ach, account aggregation.\""
   },
   {
     "id": "planning-with-files",
@@ -534,6 +750,18 @@
     "description": "Comprehensive toolkit for product managers including RICE prioritization, customer interview analysis, PRD templates, discovery frameworks, and go-to-market strategies. Use for feature prioritization, user research synthesis, requirement documentation, and product strategy development."
   },
   {
+    "id": "prompt-caching",
+    "path": "skills/prompt-caching",
+    "name": "prompt-caching",
+    "description": "\"Caching strategies for LLM prompts including Anthropic prompt caching, response caching, and CAG (Cache Augmented Generation) Use when: prompt caching, cache prompt, response cache, cag, cache augmented.\""
+  },
+  {
+    "id": "prompt-engineer",
+    "path": "skills/prompt-engineer",
+    "name": "prompt-engineer",
+    "description": "\"Expert in designing effective prompts for LLM-powered applications. Masters prompt structure, context management, output formatting, and prompt evaluation. Use when: prompt engineering, system prompt, few-shot, chain of thought, prompt design.\""
+  },
+  {
     "id": "prompt-engineering",
     "path": "skills/.disabled/prompt-engineering",
     "name": "prompt-engineering",
@@ -550,6 +778,18 @@
     "path": "skills/prompt-library",
     "name": "prompt-library",
     "description": "\"Curated collection of high-quality prompts for various use cases. Includes role-based prompts, task-specific templates, and prompt refinement techniques. Use when user needs prompt templates, role-play prompts, or ready-to-use prompt examples for coding, writing, analysis, or creative tasks.\""
+  },
+  {
+    "id": "rag-engineer",
+    "path": "skills/rag-engineer",
+    "name": "rag-engineer",
+    "description": "\"Expert in building Retrieval-Augmented Generation systems. Masters embedding models, vector databases, chunking strategies, and retrieval optimization for LLM applications. Use when: building RAG, vector search, embeddings, semantic search, document retrieval.\""
+  },
+  {
+    "id": "rag-implementation",
+    "path": "skills/rag-implementation",
+    "name": "rag-implementation",
+    "description": "\"Retrieval-Augmented Generation patterns including chunking, embeddings, vector stores, and retrieval optimization Use when: rag, retrieval augmented, vector search, embeddings, semantic search.\""
   },
   {
     "id": "react-ui-patterns",
@@ -588,6 +828,24 @@
     "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements"
   },
   {
+    "id": "salesforce-development",
+    "path": "skills/salesforce-development",
+    "name": "salesforce-development",
+    "description": "\"Expert patterns for Salesforce platform development including Lightning Web Components (LWC), Apex triggers and classes, REST/Bulk APIs, Connected Apps, and Salesforce DX with scratch orgs and 2nd generation packages (2GP). Use when: salesforce, sfdc, apex, lwc, lightning web components.\""
+  },
+  {
+    "id": "scroll-experience",
+    "path": "skills/scroll-experience",
+    "name": "scroll-experience",
+    "description": "\"Expert in building immersive scroll-driven experiences - parallax storytelling, scroll animations, interactive narratives, and cinematic web experiences. Like NY Times interactives, Apple product pages, and award-winning web experiences. Makes websites feel like experiences, not just pages. Use when: scroll animation, parallax, scroll storytelling, interactive story, cinematic website.\""
+  },
+  {
+    "id": "segment-cdp",
+    "path": "skills/segment-cdp",
+    "name": "segment-cdp",
+    "description": "\"Expert patterns for Segment Customer Data Platform including Analytics.js, server-side tracking, tracking plans with Protocols, identity resolution, destinations configuration, and data governance best practices. Use when: segment, analytics.js, customer data platform, cdp, tracking plan.\""
+  },
+  {
     "id": "senior-architect",
     "path": "skills/senior-architect",
     "name": "senior-architect",
@@ -598,6 +856,12 @@
     "path": "skills/senior-fullstack",
     "name": "senior-fullstack",
     "description": "Comprehensive fullstack development skill for building complete web applications with React, Next.js, Node.js, GraphQL, and PostgreSQL. Includes project scaffolding, code quality analysis, architecture patterns, and complete tech stack guidance. Use when building new projects, analyzing code quality, implementing design patterns, or setting up development workflows."
+  },
+  {
+    "id": "shopify-apps",
+    "path": "skills/shopify-apps",
+    "name": "shopify-apps",
+    "description": "\"Expert patterns for Shopify app development including Remix/React Router apps, embedded apps with App Bridge, webhook handling, GraphQL Admin API, Polaris components, billing, and app extensions. Use when: shopify app, shopify, embedded app, polaris, app bridge.\""
   },
   {
     "id": "shopify-development",
@@ -630,6 +894,12 @@
     "description": "Create and manage Claude Code skills following Anthropic best practices. Use when creating new skills, modifying skill-rules.json, understanding trigger patterns, working with hooks, debugging skill activation, or implementing progressive disclosure. Covers skill structure, YAML frontmatter, trigger types (keywords, intent patterns, file paths, content patterns), enforcement levels (block, suggest, warn), hook mechanisms (UserPromptSubmit, PreToolUse), session tracking, and the 500-line rule."
   },
   {
+    "id": "slack-bot-builder",
+    "path": "skills/slack-bot-builder",
+    "name": "slack-bot-builder",
+    "description": "\"Build Slack apps using the Bolt framework across Python, JavaScript, and Java. Covers Block Kit for rich UIs, interactive components, slash commands, event handling, OAuth installation flows, and Workflow Builder integration. Focus on best practices for production-ready Slack apps. Use when: slack bot, slack app, bolt framework, block kit, slash command.\""
+  },
+  {
     "id": "slack-gif-creator",
     "path": "skills/.disabled/slack-gif-creator",
     "name": "slack-gif-creator",
@@ -648,6 +918,12 @@
     "description": "Guide for quality focused software architecture. This skill should be used when users want to write code, design architecture, analyze code, in any case that relates to software development."
   },
   {
+    "id": "stripe-integration",
+    "path": "skills/stripe-integration",
+    "name": "stripe-integration",
+    "description": "\"Get paid from day one. Payments, subscriptions, billing portal, webhooks, metered billing, Stripe Connect. The complete guide to implementing Stripe correctly, including all the edge cases that will bite you at 3am.  This isn't just API calls - it's the full payment system: handling failures, managing subscriptions, dealing with dunning, and keeping revenue flowing. Use when: stripe, payments, subscription, billing, checkout.\""
+  },
+  {
     "id": "subagent-driven-development",
     "path": "skills/.disabled/subagent-driven-development",
     "name": "subagent-driven-development",
@@ -664,6 +940,18 @@
     "path": "skills/systematic-debugging",
     "name": "systematic-debugging",
     "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes"
+  },
+  {
+    "id": "telegram-bot-builder",
+    "path": "skills/telegram-bot-builder",
+    "name": "telegram-bot-builder",
+    "description": "\"Expert in building Telegram bots that solve real problems - from simple automation to complex AI-powered bots. Covers bot architecture, the Telegram Bot API, user experience, monetization strategies, and scaling bots to thousands of users. Use when: telegram bot, bot api, telegram automation, chat bot telegram, tg bot.\""
+  },
+  {
+    "id": "telegram-mini-app",
+    "path": "skills/telegram-mini-app",
+    "name": "telegram-mini-app",
+    "description": "\"Expert in building Telegram Mini Apps (TWA) - web apps that run inside Telegram with native-like experience. Covers the TON ecosystem, Telegram Web App API, payments, user authentication, and building viral mini apps that monetize. Use when: telegram mini app, TWA, telegram web app, TON app, mini app.\""
   },
   {
     "id": "test-driven-development",
@@ -708,10 +996,28 @@
     "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly."
   },
   {
+    "id": "trigger-dev",
+    "path": "skills/trigger-dev",
+    "name": "trigger-dev",
+    "description": "\"Trigger.dev expert for background jobs, AI workflows, and reliable async execution with excellent developer experience and TypeScript-first design. Use when: trigger.dev, trigger dev, background task, ai background job, long running task.\""
+  },
+  {
+    "id": "twilio-communications",
+    "path": "skills/twilio-communications",
+    "name": "twilio-communications",
+    "description": "\"Build communication features with Twilio: SMS messaging, voice calls, WhatsApp Business API, and user verification (2FA). Covers the full spectrum from simple notifications to complex IVR systems and multi-channel authentication. Critical focus on compliance, rate limits, and error handling. Use when: twilio, send SMS, text message, voice call, phone verification.\""
+  },
+  {
     "id": "ui-ux-pro-max",
     "path": "skills/ui-ux-pro-max",
     "name": "ui-ux-pro-max",
     "description": "\"UI/UX design intelligence. 50 styles, 21 palettes, 50 font pairings, 20 charts, 9 stacks (React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind, shadcn/ui). Actions: plan, build, create, design, implement, review, fix, improve, optimize, enhance, refactor, check UI/UX code. Projects: website, landing page, dashboard, admin panel, e-commerce, SaaS, portfolio, blog, mobile app, .html, .tsx, .vue, .svelte. Elements: button, modal, navbar, sidebar, card, table, form, chart. Styles: glassmorphism, claymorphism, minimalism, brutalism, neumorphism, bento grid, dark mode, responsive, skeuomorphism, flat design. Topics: color palette, accessibility, animation, layout, typography, font pairing, spacing, hover, shadow, gradient. Integrations: shadcn/ui MCP for component search and examples.\""
+  },
+  {
+    "id": "upstash-qstash",
+    "path": "skills/upstash-qstash",
+    "name": "upstash-qstash",
+    "description": "\"Upstash QStash expert for serverless message queues, scheduled jobs, and reliable HTTP-based task delivery without managing infrastructure. Use when: qstash, upstash queue, serverless cron, scheduled http, message queue serverless.\""
   },
   {
     "id": "using-git-worktrees",
@@ -738,6 +1044,12 @@
     "description": "Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions"
   },
   {
+    "id": "vercel-deployment",
+    "path": "skills/vercel-deployment",
+    "name": "vercel-deployment",
+    "description": "\"Expert knowledge for deploying to Vercel with Next.js Use when: vercel, deploy, deployment, hosting, production.\""
+  },
+  {
     "id": "react-best-practices",
     "path": "skills/react-best-practices",
     "name": "vercel-react-best-practices",
@@ -748,6 +1060,24 @@
     "path": "skills/verification-before-completion",
     "name": "verification-before-completion",
     "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always"
+  },
+  {
+    "id": "viral-generator-builder",
+    "path": "skills/viral-generator-builder",
+    "name": "viral-generator-builder",
+    "description": "\"Expert in building shareable generator tools that go viral - name generators, quiz makers, avatar creators, personality tests, and calculator tools. Covers the psychology of sharing, viral mechanics, and building tools people can't resist sharing with friends. Use when: generator tool, quiz maker, name generator, avatar creator, viral tool.\""
+  },
+  {
+    "id": "voice-agents",
+    "path": "skills/voice-agents",
+    "name": "voice-agents",
+    "description": "\"Voice agents represent the frontier of AI interaction - humans speaking naturally with AI systems. The challenge isn't just speech recognition and synthesis, it's achieving natural conversation flow with sub-800ms latency while handling interruptions, background noise, and emotional nuance.  This skill covers two architectures: speech-to-speech (OpenAI Realtime API, lowest latency, most natural) and pipeline (STT\u2192LLM\u2192TTS, more control, easier to debug). Key insight: latency is the constraint. Hu\""
+  },
+  {
+    "id": "voice-ai-development",
+    "path": "skills/voice-ai-development",
+    "name": "voice-ai-development",
+    "description": "\"Expert in building voice AI applications - from real-time voice agents to voice-enabled apps. Covers OpenAI Realtime API, Vapi for voice agents, Deepgram for transcription, ElevenLabs for synthesis, LiveKit for real-time infrastructure, and WebRTC fundamentals. Knows how to build low-latency, production-ready voice experiences. Use when: voice ai, voice agent, speech to text, text to speech, realtime voice.\""
   },
   {
     "id": "web-artifacts-builder",
@@ -777,7 +1107,7 @@
     "id": "workflow-automation",
     "path": "skills/workflow-automation",
     "name": "workflow-automation",
-    "description": "\"Design and implement automated workflows combining visual logic with custom code. Create multi-step automations, integrate APIs, and build AI-native pipelines. Use when designing automation flows, integrating APIs, building event-driven systems, or creating LangChain-style AI workflows.\""
+    "description": "\"Workflow automation is the infrastructure that makes AI agents reliable. Without durable execution, a network hiccup during a 10-step payment flow means lost money and angry customers. With it, workflows resume exactly where they left off.  This skill covers the platforms (n8n, Temporal, Inngest) and patterns (sequential, parallel, orchestrator-worker) that turn brittle scripts into production-grade automation.  Key insight: The platforms make different tradeoffs. n8n optimizes for accessibility\""
   },
   {
     "id": "writing-plans",
@@ -796,5 +1126,11 @@
     "path": "skills/xlsx-official",
     "name": "xlsx",
     "description": "\"Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) Creating new spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3) Modify existing spreadsheets while preserving formulas, (4) Data analysis and visualization in spreadsheets, or (5) Recalculating formulas\""
+  },
+  {
+    "id": "zapier-make-patterns",
+    "path": "skills/zapier-make-patterns",
+    "name": "zapier-make-patterns",
+    "description": "\"No-code automation democratizes workflow building. Zapier and Make (formerly Integromat) let non-developers automate business processes without writing code. But no-code doesn't mean no-complexity - these platforms have their own patterns, pitfalls, and breaking points.  This skill covers when to use which platform, how to build reliable automations, and when to graduate to code-based solutions. Key insight: Zapier optimizes for simplicity and integrations (7000+ apps), Make optimizes for power \""
   }
 ]
