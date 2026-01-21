@@ -7,6 +7,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [2.4.0] - 2026-01-21 - "Everything Skills Edition"
+
+### Added
+
+- **8 Verified Skills** from [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code):
+  - `cc-skill-backend-patterns`
+  - `cc-skill-clickhouse-io`
+  - `cc-skill-coding-standards`
+  - `cc-skill-continuous-learning`
+  - `cc-skill-frontend-patterns`
+  - `cc-skill-project-guidelines-example`
+  - `cc-skill-security-review`
+  - `cc-skill-strategic-compact`
+- **Documentation**: New `WALKTHROUGH.md` for import process details.
+
+### Changed
+
+- **Skill Cleanup**: Removed 27 unwanted agents, commands, and rules from the `everything-claude-code` import to focus strictly on skills.
+- **Index**: Regenerated `skills_index.json` (Total: 233 skills).
+- **Credits**: Updated README credits and registry.
+
 ## [1.0.0] - 2026-01-19 - "Marketing Edition"
 
 ### Added
