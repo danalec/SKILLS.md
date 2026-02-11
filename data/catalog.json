@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-11T18:08:29.123Z",
+  "generatedAt": "2026-02-08T00:00:00.000Z",
   "total": 567,
   "skills": [
     {
@@ -26,7 +26,7 @@
         "webgl",
         "interactive"
       ],
-      "path": "skills\\3d-web-experience\\SKILL.md"
+      "path": "skills/3d-web-experience/SKILL.md"
     },
     {
       "id": "ab-test-setup",
@@ -51,7 +51,7 @@
         "metrics",
         "execution"
       ],
-      "path": "skills\\ab-test-setup\\SKILL.md"
+      "path": "skills/ab-test-setup/SKILL.md"
     },
     {
       "id": "accessibility-compliance-accessibility-audit",
@@ -77,7 +77,7 @@
         "audits",
         "identify"
       ],
-      "path": "skills\\accessibility-compliance-accessibility-audit\\SKILL.md"
+      "path": "skills/accessibility-compliance-accessibility-audit/SKILL.md"
     },
     {
       "id": "address-github-comments",
@@ -101,7 +101,7 @@
         "gh",
         "cli"
       ],
-      "path": "skills\\address-github-comments\\SKILL.md"
+      "path": "skills/address-github-comments/SKILL.md"
     },
     {
       "id": "agent-evaluation",
@@ -126,7 +126,7 @@
         "reliability",
         "metrics"
       ],
-      "path": "skills\\agent-evaluation\\SKILL.md"
+      "path": "skills/agent-evaluation/SKILL.md"
     },
     {
       "id": "agent-manager-skill",
@@ -152,7 +152,7 @@
         "start",
         "stop"
       ],
-      "path": "skills\\agent-manager-skill\\SKILL.md"
+      "path": "skills/agent-manager-skill/SKILL.md"
     },
     {
       "id": "agent-memory-mcp",
@@ -178,7 +178,7 @@
         "architecture",
         "decisions"
       ],
-      "path": "skills\\agent-memory-mcp\\SKILL.md"
+      "path": "skills/agent-memory-mcp/SKILL.md"
     },
     {
       "id": "agent-memory-systems",
@@ -203,7 +203,7 @@
         "skill",
         "covers"
       ],
-      "path": "skills\\agent-memory-systems\\SKILL.md"
+      "path": "skills/agent-memory-systems/SKILL.md"
     },
     {
       "id": "agent-orchestration-improve-agent",
@@ -228,7 +228,7 @@
         "prompt",
         "engineering"
       ],
-      "path": "skills\\agent-orchestration-improve-agent\\SKILL.md"
+      "path": "skills/agent-orchestration-improve-agent/SKILL.md"
     },
     {
       "id": "agent-orchestration-multi-agent-optimize",
@@ -254,7 +254,7 @@
         "improving",
         "performance"
       ],
-      "path": "skills\\agent-orchestration-multi-agent-optimize\\SKILL.md"
+      "path": "skills/agent-orchestration-multi-agent-optimize/SKILL.md"
     },
     {
       "id": "agent-tool-builder",
@@ -279,7 +279,7 @@
         "between",
         "works"
       ],
-      "path": "skills\\agent-tool-builder\\SKILL.md"
+      "path": "skills/agent-tool-builder/SKILL.md"
     },
     {
       "id": "ai-agents-architect",
@@ -304,7 +304,7 @@
         "agent",
         "orchestration"
       ],
-      "path": "skills\\ai-agents-architect\\SKILL.md"
+      "path": "skills/ai-agents-architect/SKILL.md"
     },
     {
       "id": "ai-engineer",
@@ -328,7 +328,7 @@
         "multimodal",
         "agent"
       ],
-      "path": "skills\\ai-engineer\\SKILL.md"
+      "path": "skills/ai-engineer/SKILL.md"
     },
     {
       "id": "ai-product",
@@ -353,7 +353,7 @@
         "falls",
         "apart"
       ],
-      "path": "skills\\ai-product\\SKILL.md"
+      "path": "skills/ai-product/SKILL.md"
     },
     {
       "id": "ai-wrapper-product",
@@ -379,7 +379,7 @@
         "people",
         "pay"
       ],
-      "path": "skills\\ai-wrapper-product\\SKILL.md"
+      "path": "skills/ai-wrapper-product/SKILL.md"
     },
     {
       "id": "airflow-dag-patterns",
@@ -404,7 +404,7 @@
         "pipelines",
         "orchestrating"
       ],
-      "path": "skills\\airflow-dag-patterns\\SKILL.md"
+      "path": "skills/airflow-dag-patterns/SKILL.md"
     },
     {
       "id": "algolia-search",
@@ -427,7 +427,7 @@
         "api",
         "functionality"
       ],
-      "path": "skills\\algolia-search\\SKILL.md"
+      "path": "skills/algolia-search/SKILL.md"
     },
     {
       "id": "algorithmic-art",
@@ -452,7 +452,7 @@
         "users",
         "request"
       ],
-      "path": "skills\\algorithmic-art\\SKILL.md"
+      "path": "skills/algorithmic-art/SKILL.md"
     },
     {
       "id": "analytics-tracking",
@@ -477,7 +477,7 @@
         "set",
         "up"
       ],
-      "path": "skills\\analytics-tracking\\SKILL.md"
+      "path": "skills/analytics-tracking/SKILL.md"
     },
     {
       "id": "angular",
@@ -501,7 +501,7 @@
         "hydration",
         "reactive"
       ],
-      "path": "skills\\angular\\SKILL.md"
+      "path": "skills/angular/SKILL.md"
     },
     {
       "id": "anti-reversing-techniques",
@@ -527,7 +527,7 @@
         "analyzing",
         "protected"
       ],
-      "path": "skills\\anti-reversing-techniques\\SKILL.md"
+      "path": "skills/anti-reversing-techniques/SKILL.md"
     },
     {
       "id": "antigravity-workflows",
@@ -551,7 +551,7 @@
         "audits",
         "ai"
       ],
-      "path": "skills\\antigravity-workflows\\SKILL.md"
+      "path": "skills/antigravity-workflows/SKILL.md"
     },
     {
       "id": "api-design-principles",
@@ -576,7 +576,7 @@
         "designing",
         "new"
       ],
-      "path": "skills\\api-design-principles\\SKILL.md"
+      "path": "skills/api-design-principles/SKILL.md"
     },
     {
       "id": "api-documentation-generator",
@@ -601,7 +601,7 @@
         "parameters",
         "examples"
       ],
-      "path": "skills\\api-documentation-generator\\SKILL.md"
+      "path": "skills/api-documentation-generator/SKILL.md"
     },
     {
       "id": "api-documenter",
@@ -626,7 +626,7 @@
         "generate",
         "sdks"
       ],
-      "path": "skills\\api-documenter\\SKILL.md"
+      "path": "skills/api-documenter/SKILL.md"
     },
     {
       "id": "api-patterns",
@@ -650,7 +650,7 @@
         "formats",
         "versioning"
       ],
-      "path": "skills\\api-patterns\\SKILL.md"
+      "path": "skills/api-patterns/SKILL.md"
     },
     {
       "id": "api-security-best-practices",
@@ -677,7 +677,7 @@
         "rate",
         "limiting"
       ],
-      "path": "skills\\api-security-best-practices\\SKILL.md"
+      "path": "skills/api-security-best-practices/SKILL.md"
     },
     {
       "id": "api-testing-observability-api-mock",
@@ -703,7 +703,7 @@
         "simulate",
         "real"
       ],
-      "path": "skills\\api-testing-observability-api-mock\\SKILL.md"
+      "path": "skills/api-testing-observability-api-mock/SKILL.md"
     },
     {
       "id": "app-builder",
@@ -728,20 +728,20 @@
         "natural",
         "language"
       ],
-      "path": "skills\\app-builder\\SKILL.md"
+      "path": "skills/app-builder/SKILL.md"
     },
     {
-      "id": "app-builder\\templates",
+      "id": "app-builder/templates",
       "name": "templates",
       "description": "Project scaffolding templates for new applications. Use when creating new projects from scratch. Contains 12 templates for various tech stacks.",
       "category": "general",
       "tags": [
         "app",
-        "builder\\templates"
+        "builder/templates"
       ],
       "triggers": [
         "app",
-        "builder\\templates",
+        "builder/templates",
         "scaffolding",
         "new",
         "applications",
@@ -753,7 +753,7 @@
         "tech",
         "stacks"
       ],
-      "path": "skills\\app-builder\\templates\\SKILL.md"
+      "path": "skills/app-builder/templates/SKILL.md"
     },
     {
       "id": "app-store-optimization",
@@ -779,7 +779,7 @@
         "performance",
         "apple"
       ],
-      "path": "skills\\app-store-optimization\\SKILL.md"
+      "path": "skills/app-store-optimization/SKILL.md"
     },
     {
       "id": "application-performance-performance-optimization",
@@ -804,7 +804,7 @@
         "coordinating",
         "stack"
       ],
-      "path": "skills\\application-performance-performance-optimization\\SKILL.md"
+      "path": "skills/application-performance-performance-optimization/SKILL.md"
     },
     {
       "id": "architect-review",
@@ -826,7 +826,7 @@
         "reviews",
         "designs"
       ],
-      "path": "skills\\architect-review\\SKILL.md"
+      "path": "skills/architect-review/SKILL.md"
     },
     {
       "id": "architecture",
@@ -850,7 +850,7 @@
         "adr",
         "documentation"
       ],
-      "path": "skills\\architecture\\SKILL.md"
+      "path": "skills/architecture/SKILL.md"
     },
     {
       "id": "architecture-decision-records",
@@ -876,7 +876,7 @@
         "significant",
         "decisions"
       ],
-      "path": "skills\\architecture-decision-records\\SKILL.md"
+      "path": "skills/architecture-decision-records/SKILL.md"
     },
     {
       "id": "architecture-patterns",
@@ -900,7 +900,7 @@
         "refactoring",
         "existing"
       ],
-      "path": "skills\\architecture-patterns\\SKILL.md"
+      "path": "skills/architecture-patterns/SKILL.md"
     },
     {
       "id": "arm-cortex-expert",
@@ -925,7 +925,7 @@
         "microcontrollers",
         "teensy"
       ],
-      "path": "skills\\arm-cortex-expert\\SKILL.md"
+      "path": "skills/arm-cortex-expert/SKILL.md"
     },
     {
       "id": "async-python-patterns",
@@ -950,7 +950,7 @@
         "apis",
         "bound"
       ],
-      "path": "skills\\async-python-patterns\\SKILL.md"
+      "path": "skills/async-python-patterns/SKILL.md"
     },
     {
       "id": "attack-tree-construction",
@@ -976,7 +976,7 @@
         "defense",
         "gaps"
       ],
-      "path": "skills\\attack-tree-construction\\SKILL.md"
+      "path": "skills/attack-tree-construction/SKILL.md"
     },
     {
       "id": "audio-transcriber",
@@ -1004,7 +1004,7 @@
         "documentation",
         "intelligent"
       ],
-      "path": "skills\\audio-transcriber\\SKILL.md"
+      "path": "skills/audio-transcriber/SKILL.md"
     },
     {
       "id": "automate-whatsapp",
@@ -1029,7 +1029,7 @@
         "functions",
         "databases"
       ],
-      "path": "skills\\automate-whatsapp\\SKILL.md"
+      "path": "skills/automate-whatsapp/SKILL.md"
     },
     {
       "id": "autonomous-agent-patterns",
@@ -1054,7 +1054,7 @@
         "human",
         "loop"
       ],
-      "path": "skills\\autonomous-agent-patterns\\SKILL.md"
+      "path": "skills/autonomous-agent-patterns/SKILL.md"
     },
     {
       "id": "autonomous-agents",
@@ -1079,7 +1079,7 @@
         "correct",
         "without"
       ],
-      "path": "skills\\autonomous-agents\\SKILL.md"
+      "path": "skills/autonomous-agents/SKILL.md"
     },
     {
       "id": "avalonia-layout-zafiro",
@@ -1105,7 +1105,7 @@
         "avoiding",
         "xaml"
       ],
-      "path": "skills\\avalonia-layout-zafiro\\SKILL.md"
+      "path": "skills/avalonia-layout-zafiro/SKILL.md"
     },
     {
       "id": "avalonia-viewmodels-zafiro",
@@ -1127,7 +1127,7 @@
         "creation",
         "reactiveui"
       ],
-      "path": "skills\\avalonia-viewmodels-zafiro\\SKILL.md"
+      "path": "skills/avalonia-viewmodels-zafiro/SKILL.md"
     },
     {
       "id": "avalonia-zafiro-development",
@@ -1150,7 +1150,7 @@
         "ui",
         "toolkit"
       ],
-      "path": "skills\\avalonia-zafiro-development\\SKILL.md"
+      "path": "skills/avalonia-zafiro-development/SKILL.md"
     },
     {
       "id": "azure-functions",
@@ -1175,7 +1175,7 @@
         "start",
         "optimization"
       ],
-      "path": "skills\\azure-functions\\SKILL.md"
+      "path": "skills/azure-functions/SKILL.md"
     },
     {
       "id": "backend-architect",
@@ -1199,7 +1199,7 @@
         "graphql",
         "grpc"
       ],
-      "path": "skills\\backend-architect\\SKILL.md"
+      "path": "skills/backend-architect/SKILL.md"
     },
     {
       "id": "backend-dev-guidelines",
@@ -1225,7 +1225,7 @@
         "microservices",
         "covers"
       ],
-      "path": "skills\\backend-dev-guidelines\\SKILL.md"
+      "path": "skills/backend-dev-guidelines/SKILL.md"
     },
     {
       "id": "backend-development-feature-development",
@@ -1248,7 +1248,7 @@
         "delivery",
         "teams"
       ],
-      "path": "skills\\backend-development-feature-development\\SKILL.md"
+      "path": "skills/backend-development-feature-development/SKILL.md"
     },
     {
       "id": "backtesting-frameworks",
@@ -1273,7 +1273,7 @@
         "transaction",
         "costs"
       ],
-      "path": "skills\\backtesting-frameworks\\SKILL.md"
+      "path": "skills/backtesting-frameworks/SKILL.md"
     },
     {
       "id": "bats-testing-patterns",
@@ -1297,7 +1297,7 @@
         "cd",
         "pipelines"
       ],
-      "path": "skills\\bats-testing-patterns\\SKILL.md"
+      "path": "skills/bats-testing-patterns/SKILL.md"
     },
     {
       "id": "bazel-build-optimization",
@@ -1323,7 +1323,7 @@
         "execution",
         "optimizing"
       ],
-      "path": "skills\\bazel-build-optimization\\SKILL.md"
+      "path": "skills/bazel-build-optimization/SKILL.md"
     },
     {
       "id": "behavioral-modes",
@@ -1348,7 +1348,7 @@
         "adapt",
         "behavior"
       ],
-      "path": "skills\\behavioral-modes\\SKILL.md"
+      "path": "skills/behavioral-modes/SKILL.md"
     },
     {
       "id": "binary-analysis-patterns",
@@ -1372,7 +1372,7 @@
         "executables",
         "understanding"
       ],
-      "path": "skills\\binary-analysis-patterns\\SKILL.md"
+      "path": "skills/binary-analysis-patterns/SKILL.md"
     },
     {
       "id": "blockchain-developer",
@@ -1396,7 +1396,7 @@
         "nft",
         "platforms"
       ],
-      "path": "skills\\blockchain-developer\\SKILL.md"
+      "path": "skills/blockchain-developer/SKILL.md"
     },
     {
       "id": "blockrun",
@@ -1420,7 +1420,7 @@
         "data",
         "explicitly"
       ],
-      "path": "skills\\blockrun\\SKILL.md"
+      "path": "skills/blockrun/SKILL.md"
     },
     {
       "id": "brainstorming",
@@ -1444,7 +1444,7 @@
         "behavior",
         "changes"
       ],
-      "path": "skills\\brainstorming\\SKILL.md"
+      "path": "skills/brainstorming/SKILL.md"
     },
     {
       "id": "brand-guidelines-anthropic",
@@ -1470,7 +1470,7 @@
         "may",
         "benefit"
       ],
-      "path": "skills\\brand-guidelines-anthropic\\SKILL.md"
+      "path": "skills/brand-guidelines-anthropic/SKILL.md"
     },
     {
       "id": "brand-guidelines-community",
@@ -1496,7 +1496,7 @@
         "artifact",
         "may"
       ],
-      "path": "skills\\brand-guidelines-community\\SKILL.md"
+      "path": "skills/brand-guidelines-community/SKILL.md"
     },
     {
       "id": "browser-automation",
@@ -1520,7 +1520,7 @@
         "between",
         "flaky"
       ],
-      "path": "skills\\browser-automation\\SKILL.md"
+      "path": "skills/browser-automation/SKILL.md"
     },
     {
       "id": "browser-extension-builder",
@@ -1546,7 +1546,7 @@
         "cross",
         "covers"
       ],
-      "path": "skills\\browser-extension-builder\\SKILL.md"
+      "path": "skills/browser-extension-builder/SKILL.md"
     },
     {
       "id": "bullmq-specialist",
@@ -1570,7 +1570,7 @@
         "node",
         "js"
       ],
-      "path": "skills\\bullmq-specialist\\SKILL.md"
+      "path": "skills/bullmq-specialist/SKILL.md"
     },
     {
       "id": "bun-development",
@@ -1594,7 +1594,7 @@
         "node",
         "js"
       ],
-      "path": "skills\\bun-development\\SKILL.md"
+      "path": "skills/bun-development/SKILL.md"
     },
     {
       "id": "burp-suite-testing",
@@ -1619,7 +1619,7 @@
         "intercept",
         "http"
       ],
-      "path": "skills\\burp-suite-testing\\SKILL.md"
+      "path": "skills/burp-suite-testing/SKILL.md"
     },
     {
       "id": "business-analyst",
@@ -1644,7 +1644,7 @@
         "driven",
         "insights"
       ],
-      "path": "skills\\business-analyst\\SKILL.md"
+      "path": "skills/business-analyst/SKILL.md"
     },
     {
       "id": "busybox-on-windows",
@@ -1669,7 +1669,7 @@
         "command",
         "line"
       ],
-      "path": "skills\\busybox-on-windows\\SKILL.md"
+      "path": "skills/busybox-on-windows/SKILL.md"
     },
     {
       "id": "c-pro",
@@ -1693,7 +1693,7 @@
         "embedded",
         "kernel"
       ],
-      "path": "skills\\c-pro\\SKILL.md"
+      "path": "skills/c-pro/SKILL.md"
     },
     {
       "id": "c4-architecture-c4-architecture",
@@ -1717,7 +1717,7 @@
         "analysis",
         "approach"
       ],
-      "path": "skills\\c4-architecture-c4-architecture\\SKILL.md"
+      "path": "skills/c4-architecture-c4-architecture/SKILL.md"
     },
     {
       "id": "c4-code",
@@ -1742,7 +1742,7 @@
         "dependencies",
         "structure"
       ],
-      "path": "skills\\c4-code\\SKILL.md"
+      "path": "skills/c4-code/SKILL.md"
     },
     {
       "id": "c4-component",
@@ -1767,7 +1767,7 @@
         "relationships",
         "creates"
       ],
-      "path": "skills\\c4-component\\SKILL.md"
+      "path": "skills/c4-component/SKILL.md"
     },
     {
       "id": "c4-container",
@@ -1792,7 +1792,7 @@
         "units",
         "documenting"
       ],
-      "path": "skills\\c4-container\\SKILL.md"
+      "path": "skills/c4-container/SKILL.md"
     },
     {
       "id": "c4-context",
@@ -1816,7 +1816,7 @@
         "journeys",
         "features"
       ],
-      "path": "skills\\c4-context\\SKILL.md"
+      "path": "skills/c4-context/SKILL.md"
     },
     {
       "id": "canvas-design",
@@ -1840,7 +1840,7 @@
         "user",
         "asks"
       ],
-      "path": "skills\\canvas-design\\SKILL.md"
+      "path": "skills/canvas-design/SKILL.md"
     },
     {
       "id": "cc-skill-backend-patterns",
@@ -1866,7 +1866,7 @@
         "js",
         "express"
       ],
-      "path": "skills\\cc-skill-backend-patterns\\SKILL.md"
+      "path": "skills/cc-skill-backend-patterns/SKILL.md"
     },
     {
       "id": "cc-skill-clickhouse-io",
@@ -1893,7 +1893,7 @@
         "high",
         "performance"
       ],
-      "path": "skills\\cc-skill-clickhouse-io\\SKILL.md"
+      "path": "skills/cc-skill-clickhouse-io/SKILL.md"
     },
     {
       "id": "cc-skill-coding-standards",
@@ -1919,7 +1919,7 @@
         "js",
         "development"
       ],
-      "path": "skills\\cc-skill-coding-standards\\SKILL.md"
+      "path": "skills/cc-skill-coding-standards/SKILL.md"
     },
     {
       "id": "cc-skill-frontend-patterns",
@@ -1944,7 +1944,7 @@
         "optimization",
         "ui"
       ],
-      "path": "skills\\cc-skill-frontend-patterns\\SKILL.md"
+      "path": "skills/cc-skill-frontend-patterns/SKILL.md"
     },
     {
       "id": "cc-skill-project-guidelines-example",
@@ -1963,7 +1963,7 @@
         "guidelines",
         "example"
       ],
-      "path": "skills\\cc-skill-project-guidelines-example\\SKILL.md"
+      "path": "skills/cc-skill-project-guidelines-example/SKILL.md"
     },
     {
       "id": "cc-skill-security-review",
@@ -1989,7 +1989,7 @@
         "secrets",
         "creating"
       ],
-      "path": "skills\\cc-skill-security-review\\SKILL.md"
+      "path": "skills/cc-skill-security-review/SKILL.md"
     },
     {
       "id": "cicd-automation-workflow-automate",
@@ -2014,7 +2014,7 @@
         "actions",
         "automated"
       ],
-      "path": "skills\\cicd-automation-workflow-automate\\SKILL.md"
+      "path": "skills/cicd-automation-workflow-automate/SKILL.md"
     },
     {
       "id": "claude-code-guide",
@@ -2039,7 +2039,7 @@
         "interacting",
         "agent"
       ],
-      "path": "skills\\claude-code-guide\\SKILL.md"
+      "path": "skills/claude-code-guide/SKILL.md"
     },
     {
       "id": "claude-d3js-skill",
@@ -2065,7 +2065,7 @@
         "should",
         "used"
       ],
-      "path": "skills\\claude-d3js-skill\\SKILL.md"
+      "path": "skills/claude-d3js-skill/SKILL.md"
     },
     {
       "id": "clean-code",
@@ -2090,7 +2090,7 @@
         "high",
         "quality"
       ],
-      "path": "skills\\clean-code\\SKILL.md"
+      "path": "skills/clean-code/SKILL.md"
     },
     {
       "id": "cloud-architect",
@@ -2114,7 +2114,7 @@
         "opentofu",
         "cdk"
       ],
-      "path": "skills\\cloud-architect\\SKILL.md"
+      "path": "skills/cloud-architect/SKILL.md"
     },
     {
       "id": "code-documentation-code-explain",
@@ -2140,7 +2140,7 @@
         "visual",
         "diagrams"
       ],
-      "path": "skills\\code-documentation-code-explain\\SKILL.md"
+      "path": "skills/code-documentation-code-explain/SKILL.md"
     },
     {
       "id": "code-documentation-doc-generate",
@@ -2167,7 +2167,7 @@
         "diagrams",
         "user"
       ],
-      "path": "skills\\code-documentation-doc-generate\\SKILL.md"
+      "path": "skills/code-documentation-doc-generate/SKILL.md"
     },
     {
       "id": "code-refactoring-context-restore",
@@ -2186,7 +2186,7 @@
         "context",
         "working"
       ],
-      "path": "skills\\code-refactoring-context-restore\\SKILL.md"
+      "path": "skills/code-refactoring-context-restore/SKILL.md"
     },
     {
       "id": "code-refactoring-refactor-clean",
@@ -2213,7 +2213,7 @@
         "provided",
         "improve"
       ],
-      "path": "skills\\code-refactoring-refactor-clean\\SKILL.md"
+      "path": "skills/code-refactoring-refactor-clean/SKILL.md"
     },
     {
       "id": "code-refactoring-tech-debt",
@@ -2240,7 +2240,7 @@
         "analyze",
         "codebase"
       ],
-      "path": "skills\\code-refactoring-tech-debt\\SKILL.md"
+      "path": "skills/code-refactoring-tech-debt/SKILL.md"
     },
     {
       "id": "code-review-ai-ai-review",
@@ -2265,7 +2265,7 @@
         "devops",
         "leverage"
       ],
-      "path": "skills\\code-review-ai-ai-review\\SKILL.md"
+      "path": "skills/code-review-ai-ai-review/SKILL.md"
     },
     {
       "id": "code-review-checklist",
@@ -2289,7 +2289,7 @@
         "performance",
         "maintainability"
       ],
-      "path": "skills\\code-review-checklist\\SKILL.md"
+      "path": "skills/code-review-checklist/SKILL.md"
     },
     {
       "id": "code-review-excellence",
@@ -2314,7 +2314,7 @@
         "foster",
         "knowledge"
       ],
-      "path": "skills\\code-review-excellence\\SKILL.md"
+      "path": "skills/code-review-excellence/SKILL.md"
     },
     {
       "id": "code-reviewer",
@@ -2338,7 +2338,7 @@
         "performance",
         "optimization"
       ],
-      "path": "skills\\code-reviewer\\SKILL.md"
+      "path": "skills/code-reviewer/SKILL.md"
     },
     {
       "id": "codebase-cleanup-deps-audit",
@@ -2365,7 +2365,7 @@
         "compliance",
         "supply"
       ],
-      "path": "skills\\codebase-cleanup-deps-audit\\SKILL.md"
+      "path": "skills/codebase-cleanup-deps-audit/SKILL.md"
     },
     {
       "id": "codebase-cleanup-refactor-clean",
@@ -2392,7 +2392,7 @@
         "engineering",
         "analyze"
       ],
-      "path": "skills\\codebase-cleanup-refactor-clean\\SKILL.md"
+      "path": "skills/codebase-cleanup-refactor-clean/SKILL.md"
     },
     {
       "id": "codebase-cleanup-tech-debt",
@@ -2419,7 +2419,7 @@
         "analyze",
         "uncover"
       ],
-      "path": "skills\\codebase-cleanup-tech-debt\\SKILL.md"
+      "path": "skills/codebase-cleanup-tech-debt/SKILL.md"
     },
     {
       "id": "codex-review",
@@ -2440,7 +2440,7 @@
         "integrated",
         "ai"
       ],
-      "path": "skills\\codex-review\\SKILL.md"
+      "path": "skills/codex-review/SKILL.md"
     },
     {
       "id": "commit",
@@ -2464,7 +2464,7 @@
         "git",
         "history"
       ],
-      "path": "skills\\commit\\SKILL.md"
+      "path": "skills/commit/SKILL.md"
     },
     {
       "id": "competitive-landscape",
@@ -2489,7 +2489,7 @@
         "identify",
         "differentiation"
       ],
-      "path": "skills\\competitive-landscape\\SKILL.md"
+      "path": "skills/competitive-landscape/SKILL.md"
     },
     {
       "id": "competitor-alternatives",
@@ -2514,7 +2514,7 @@
         "mentions",
         "page"
       ],
-      "path": "skills\\competitor-alternatives\\SKILL.md"
+      "path": "skills/competitor-alternatives/SKILL.md"
     },
     {
       "id": "comprehensive-review-full-review",
@@ -2531,7 +2531,7 @@
         "review",
         "working"
       ],
-      "path": "skills\\comprehensive-review-full-review\\SKILL.md"
+      "path": "skills/comprehensive-review-full-review/SKILL.md"
     },
     {
       "id": "comprehensive-review-pr-enhance",
@@ -2557,7 +2557,7 @@
         "requests",
         "facilitate"
       ],
-      "path": "skills\\comprehensive-review-pr-enhance\\SKILL.md"
+      "path": "skills/comprehensive-review-pr-enhance/SKILL.md"
     },
     {
       "id": "computer-use-agents",
@@ -2583,7 +2583,7 @@
         "screens",
         "moving"
       ],
-      "path": "skills\\computer-use-agents\\SKILL.md"
+      "path": "skills/computer-use-agents/SKILL.md"
     },
     {
       "id": "computer-vision-expert",
@@ -2608,7 +2608,7 @@
         "models",
         "real"
       ],
-      "path": "skills\\computer-vision-expert\\SKILL.md"
+      "path": "skills/computer-vision-expert/SKILL.md"
     },
     {
       "id": "concise-planning",
@@ -2633,7 +2633,7 @@
         "atomic",
         "checklist"
       ],
-      "path": "skills\\concise-planning\\SKILL.md"
+      "path": "skills/concise-planning/SKILL.md"
     },
     {
       "id": "conductor-implement",
@@ -2654,7 +2654,7 @@
         "following",
         "tdd"
       ],
-      "path": "skills\\conductor-implement\\SKILL.md"
+      "path": "skills/conductor-implement/SKILL.md"
     },
     {
       "id": "conductor-manage",
@@ -2676,7 +2676,7 @@
         "rename",
         "cleanup"
       ],
-      "path": "skills\\conductor-manage\\SKILL.md"
+      "path": "skills/conductor-manage/SKILL.md"
     },
     {
       "id": "conductor-new-track",
@@ -2696,7 +2696,7 @@
         "phased",
         "plan"
       ],
-      "path": "skills\\conductor-new-track\\SKILL.md"
+      "path": "skills/conductor-new-track/SKILL.md"
     },
     {
       "id": "conductor-revert",
@@ -2720,7 +2720,7 @@
         "phase",
         "task"
       ],
-      "path": "skills\\conductor-revert\\SKILL.md"
+      "path": "skills/conductor-revert/SKILL.md"
     },
     {
       "id": "conductor-setup",
@@ -2743,7 +2743,7 @@
         "style",
         "guides"
       ],
-      "path": "skills\\conductor-setup\\SKILL.md"
+      "path": "skills/conductor-setup/SKILL.md"
     },
     {
       "id": "conductor-status",
@@ -2763,7 +2763,7 @@
         "next",
         "actions"
       ],
-      "path": "skills\\conductor-status\\SKILL.md"
+      "path": "skills/conductor-status/SKILL.md"
     },
     {
       "id": "conductor-validator",
@@ -2788,7 +2788,7 @@
         "issues",
         "before"
       ],
-      "path": "skills\\conductor-validator\\SKILL.md"
+      "path": "skills/conductor-validator/SKILL.md"
     },
     {
       "id": "content-creator",
@@ -2813,7 +2813,7 @@
         "optimizer",
         "frameworks"
       ],
-      "path": "skills\\content-creator\\SKILL.md"
+      "path": "skills/content-creator/SKILL.md"
     },
     {
       "id": "content-marketer",
@@ -2838,7 +2838,7 @@
         "distribution",
         "seo"
       ],
-      "path": "skills\\content-marketer\\SKILL.md"
+      "path": "skills/content-marketer/SKILL.md"
     },
     {
       "id": "context-compression",
@@ -2856,7 +2856,7 @@
         "running",
         "sessions"
       ],
-      "path": "skills\\context-compression\\SKILL.md"
+      "path": "skills/context-compression/SKILL.md"
     },
     {
       "id": "context-degradation",
@@ -2877,7 +2877,7 @@
         "distraction",
         "clash"
       ],
-      "path": "skills\\context-degradation\\SKILL.md"
+      "path": "skills/context-degradation/SKILL.md"
     },
     {
       "id": "context-driven-development",
@@ -2901,7 +2901,7 @@
         "relationship",
         "between"
       ],
-      "path": "skills\\context-driven-development\\SKILL.md"
+      "path": "skills/context-driven-development/SKILL.md"
     },
     {
       "id": "context-fundamentals",
@@ -2921,7 +2921,7 @@
         "anatomy",
         "agent"
       ],
-      "path": "skills\\context-fundamentals\\SKILL.md"
+      "path": "skills/context-fundamentals/SKILL.md"
     },
     {
       "id": "context-management-context-restore",
@@ -2936,7 +2936,7 @@
         "context",
         "working"
       ],
-      "path": "skills\\context-management-context-restore\\SKILL.md"
+      "path": "skills/context-management-context-restore/SKILL.md"
     },
     {
       "id": "context-management-context-save",
@@ -2951,7 +2951,7 @@
         "context",
         "working"
       ],
-      "path": "skills\\context-management-context-save\\SKILL.md"
+      "path": "skills/context-management-context-save/SKILL.md"
     },
     {
       "id": "context-manager",
@@ -2975,7 +2975,7 @@
         "graphs",
         "intelligent"
       ],
-      "path": "skills\\context-manager\\SKILL.md"
+      "path": "skills/context-manager/SKILL.md"
     },
     {
       "id": "context-optimization",
@@ -2993,7 +2993,7 @@
         "masking",
         "caching"
       ],
-      "path": "skills\\context-optimization\\SKILL.md"
+      "path": "skills/context-optimization/SKILL.md"
     },
     {
       "id": "context-window-management",
@@ -3017,7 +3017,7 @@
         "rot",
         "token"
       ],
-      "path": "skills\\context-window-management\\SKILL.md"
+      "path": "skills/context-window-management/SKILL.md"
     },
     {
       "id": "context7-auto-research",
@@ -3043,7 +3043,7 @@
         "code",
         "via"
       ],
-      "path": "skills\\context7-auto-research\\SKILL.md"
+      "path": "skills/context7-auto-research/SKILL.md"
     },
     {
       "id": "conversation-memory",
@@ -3068,7 +3068,7 @@
         "remember",
         "persistence"
       ],
-      "path": "skills\\conversation-memory\\SKILL.md"
+      "path": "skills/conversation-memory/SKILL.md"
     },
     {
       "id": "copy-editing",
@@ -3093,7 +3093,7 @@
         "my",
         "feedback"
       ],
-      "path": "skills\\copy-editing\\SKILL.md"
+      "path": "skills/copy-editing/SKILL.md"
     },
     {
       "id": "copywriting",
@@ -3117,7 +3117,7 @@
         "landing",
         "pricing"
       ],
-      "path": "skills\\copywriting\\SKILL.md"
+      "path": "skills/copywriting/SKILL.md"
     },
     {
       "id": "core-components",
@@ -3138,7 +3138,7 @@
         "tokens",
         "working"
       ],
-      "path": "skills\\core-components\\SKILL.md"
+      "path": "skills/core-components/SKILL.md"
     },
     {
       "id": "cost-optimization",
@@ -3163,7 +3163,7 @@
         "instances",
         "spending"
       ],
-      "path": "skills\\cost-optimization\\SKILL.md"
+      "path": "skills/cost-optimization/SKILL.md"
     },
     {
       "id": "cpp-pro",
@@ -3187,7 +3187,7 @@
         "algorithms",
         "move"
       ],
-      "path": "skills\\cpp-pro\\SKILL.md"
+      "path": "skills/cpp-pro/SKILL.md"
     },
     {
       "id": "cqrs-implementation",
@@ -3211,7 +3211,7 @@
         "models",
         "optimizing"
       ],
-      "path": "skills\\cqrs-implementation\\SKILL.md"
+      "path": "skills/cqrs-implementation/SKILL.md"
     },
     {
       "id": "create-pr",
@@ -3236,7 +3236,7 @@
         "descriptions",
         "preparing"
       ],
-      "path": "skills\\create-pr\\SKILL.md"
+      "path": "skills/create-pr/SKILL.md"
     },
     {
       "id": "crewai",
@@ -3260,7 +3260,7 @@
         "companies",
         "covers"
       ],
-      "path": "skills\\crewai\\SKILL.md"
+      "path": "skills/crewai/SKILL.md"
     },
     {
       "id": "csharp-pro",
@@ -3284,7 +3284,7 @@
         "optimizes",
         "net"
       ],
-      "path": "skills\\csharp-pro\\SKILL.md"
+      "path": "skills/csharp-pro/SKILL.md"
     },
     {
       "id": "culture-index",
@@ -3301,7 +3301,7 @@
         "search",
         "documentation"
       ],
-      "path": "skills\\culture-index\\SKILL.md"
+      "path": "skills/culture-index/SKILL.md"
     },
     {
       "id": "customer-support",
@@ -3326,7 +3326,7 @@
         "analysis",
         "omnichannel"
       ],
-      "path": "skills\\customer-support\\SKILL.md"
+      "path": "skills/customer-support/SKILL.md"
     },
     {
       "id": "daily-news-report",
@@ -3352,7 +3352,7 @@
         "quality",
         "technical"
       ],
-      "path": "skills\\daily-news-report\\SKILL.md"
+      "path": "skills/daily-news-report/SKILL.md"
     },
     {
       "id": "data-engineer",
@@ -3376,7 +3376,7 @@
         "apache",
         "spark"
       ],
-      "path": "skills\\data-engineer\\SKILL.md"
+      "path": "skills/data-engineer/SKILL.md"
     },
     {
       "id": "data-engineering-data-driven-feature",
@@ -3402,7 +3402,7 @@
         "specialized",
         "agents"
       ],
-      "path": "skills\\data-engineering-data-driven-feature\\SKILL.md"
+      "path": "skills/data-engineering-data-driven-feature/SKILL.md"
     },
     {
       "id": "data-engineering-data-pipeline",
@@ -3428,7 +3428,7 @@
         "batch",
         "streaming"
       ],
-      "path": "skills\\data-engineering-data-pipeline\\SKILL.md"
+      "path": "skills/data-engineering-data-pipeline/SKILL.md"
     },
     {
       "id": "data-quality-frameworks",
@@ -3454,7 +3454,7 @@
         "pipelines",
         "implementing"
       ],
-      "path": "skills\\data-quality-frameworks\\SKILL.md"
+      "path": "skills/data-quality-frameworks/SKILL.md"
     },
     {
       "id": "data-scientist",
@@ -3479,7 +3479,7 @@
         "business",
         "intelligence"
       ],
-      "path": "skills\\data-scientist\\SKILL.md"
+      "path": "skills/data-scientist/SKILL.md"
     },
     {
       "id": "data-storytelling",
@@ -3504,7 +3504,7 @@
         "analytics",
         "stakeholders"
       ],
-      "path": "skills\\data-storytelling\\SKILL.md"
+      "path": "skills/data-storytelling/SKILL.md"
     },
     {
       "id": "database-admin",
@@ -3529,7 +3529,7 @@
         "aws",
         "azure"
       ],
-      "path": "skills\\database-admin\\SKILL.md"
+      "path": "skills/database-admin/SKILL.md"
     },
     {
       "id": "database-architect",
@@ -3553,7 +3553,7 @@
         "scalable",
         "architectures"
       ],
-      "path": "skills\\database-architect\\SKILL.md"
+      "path": "skills/database-architect/SKILL.md"
     },
     {
       "id": "database-cloud-optimization-cost-optimize",
@@ -3581,7 +3581,7 @@
         "maintaining",
         "performance"
       ],
-      "path": "skills\\database-cloud-optimization-cost-optimize\\SKILL.md"
+      "path": "skills/database-cloud-optimization-cost-optimize/SKILL.md"
     },
     {
       "id": "database-design",
@@ -3603,7 +3603,7 @@
         "serverless",
         "databases"
       ],
-      "path": "skills\\database-design\\SKILL.md"
+      "path": "skills/database-design/SKILL.md"
     },
     {
       "id": "database-migration",
@@ -3628,7 +3628,7 @@
         "rollback",
         "procedures"
       ],
-      "path": "skills\\database-migration\\SKILL.md"
+      "path": "skills/database-migration/SKILL.md"
     },
     {
       "id": "database-migrations-migration-observability",
@@ -3657,7 +3657,7 @@
         "observability",
         "infrastructure"
       ],
-      "path": "skills\\database-migrations-migration-observability\\SKILL.md"
+      "path": "skills/database-migrations-migration-observability/SKILL.md"
     },
     {
       "id": "database-migrations-sql-migrations",
@@ -3689,7 +3689,7 @@
         "downtime",
         "server"
       ],
-      "path": "skills\\database-migrations-sql-migrations\\SKILL.md"
+      "path": "skills/database-migrations-sql-migrations/SKILL.md"
     },
     {
       "id": "database-optimizer",
@@ -3714,7 +3714,7 @@
         "indexing",
         "resolution"
       ],
-      "path": "skills\\database-optimizer\\SKILL.md"
+      "path": "skills/database-optimizer/SKILL.md"
     },
     {
       "id": "dbt-transformation-patterns",
@@ -3739,7 +3739,7 @@
         "building",
         "transformations"
       ],
-      "path": "skills\\dbt-transformation-patterns\\SKILL.md"
+      "path": "skills/dbt-transformation-patterns/SKILL.md"
     },
     {
       "id": "debugger",
@@ -3762,7 +3762,7 @@
         "any",
         "issues"
       ],
-      "path": "skills\\debugger\\SKILL.md"
+      "path": "skills/debugger/SKILL.md"
     },
     {
       "id": "debugging-strategies",
@@ -3787,7 +3787,7 @@
         "down",
         "bugs"
       ],
-      "path": "skills\\debugging-strategies\\SKILL.md"
+      "path": "skills/debugging-strategies/SKILL.md"
     },
     {
       "id": "debugging-toolkit-smart-debug",
@@ -3805,7 +3805,7 @@
         "smart",
         "working"
       ],
-      "path": "skills\\debugging-toolkit-smart-debug\\SKILL.md"
+      "path": "skills/debugging-toolkit-smart-debug/SKILL.md"
     },
     {
       "id": "deep-research",
@@ -3830,7 +3830,7 @@
         "analysis",
         "competitive"
       ],
-      "path": "skills\\deep-research\\SKILL.md"
+      "path": "skills/deep-research/SKILL.md"
     },
     {
       "id": "defi-protocol-templates",
@@ -3855,7 +3855,7 @@
         "applications",
         "smart"
       ],
-      "path": "skills\\defi-protocol-templates\\SKILL.md"
+      "path": "skills/defi-protocol-templates/SKILL.md"
     },
     {
       "id": "dependency-management-deps-audit",
@@ -3881,7 +3881,7 @@
         "chain",
         "analyze"
       ],
-      "path": "skills\\dependency-management-deps-audit\\SKILL.md"
+      "path": "skills/dependency-management-deps-audit/SKILL.md"
     },
     {
       "id": "dependency-upgrade",
@@ -3906,7 +3906,7 @@
         "upgrading",
         "framework"
       ],
-      "path": "skills\\dependency-upgrade\\SKILL.md"
+      "path": "skills/dependency-upgrade/SKILL.md"
     },
     {
       "id": "deployment-engineer",
@@ -3930,7 +3930,7 @@
         "actions",
         "argocd"
       ],
-      "path": "skills\\deployment-engineer\\SKILL.md"
+      "path": "skills/deployment-engineer/SKILL.md"
     },
     {
       "id": "deployment-pipeline-design",
@@ -3955,7 +3955,7 @@
         "checks",
         "orchestration"
       ],
-      "path": "skills\\deployment-pipeline-design\\SKILL.md"
+      "path": "skills/deployment-pipeline-design/SKILL.md"
     },
     {
       "id": "deployment-procedures",
@@ -3979,7 +3979,7 @@
         "thinking",
         "scripts"
       ],
-      "path": "skills\\deployment-procedures\\SKILL.md"
+      "path": "skills/deployment-procedures/SKILL.md"
     },
     {
       "id": "deployment-validation-config-validate",
@@ -4006,7 +4006,7 @@
         "application",
         "configurations"
       ],
-      "path": "skills\\deployment-validation-config-validate\\SKILL.md"
+      "path": "skills/deployment-validation-config-validate/SKILL.md"
     },
     {
       "id": "design-md",
@@ -4024,7 +4024,7 @@
         "semantic",
         "files"
       ],
-      "path": "skills\\design-md\\SKILL.md"
+      "path": "skills/design-md/SKILL.md"
     },
     {
       "id": "design-orchestration",
@@ -4046,7 +4046,7 @@
         "readiness",
         "correct"
       ],
-      "path": "skills\\design-orchestration\\SKILL.md"
+      "path": "skills/design-orchestration/SKILL.md"
     },
     {
       "id": "devops-troubleshooter",
@@ -4071,7 +4071,7 @@
         "analysis",
         "distributed"
       ],
-      "path": "skills\\devops-troubleshooter\\SKILL.md"
+      "path": "skills/devops-troubleshooter/SKILL.md"
     },
     {
       "id": "discord-bot-architect",
@@ -4096,7 +4096,7 @@
         "pycord",
         "python"
       ],
-      "path": "skills\\discord-bot-architect\\SKILL.md"
+      "path": "skills/discord-bot-architect/SKILL.md"
     },
     {
       "id": "dispatching-parallel-agents",
@@ -4122,7 +4122,7 @@
         "sequential",
         "dependencies"
       ],
-      "path": "skills\\dispatching-parallel-agents\\SKILL.md"
+      "path": "skills/dispatching-parallel-agents/SKILL.md"
     },
     {
       "id": "distributed-debugging-debug-trace",
@@ -4149,7 +4149,7 @@
         "configure",
         "solutions"
       ],
-      "path": "skills\\distributed-debugging-debug-trace\\SKILL.md"
+      "path": "skills/distributed-debugging-debug-trace/SKILL.md"
     },
     {
       "id": "distributed-tracing",
@@ -4174,7 +4174,7 @@
         "debugging",
         "analyzing"
       ],
-      "path": "skills\\distributed-tracing\\SKILL.md"
+      "path": "skills/distributed-tracing/SKILL.md"
     },
     {
       "id": "django-pro",
@@ -4198,7 +4198,7 @@
         "proper",
         "architecture"
       ],
-      "path": "skills\\django-pro\\SKILL.md"
+      "path": "skills/django-pro/SKILL.md"
     },
     {
       "id": "doc-coauthoring",
@@ -4223,7 +4223,7 @@
         "write",
         "proposals"
       ],
-      "path": "skills\\doc-coauthoring\\SKILL.md"
+      "path": "skills/doc-coauthoring/SKILL.md"
     },
     {
       "id": "docs-architect",
@@ -4247,7 +4247,7 @@
         "produce",
         "long"
       ],
-      "path": "skills\\docs-architect\\SKILL.md"
+      "path": "skills/docs-architect/SKILL.md"
     },
     {
       "id": "documentation-generation-doc-generate",
@@ -4274,7 +4274,7 @@
         "architecture",
         "diagrams"
       ],
-      "path": "skills\\documentation-generation-doc-generate\\SKILL.md"
+      "path": "skills/documentation-generation-doc-generate/SKILL.md"
     },
     {
       "id": "documentation-templates",
@@ -4296,7 +4296,7 @@
         "ai",
         "friendly"
       ],
-      "path": "skills\\documentation-templates\\SKILL.md"
+      "path": "skills/documentation-templates/SKILL.md"
     },
     {
       "id": "docx-official",
@@ -4321,7 +4321,7 @@
         "preservation",
         "text"
       ],
-      "path": "skills\\docx-official\\SKILL.md"
+      "path": "skills/docx-official/SKILL.md"
     },
     {
       "id": "dotnet-architect",
@@ -4345,7 +4345,7 @@
         "enterprise",
         "application"
       ],
-      "path": "skills\\dotnet-architect\\SKILL.md"
+      "path": "skills/dotnet-architect/SKILL.md"
     },
     {
       "id": "dotnet-backend",
@@ -4368,7 +4368,7 @@
         "jobs",
         "api"
       ],
-      "path": "skills\\dotnet-backend\\SKILL.md"
+      "path": "skills/dotnet-backend/SKILL.md"
     },
     {
       "id": "dotnet-backend-patterns",
@@ -4393,7 +4393,7 @@
         "applications",
         "covers"
       ],
-      "path": "skills\\dotnet-backend-patterns\\SKILL.md"
+      "path": "skills/dotnet-backend-patterns/SKILL.md"
     },
     {
       "id": "dx-optimizer",
@@ -4418,7 +4418,7 @@
         "new",
         "after"
       ],
-      "path": "skills\\dx-optimizer\\SKILL.md"
+      "path": "skills/dx-optimizer/SKILL.md"
     },
     {
       "id": "e2e-testing-patterns",
@@ -4442,7 +4442,7 @@
         "confidence",
         "enable"
       ],
-      "path": "skills\\e2e-testing-patterns\\SKILL.md"
+      "path": "skills/e2e-testing-patterns/SKILL.md"
     },
     {
       "id": "elixir-pro",
@@ -4466,7 +4466,7 @@
         "masters",
         "concurrency"
       ],
-      "path": "skills\\elixir-pro\\SKILL.md"
+      "path": "skills/elixir-pro/SKILL.md"
     },
     {
       "id": "email-sequence",
@@ -4491,7 +4491,7 @@
         "program",
         "mentions"
       ],
-      "path": "skills\\email-sequence\\SKILL.md"
+      "path": "skills/email-sequence/SKILL.md"
     },
     {
       "id": "email-systems",
@@ -4515,7 +4515,7 @@
         "most",
         "startups"
       ],
-      "path": "skills\\email-systems\\SKILL.md"
+      "path": "skills/email-systems/SKILL.md"
     },
     {
       "id": "embedding-strategies",
@@ -4540,7 +4540,7 @@
         "implementing",
         "chunking"
       ],
-      "path": "skills\\embedding-strategies\\SKILL.md"
+      "path": "skills/embedding-strategies/SKILL.md"
     },
     {
       "id": "employment-contract-templates",
@@ -4565,7 +4565,7 @@
         "drafting",
         "agreements"
       ],
-      "path": "skills\\employment-contract-templates\\SKILL.md"
+      "path": "skills/employment-contract-templates/SKILL.md"
     },
     {
       "id": "environment-setup-guide",
@@ -4589,7 +4589,7 @@
         "dependencies",
         "configurations"
       ],
-      "path": "skills\\environment-setup-guide\\SKILL.md"
+      "path": "skills/environment-setup-guide/SKILL.md"
     },
     {
       "id": "error-debugging-error-analysis",
@@ -4613,7 +4613,7 @@
         "observability",
         "solutions"
       ],
-      "path": "skills\\error-debugging-error-analysis\\SKILL.md"
+      "path": "skills/error-debugging-error-analysis/SKILL.md"
     },
     {
       "id": "error-debugging-error-trace",
@@ -4639,7 +4639,7 @@
         "up",
         "configure"
       ],
-      "path": "skills\\error-debugging-error-trace\\SKILL.md"
+      "path": "skills/error-debugging-error-trace/SKILL.md"
     },
     {
       "id": "error-debugging-multi-agent-review",
@@ -4660,7 +4660,7 @@
         "review",
         "working"
       ],
-      "path": "skills\\error-debugging-multi-agent-review\\SKILL.md"
+      "path": "skills/error-debugging-multi-agent-review/SKILL.md"
     },
     {
       "id": "error-detective",
@@ -4685,7 +4685,7 @@
         "identifies",
         "root"
       ],
-      "path": "skills\\error-detective\\SKILL.md"
+      "path": "skills/error-detective/SKILL.md"
     },
     {
       "id": "error-diagnostics-error-analysis",
@@ -4710,7 +4710,7 @@
         "observability",
         "solutions"
       ],
-      "path": "skills\\error-diagnostics-error-analysis\\SKILL.md"
+      "path": "skills/error-diagnostics-error-analysis/SKILL.md"
     },
     {
       "id": "error-diagnostics-error-trace",
@@ -4736,7 +4736,7 @@
         "up",
         "configure"
       ],
-      "path": "skills\\error-diagnostics-error-trace\\SKILL.md"
+      "path": "skills/error-diagnostics-error-trace/SKILL.md"
     },
     {
       "id": "error-diagnostics-smart-debug",
@@ -4755,7 +4755,7 @@
         "smart",
         "working"
       ],
-      "path": "skills\\error-diagnostics-smart-debug\\SKILL.md"
+      "path": "skills/error-diagnostics-smart-debug/SKILL.md"
     },
     {
       "id": "error-handling-patterns",
@@ -4780,7 +4780,7 @@
         "resilient",
         "applications"
       ],
-      "path": "skills\\error-handling-patterns\\SKILL.md"
+      "path": "skills/error-handling-patterns/SKILL.md"
     },
     {
       "id": "ethical-hacking-methodology",
@@ -4806,7 +4806,7 @@
         "penetration",
         "testing"
       ],
-      "path": "skills\\ethical-hacking-methodology\\SKILL.md"
+      "path": "skills/ethical-hacking-methodology/SKILL.md"
     },
     {
       "id": "evaluation",
@@ -4821,7 +4821,7 @@
         "frameworks",
         "agent"
       ],
-      "path": "skills\\evaluation\\SKILL.md"
+      "path": "skills/evaluation/SKILL.md"
     },
     {
       "id": "event-sourcing-architect",
@@ -4846,7 +4846,7 @@
         "saga",
         "orchestration"
       ],
-      "path": "skills\\event-sourcing-architect\\SKILL.md"
+      "path": "skills/event-sourcing-architect/SKILL.md"
     },
     {
       "id": "event-store-design",
@@ -4870,7 +4870,7 @@
         "implementing",
         "persistence"
       ],
-      "path": "skills\\event-store-design\\SKILL.md"
+      "path": "skills/event-store-design/SKILL.md"
     },
     {
       "id": "exa-search",
@@ -4892,7 +4892,7 @@
         "research",
         "api"
       ],
-      "path": "skills\\exa-search\\SKILL.md"
+      "path": "skills/exa-search/SKILL.md"
     },
     {
       "id": "executing-plans",
@@ -4914,7 +4914,7 @@
         "review",
         "checkpoints"
       ],
-      "path": "skills\\executing-plans\\SKILL.md"
+      "path": "skills/executing-plans/SKILL.md"
     },
     {
       "id": "expo-deployment",
@@ -4931,7 +4931,7 @@
         "deploy",
         "apps"
       ],
-      "path": "skills\\expo-deployment\\SKILL.md"
+      "path": "skills/expo-deployment/SKILL.md"
     },
     {
       "id": "fastapi-pro",
@@ -4955,7 +4955,7 @@
         "websockets",
         "python"
       ],
-      "path": "skills\\fastapi-pro\\SKILL.md"
+      "path": "skills/fastapi-pro/SKILL.md"
     },
     {
       "id": "fastapi-templates",
@@ -4979,7 +4979,7 @@
         "up",
         "backend"
       ],
-      "path": "skills\\fastapi-templates\\SKILL.md"
+      "path": "skills/fastapi-templates/SKILL.md"
     },
     {
       "id": "file-organizer",
@@ -5004,7 +5004,7 @@
         "suggesting",
         "better"
       ],
-      "path": "skills\\file-organizer\\SKILL.md"
+      "path": "skills/file-organizer/SKILL.md"
     },
     {
       "id": "file-path-traversal",
@@ -5030,7 +5030,7 @@
         "directory",
         "exploit"
       ],
-      "path": "skills\\file-path-traversal\\SKILL.md"
+      "path": "skills/file-path-traversal/SKILL.md"
     },
     {
       "id": "file-uploads",
@@ -5055,7 +5055,7 @@
         "urls",
         "multipart"
       ],
-      "path": "skills\\file-uploads\\SKILL.md"
+      "path": "skills/file-uploads/SKILL.md"
     },
     {
       "id": "find-bugs",
@@ -5080,7 +5080,7 @@
         "asked",
         "review"
       ],
-      "path": "skills\\find-bugs\\SKILL.md"
+      "path": "skills/find-bugs/SKILL.md"
     },
     {
       "id": "finishing-a-development-branch",
@@ -5106,7 +5106,7 @@
         "integrate",
         "work"
       ],
-      "path": "skills\\finishing-a-development-branch\\SKILL.md"
+      "path": "skills/finishing-a-development-branch/SKILL.md"
     },
     {
       "id": "firebase",
@@ -5130,7 +5130,7 @@
         "ease",
         "setup"
       ],
-      "path": "skills\\firebase\\SKILL.md"
+      "path": "skills/firebase/SKILL.md"
     },
     {
       "id": "firecrawl-scraper",
@@ -5154,7 +5154,7 @@
         "crawling",
         "api"
       ],
-      "path": "skills\\firecrawl-scraper\\SKILL.md"
+      "path": "skills/firecrawl-scraper/SKILL.md"
     },
     {
       "id": "firmware-analyst",
@@ -5179,7 +5179,7 @@
         "extraction",
         "analysis"
       ],
-      "path": "skills\\firmware-analyst\\SKILL.md"
+      "path": "skills/firmware-analyst/SKILL.md"
     },
     {
       "id": "fix-review",
@@ -5201,7 +5201,7 @@
         "new",
         "bugs"
       ],
-      "path": "skills\\fix-review\\SKILL.md"
+      "path": "skills/fix-review/SKILL.md"
     },
     {
       "id": "flutter-expert",
@@ -5225,7 +5225,7 @@
         "performance",
         "optimization"
       ],
-      "path": "skills\\flutter-expert\\SKILL.md"
+      "path": "skills/flutter-expert/SKILL.md"
     },
     {
       "id": "form-cro",
@@ -5250,7 +5250,7 @@
         "contact",
         "demo"
       ],
-      "path": "skills\\form-cro\\SKILL.md"
+      "path": "skills/form-cro/SKILL.md"
     },
     {
       "id": "fp-ts-errors",
@@ -5276,7 +5276,7 @@
         "code",
         "implementing"
       ],
-      "path": "skills\\fp-ts-errors\\SKILL.md"
+      "path": "skills/fp-ts-errors/SKILL.md"
     },
     {
       "id": "fp-ts-pragmatic",
@@ -5302,7 +5302,7 @@
         "approach",
         "gets"
       ],
-      "path": "skills\\fp-ts-pragmatic\\SKILL.md"
+      "path": "skills/fp-ts-pragmatic/SKILL.md"
     },
     {
       "id": "framework-migration-code-migrate",
@@ -5329,7 +5329,7 @@
         "versions",
         "platforms"
       ],
-      "path": "skills\\framework-migration-code-migrate\\SKILL.md"
+      "path": "skills/framework-migration-code-migrate/SKILL.md"
     },
     {
       "id": "framework-migration-deps-upgrade",
@@ -5356,7 +5356,7 @@
         "plan",
         "execute"
       ],
-      "path": "skills\\framework-migration-deps-upgrade\\SKILL.md"
+      "path": "skills/framework-migration-deps-upgrade/SKILL.md"
     },
     {
       "id": "framework-migration-legacy-modernize",
@@ -5383,7 +5383,7 @@
         "replacement",
         "outdated"
       ],
-      "path": "skills\\framework-migration-legacy-modernize\\SKILL.md"
+      "path": "skills/framework-migration-legacy-modernize/SKILL.md"
     },
     {
       "id": "free-tool-strategy",
@@ -5407,7 +5407,7 @@
         "value",
         "brand"
       ],
-      "path": "skills\\free-tool-strategy\\SKILL.md"
+      "path": "skills/free-tool-strategy/SKILL.md"
     },
     {
       "id": "frontend-design",
@@ -5431,7 +5431,7 @@
         "visual",
         "identity"
       ],
-      "path": "skills\\frontend-design\\SKILL.md"
+      "path": "skills/frontend-design/SKILL.md"
     },
     {
       "id": "frontend-dev-guidelines",
@@ -5457,7 +5457,7 @@
         "suspense",
         "first"
       ],
-      "path": "skills\\frontend-dev-guidelines\\SKILL.md"
+      "path": "skills/frontend-dev-guidelines/SKILL.md"
     },
     {
       "id": "frontend-developer",
@@ -5481,7 +5481,7 @@
         "masters",
         "19"
       ],
-      "path": "skills\\frontend-developer\\SKILL.md"
+      "path": "skills/frontend-developer/SKILL.md"
     },
     {
       "id": "frontend-mobile-development-component-scaffold",
@@ -5507,7 +5507,7 @@
         "performant",
         "components"
       ],
-      "path": "skills\\frontend-mobile-development-component-scaffold\\SKILL.md"
+      "path": "skills/frontend-mobile-development-component-scaffold/SKILL.md"
     },
     {
       "id": "frontend-slides",
@@ -5532,7 +5532,7 @@
         "files",
         "user"
       ],
-      "path": "skills\\frontend-slides\\SKILL.md"
+      "path": "skills/frontend-slides/SKILL.md"
     },
     {
       "id": "full-stack-orchestration-full-stack-feature",
@@ -5550,7 +5550,7 @@
         "feature",
         "working"
       ],
-      "path": "skills\\full-stack-orchestration-full-stack-feature\\SKILL.md"
+      "path": "skills/full-stack-orchestration-full-stack-feature/SKILL.md"
     },
     {
       "id": "game-development",
@@ -5569,21 +5569,21 @@
         "specific",
         "skills"
       ],
-      "path": "skills\\game-development\\SKILL.md"
+      "path": "skills/game-development/SKILL.md"
     },
     {
-      "id": "game-development\\2d-games",
+      "id": "game-development/2d-games",
       "name": "2d-games",
       "description": "2D game development principles. Sprites, tilemaps, physics, camera.",
       "category": "general",
       "tags": [
         "game",
-        "development\\2d",
+        "development/2d",
         "games"
       ],
       "triggers": [
         "game",
-        "development\\2d",
+        "development/2d",
         "games",
         "2d",
         "development",
@@ -5593,21 +5593,21 @@
         "physics",
         "camera"
       ],
-      "path": "skills\\game-development\\2d-games\\SKILL.md"
+      "path": "skills/game-development/2d-games/SKILL.md"
     },
     {
-      "id": "game-development\\3d-games",
+      "id": "game-development/3d-games",
       "name": "3d-games",
       "description": "3D game development principles. Rendering, shaders, physics, cameras.",
       "category": "general",
       "tags": [
         "game",
-        "development\\3d",
+        "development/3d",
         "games"
       ],
       "triggers": [
         "game",
-        "development\\3d",
+        "development/3d",
         "games",
         "3d",
         "development",
@@ -5617,21 +5617,21 @@
         "physics",
         "cameras"
       ],
-      "path": "skills\\game-development\\3d-games\\SKILL.md"
+      "path": "skills/game-development/3d-games/SKILL.md"
     },
     {
-      "id": "game-development\\game-art",
+      "id": "game-development/game-art",
       "name": "game-art",
       "description": "Game art principles. Visual style selection, asset pipeline, animation workflow.",
       "category": "infrastructure",
       "tags": [
         "game",
-        "development\\game",
+        "development/game",
         "art"
       ],
       "triggers": [
         "game",
-        "development\\game",
+        "development/game",
         "art",
         "principles",
         "visual",
@@ -5641,21 +5641,21 @@
         "pipeline",
         "animation"
       ],
-      "path": "skills\\game-development\\game-art\\SKILL.md"
+      "path": "skills/game-development/game-art/SKILL.md"
     },
     {
-      "id": "game-development\\game-audio",
+      "id": "game-development/game-audio",
       "name": "game-audio",
       "description": "Game audio principles. Sound design, music integration, adaptive audio systems.",
       "category": "general",
       "tags": [
         "game",
-        "development\\game",
+        "development/game",
         "audio"
       ],
       "triggers": [
         "game",
-        "development\\game",
+        "development/game",
         "audio",
         "principles",
         "sound",
@@ -5663,20 +5663,20 @@
         "integration",
         "adaptive"
       ],
-      "path": "skills\\game-development\\game-audio\\SKILL.md"
+      "path": "skills/game-development/game-audio/SKILL.md"
     },
     {
-      "id": "game-development\\game-design",
+      "id": "game-development/game-design",
       "name": "game-design",
       "description": "Game design principles. GDD structure, balancing, player psychology, progression.",
       "category": "general",
       "tags": [
         "game",
-        "development\\game"
+        "development/game"
       ],
       "triggers": [
         "game",
-        "development\\game",
+        "development/game",
         "principles",
         "gdd",
         "structure",
@@ -5685,21 +5685,21 @@
         "psychology",
         "progression"
       ],
-      "path": "skills\\game-development\\game-design\\SKILL.md"
+      "path": "skills/game-development/game-design/SKILL.md"
     },
     {
-      "id": "game-development\\mobile-games",
+      "id": "game-development/mobile-games",
       "name": "mobile-games",
       "description": "Mobile game development principles. Touch input, battery, performance, app stores.",
       "category": "development",
       "tags": [
         "game",
-        "development\\mobile",
+        "development/mobile",
         "games"
       ],
       "triggers": [
         "game",
-        "development\\mobile",
+        "development/mobile",
         "games",
         "mobile",
         "development",
@@ -5711,20 +5711,20 @@
         "app",
         "stores"
       ],
-      "path": "skills\\game-development\\mobile-games\\SKILL.md"
+      "path": "skills/game-development/mobile-games/SKILL.md"
     },
     {
-      "id": "game-development\\multiplayer",
+      "id": "game-development/multiplayer",
       "name": "multiplayer",
       "description": "Multiplayer game development principles. Architecture, networking, synchronization.",
       "category": "architecture",
       "tags": [
         "game",
-        "development\\multiplayer"
+        "development/multiplayer"
       ],
       "triggers": [
         "game",
-        "development\\multiplayer",
+        "development/multiplayer",
         "multiplayer",
         "development",
         "principles",
@@ -5732,21 +5732,21 @@
         "networking",
         "synchronization"
       ],
-      "path": "skills\\game-development\\multiplayer\\SKILL.md"
+      "path": "skills/game-development/multiplayer/SKILL.md"
     },
     {
-      "id": "game-development\\pc-games",
+      "id": "game-development/pc-games",
       "name": "pc-games",
       "description": "PC and console game development principles. Engine selection, platform features, optimization strategies.",
       "category": "general",
       "tags": [
         "game",
-        "development\\pc",
+        "development/pc",
         "games"
       ],
       "triggers": [
         "game",
-        "development\\pc",
+        "development/pc",
         "games",
         "pc",
         "console",
@@ -5758,21 +5758,21 @@
         "features",
         "optimization"
       ],
-      "path": "skills\\game-development\\pc-games\\SKILL.md"
+      "path": "skills/game-development/pc-games/SKILL.md"
     },
     {
-      "id": "game-development\\vr-ar",
+      "id": "game-development/vr-ar",
       "name": "vr-ar",
       "description": "VR/AR development principles. Comfort, interaction, performance requirements.",
       "category": "general",
       "tags": [
         "game",
-        "development\\vr",
+        "development/vr",
         "ar"
       ],
       "triggers": [
         "game",
-        "development\\vr",
+        "development/vr",
         "ar",
         "vr",
         "development",
@@ -5782,21 +5782,21 @@
         "performance",
         "requirements"
       ],
-      "path": "skills\\game-development\\vr-ar\\SKILL.md"
+      "path": "skills/game-development/vr-ar/SKILL.md"
     },
     {
-      "id": "game-development\\web-games",
+      "id": "game-development/web-games",
       "name": "web-games",
       "description": "Web browser game development principles. Framework selection, WebGPU, optimization, PWA.",
       "category": "general",
       "tags": [
         "game",
-        "development\\web",
+        "development/web",
         "games"
       ],
       "triggers": [
         "game",
-        "development\\web",
+        "development/web",
         "games",
         "web",
         "browser",
@@ -5808,7 +5808,7 @@
         "optimization",
         "pwa"
       ],
-      "path": "skills\\game-development\\web-games\\SKILL.md"
+      "path": "skills/game-development/web-games/SKILL.md"
     },
     {
       "id": "gcp-cloud-run",
@@ -5834,7 +5834,7 @@
         "functions",
         "event"
       ],
-      "path": "skills\\gcp-cloud-run\\SKILL.md"
+      "path": "skills/gcp-cloud-run/SKILL.md"
     },
     {
       "id": "gdpr-data-handling",
@@ -5860,7 +5860,7 @@
         "eu",
         "personal"
       ],
-      "path": "skills\\gdpr-data-handling\\SKILL.md"
+      "path": "skills/gdpr-data-handling/SKILL.md"
     },
     {
       "id": "geo-fundamentals",
@@ -5884,7 +5884,7 @@
         "claude",
         "perplexity"
       ],
-      "path": "skills\\geo-fundamentals\\SKILL.md"
+      "path": "skills/geo-fundamentals/SKILL.md"
     },
     {
       "id": "git-advanced-workflows",
@@ -5909,7 +5909,7 @@
         "clean",
         "history"
       ],
-      "path": "skills\\git-advanced-workflows\\SKILL.md"
+      "path": "skills/git-advanced-workflows/SKILL.md"
     },
     {
       "id": "git-pr-workflows-git-workflow",
@@ -5934,7 +5934,7 @@
         "quality",
         "assurance"
       ],
-      "path": "skills\\git-pr-workflows-git-workflow\\SKILL.md"
+      "path": "skills/git-pr-workflows-git-workflow/SKILL.md"
     },
     {
       "id": "git-pr-workflows-onboard",
@@ -5960,7 +5960,7 @@
         "first",
         "organizations"
       ],
-      "path": "skills\\git-pr-workflows-onboard\\SKILL.md"
+      "path": "skills/git-pr-workflows-onboard/SKILL.md"
     },
     {
       "id": "git-pr-workflows-pr-enhance",
@@ -5986,7 +5986,7 @@
         "facilitate",
         "efficient"
       ],
-      "path": "skills\\git-pr-workflows-pr-enhance\\SKILL.md"
+      "path": "skills/git-pr-workflows-pr-enhance/SKILL.md"
     },
     {
       "id": "git-pushing",
@@ -6011,7 +6011,7 @@
         "mentions",
         "remote"
       ],
-      "path": "skills\\git-pushing\\SKILL.md"
+      "path": "skills/git-pushing/SKILL.md"
     },
     {
       "id": "github-actions-templates",
@@ -6036,7 +6036,7 @@
         "cd",
         "automating"
       ],
-      "path": "skills\\github-actions-templates\\SKILL.md"
+      "path": "skills/github-actions-templates/SKILL.md"
     },
     {
       "id": "gitlab-ci-patterns",
@@ -6061,7 +6061,7 @@
         "automation",
         "implementing"
       ],
-      "path": "skills\\gitlab-ci-patterns\\SKILL.md"
+      "path": "skills/gitlab-ci-patterns/SKILL.md"
     },
     {
       "id": "gitops-workflow",
@@ -6085,7 +6085,7 @@
         "automating",
         "setting"
       ],
-      "path": "skills\\gitops-workflow\\SKILL.md"
+      "path": "skills/gitops-workflow/SKILL.md"
     },
     {
       "id": "go-concurrency-patterns",
@@ -6110,7 +6110,7 @@
         "implementing",
         "worker"
       ],
-      "path": "skills\\go-concurrency-patterns\\SKILL.md"
+      "path": "skills/go-concurrency-patterns/SKILL.md"
     },
     {
       "id": "go-playwright",
@@ -6131,7 +6131,7 @@
         "browser",
         "automation"
       ],
-      "path": "skills\\go-playwright\\SKILL.md"
+      "path": "skills/go-playwright/SKILL.md"
     },
     {
       "id": "godot-gdscript-patterns",
@@ -6156,7 +6156,7 @@
         "implementing",
         "game"
       ],
-      "path": "skills\\godot-gdscript-patterns\\SKILL.md"
+      "path": "skills/godot-gdscript-patterns/SKILL.md"
     },
     {
       "id": "golang-pro",
@@ -6180,7 +6180,7 @@
         "including",
         "generics"
       ],
-      "path": "skills\\golang-pro\\SKILL.md"
+      "path": "skills/golang-pro/SKILL.md"
     },
     {
       "id": "grafana-dashboards",
@@ -6205,7 +6205,7 @@
         "creating",
         "operational"
       ],
-      "path": "skills\\grafana-dashboards\\SKILL.md"
+      "path": "skills/grafana-dashboards/SKILL.md"
     },
     {
       "id": "graphql",
@@ -6229,7 +6229,7 @@
         "schema",
         "introspection"
       ],
-      "path": "skills\\graphql\\SKILL.md"
+      "path": "skills/graphql/SKILL.md"
     },
     {
       "id": "graphql-architect",
@@ -6253,7 +6253,7 @@
         "real",
         "time"
       ],
-      "path": "skills\\graphql-architect\\SKILL.md"
+      "path": "skills/graphql-architect/SKILL.md"
     },
     {
       "id": "haskell-pro",
@@ -6277,7 +6277,7 @@
         "proactively",
         "level"
       ],
-      "path": "skills\\haskell-pro\\SKILL.md"
+      "path": "skills/haskell-pro/SKILL.md"
     },
     {
       "id": "helm-chart-scaffolding",
@@ -6302,7 +6302,7 @@
         "configurations",
         "creating"
       ],
-      "path": "skills\\helm-chart-scaffolding\\SKILL.md"
+      "path": "skills/helm-chart-scaffolding/SKILL.md"
     },
     {
       "id": "hr-pro",
@@ -6326,7 +6326,7 @@
         "performance",
         "compliant"
       ],
-      "path": "skills\\hr-pro\\SKILL.md"
+      "path": "skills/hr-pro/SKILL.md"
     },
     {
       "id": "hubspot-integration",
@@ -6351,7 +6351,7 @@
         "webhooks",
         "custom"
       ],
-      "path": "skills\\hubspot-integration\\SKILL.md"
+      "path": "skills/hubspot-integration/SKILL.md"
     },
     {
       "id": "hugging-face-cli",
@@ -6377,7 +6377,7 @@
         "datasets",
         "spaces"
       ],
-      "path": "skills\\hugging-face-cli\\SKILL.md"
+      "path": "skills/hugging-face-cli/SKILL.md"
     },
     {
       "id": "hugging-face-jobs",
@@ -6403,7 +6403,7 @@
         "workload",
         "infrastructure"
       ],
-      "path": "skills\\hugging-face-jobs\\SKILL.md"
+      "path": "skills/hugging-face-jobs/SKILL.md"
     },
     {
       "id": "hybrid-cloud-architect",
@@ -6428,7 +6428,7 @@
         "private",
         "clouds"
       ],
-      "path": "skills\\hybrid-cloud-architect\\SKILL.md"
+      "path": "skills/hybrid-cloud-architect/SKILL.md"
     },
     {
       "id": "hybrid-cloud-networking",
@@ -6454,7 +6454,7 @@
         "infrastructure",
         "platforms"
       ],
-      "path": "skills\\hybrid-cloud-networking\\SKILL.md"
+      "path": "skills/hybrid-cloud-networking/SKILL.md"
     },
     {
       "id": "hybrid-search-implementation",
@@ -6479,7 +6479,7 @@
         "engines",
         "neither"
       ],
-      "path": "skills\\hybrid-search-implementation\\SKILL.md"
+      "path": "skills/hybrid-search-implementation/SKILL.md"
     },
     {
       "id": "i18n-localization",
@@ -6503,7 +6503,7 @@
         "files",
         "rtl"
       ],
-      "path": "skills\\i18n-localization\\SKILL.md"
+      "path": "skills/i18n-localization/SKILL.md"
     },
     {
       "id": "idor-testing",
@@ -6527,7 +6527,7 @@
         "direct",
         "object"
       ],
-      "path": "skills\\idor-testing\\SKILL.md"
+      "path": "skills/idor-testing/SKILL.md"
     },
     {
       "id": "imagen",
@@ -6547,7 +6547,7 @@
         "generation",
         "models"
       ],
-      "path": "skills\\imagen\\SKILL.md"
+      "path": "skills/imagen/SKILL.md"
     },
     {
       "id": "incident-responder",
@@ -6572,7 +6572,7 @@
         "blameless",
         "post"
       ],
-      "path": "skills\\incident-responder\\SKILL.md"
+      "path": "skills/incident-responder/SKILL.md"
     },
     {
       "id": "incident-response-incident-response",
@@ -6588,7 +6588,7 @@
         "response",
         "working"
       ],
-      "path": "skills\\incident-response-incident-response\\SKILL.md"
+      "path": "skills/incident-response-incident-response/SKILL.md"
     },
     {
       "id": "incident-response-smart-fix",
@@ -6614,7 +6614,7 @@
         "pipeline",
         "leverages"
       ],
-      "path": "skills\\incident-response-smart-fix\\SKILL.md"
+      "path": "skills/incident-response-smart-fix/SKILL.md"
     },
     {
       "id": "incident-runbook-templates",
@@ -6639,7 +6639,7 @@
         "actions",
         "building"
       ],
-      "path": "skills\\incident-runbook-templates\\SKILL.md"
+      "path": "skills/incident-runbook-templates/SKILL.md"
     },
     {
       "id": "infinite-gratitude",
@@ -6664,7 +6664,7 @@
         "battle",
         "tested"
       ],
-      "path": "skills\\infinite-gratitude\\SKILL.md"
+      "path": "skills/infinite-gratitude/SKILL.md"
     },
     {
       "id": "inngest",
@@ -6688,7 +6688,7 @@
         "managing",
         "queues"
       ],
-      "path": "skills\\inngest\\SKILL.md"
+      "path": "skills/inngest/SKILL.md"
     },
     {
       "id": "interactive-portfolio",
@@ -6713,7 +6713,7 @@
         "work",
         "creating"
       ],
-      "path": "skills\\interactive-portfolio\\SKILL.md"
+      "path": "skills/interactive-portfolio/SKILL.md"
     },
     {
       "id": "internal-comms-anthropic",
@@ -6739,7 +6739,7 @@
         "formats",
         "my"
       ],
-      "path": "skills\\internal-comms-anthropic\\SKILL.md"
+      "path": "skills/internal-comms-anthropic/SKILL.md"
     },
     {
       "id": "internal-comms-community",
@@ -6765,7 +6765,7 @@
         "formats",
         "my"
       ],
-      "path": "skills\\internal-comms-community\\SKILL.md"
+      "path": "skills/internal-comms-community/SKILL.md"
     },
     {
       "id": "ios-developer",
@@ -6789,7 +6789,7 @@
         "integration",
         "core"
       ],
-      "path": "skills\\ios-developer\\SKILL.md"
+      "path": "skills/ios-developer/SKILL.md"
     },
     {
       "id": "istio-traffic-management",
@@ -6814,7 +6814,7 @@
         "deployments",
         "implementing"
       ],
-      "path": "skills\\istio-traffic-management\\SKILL.md"
+      "path": "skills/istio-traffic-management/SKILL.md"
     },
     {
       "id": "iterate-pr",
@@ -6839,7 +6839,7 @@
         "continuously",
         "push"
       ],
-      "path": "skills\\iterate-pr\\SKILL.md"
+      "path": "skills/iterate-pr/SKILL.md"
     },
     {
       "id": "java-pro",
@@ -6863,7 +6863,7 @@
         "latest",
         "ecosystem"
       ],
-      "path": "skills\\java-pro\\SKILL.md"
+      "path": "skills/java-pro/SKILL.md"
     },
     {
       "id": "javascript-mastery",
@@ -6888,7 +6888,7 @@
         "know",
         "fundamentals"
       ],
-      "path": "skills\\javascript-mastery\\SKILL.md"
+      "path": "skills/javascript-mastery/SKILL.md"
     },
     {
       "id": "javascript-pro",
@@ -6912,7 +6912,7 @@
         "browser",
         "compatibility"
       ],
-      "path": "skills\\javascript-pro\\SKILL.md"
+      "path": "skills/javascript-pro/SKILL.md"
     },
     {
       "id": "javascript-testing-patterns",
@@ -6936,7 +6936,7 @@
         "test",
         "driven"
       ],
-      "path": "skills\\javascript-testing-patterns\\SKILL.md"
+      "path": "skills/javascript-testing-patterns/SKILL.md"
     },
     {
       "id": "javascript-typescript-typescript-scaffold",
@@ -6961,7 +6961,7 @@
         "generate",
         "complete"
       ],
-      "path": "skills\\javascript-typescript-typescript-scaffold\\SKILL.md"
+      "path": "skills/javascript-typescript-typescript-scaffold/SKILL.md"
     },
     {
       "id": "julia-pro",
@@ -6985,7 +6985,7 @@
         "package",
         "scientific"
       ],
-      "path": "skills\\julia-pro\\SKILL.md"
+      "path": "skills/julia-pro/SKILL.md"
     },
     {
       "id": "kaizen",
@@ -7009,7 +7009,7 @@
         "code",
         "quality"
       ],
-      "path": "skills\\kaizen\\SKILL.md"
+      "path": "skills/kaizen/SKILL.md"
     },
     {
       "id": "kpi-dashboard-design",
@@ -7034,7 +7034,7 @@
         "building",
         "business"
       ],
-      "path": "skills\\kpi-dashboard-design\\SKILL.md"
+      "path": "skills/kpi-dashboard-design/SKILL.md"
     },
     {
       "id": "langchain-architecture",
@@ -7059,7 +7059,7 @@
         "ai",
         "creating"
       ],
-      "path": "skills\\langchain-architecture\\SKILL.md"
+      "path": "skills/langchain-architecture/SKILL.md"
     },
     {
       "id": "langfuse",
@@ -7083,7 +7083,7 @@
         "datasets",
         "integration"
       ],
-      "path": "skills\\langfuse\\SKILL.md"
+      "path": "skills/langfuse/SKILL.md"
     },
     {
       "id": "langgraph",
@@ -7107,7 +7107,7 @@
         "graph",
         "construction"
       ],
-      "path": "skills\\langgraph\\SKILL.md"
+      "path": "skills/langgraph/SKILL.md"
     },
     {
       "id": "last30days",
@@ -7131,7 +7131,7 @@
         "copy",
         "paste"
       ],
-      "path": "skills\\last30days\\SKILL.md"
+      "path": "skills/last30days/SKILL.md"
     },
     {
       "id": "launch-strategy",
@@ -7155,7 +7155,7 @@
         "go",
         "market"
       ],
-      "path": "skills\\launch-strategy\\SKILL.md"
+      "path": "skills/launch-strategy/SKILL.md"
     },
     {
       "id": "legacy-modernizer",
@@ -7180,7 +7180,7 @@
         "debt",
         "dependency"
       ],
-      "path": "skills\\legacy-modernizer\\SKILL.md"
+      "path": "skills/legacy-modernizer/SKILL.md"
     },
     {
       "id": "legal-advisor",
@@ -7205,7 +7205,7 @@
         "compliant",
         "texts"
       ],
-      "path": "skills\\legal-advisor\\SKILL.md"
+      "path": "skills/legal-advisor/SKILL.md"
     },
     {
       "id": "linear-claude-skill",
@@ -7224,7 +7224,7 @@
         "issues",
         "teams"
       ],
-      "path": "skills\\linear-claude-skill\\SKILL.md"
+      "path": "skills/linear-claude-skill/SKILL.md"
     },
     {
       "id": "linkerd-patterns",
@@ -7248,7 +7248,7 @@
         "implementing",
         "zero"
       ],
-      "path": "skills\\linkerd-patterns\\SKILL.md"
+      "path": "skills/linkerd-patterns/SKILL.md"
     },
     {
       "id": "lint-and-validate",
@@ -7274,7 +7274,7 @@
         "after",
         "every"
       ],
-      "path": "skills\\lint-and-validate\\SKILL.md"
+      "path": "skills/lint-and-validate/SKILL.md"
     },
     {
       "id": "linux-privilege-escalation",
@@ -7300,7 +7300,7 @@
         "find",
         "privesc"
       ],
-      "path": "skills\\linux-privilege-escalation\\SKILL.md"
+      "path": "skills/linux-privilege-escalation/SKILL.md"
     },
     {
       "id": "llm-app-patterns",
@@ -7325,7 +7325,7 @@
         "ides",
         "llmops"
       ],
-      "path": "skills\\llm-app-patterns\\SKILL.md"
+      "path": "skills/llm-app-patterns/SKILL.md"
     },
     {
       "id": "llm-application-dev-ai-assistant",
@@ -7352,7 +7352,7 @@
         "interfaces",
         "chatbots"
       ],
-      "path": "skills\\llm-application-dev-ai-assistant\\SKILL.md"
+      "path": "skills/llm-application-dev-ai-assistant/SKILL.md"
     },
     {
       "id": "llm-application-dev-langchain-agent",
@@ -7378,7 +7378,7 @@
         "ai",
         "langgraph"
       ],
-      "path": "skills\\llm-application-dev-langchain-agent\\SKILL.md"
+      "path": "skills/llm-application-dev-langchain-agent/SKILL.md"
     },
     {
       "id": "llm-application-dev-prompt-optimize",
@@ -7406,7 +7406,7 @@
         "llms",
         "through"
       ],
-      "path": "skills\\llm-application-dev-prompt-optimize\\SKILL.md"
+      "path": "skills/llm-application-dev-prompt-optimize/SKILL.md"
     },
     {
       "id": "llm-evaluation",
@@ -7431,7 +7431,7 @@
         "measuring",
         "ai"
       ],
-      "path": "skills\\llm-evaluation\\SKILL.md"
+      "path": "skills/llm-evaluation/SKILL.md"
     },
     {
       "id": "loki-mode",
@@ -7456,7 +7456,7 @@
         "100",
         "specialized"
       ],
-      "path": "skills\\loki-mode\\SKILL.md"
+      "path": "skills/loki-mode/SKILL.md"
     },
     {
       "id": "machine-learning-ops-ml-pipeline",
@@ -7479,7 +7479,7 @@
         "complete",
         "arguments"
       ],
-      "path": "skills\\machine-learning-ops-ml-pipeline\\SKILL.md"
+      "path": "skills/machine-learning-ops-ml-pipeline/SKILL.md"
     },
     {
       "id": "malware-analyst",
@@ -7504,7 +7504,7 @@
         "sandbox",
         "analysis"
       ],
-      "path": "skills\\malware-analyst\\SKILL.md"
+      "path": "skills/malware-analyst/SKILL.md"
     },
     {
       "id": "market-sizing-analysis",
@@ -7529,7 +7529,7 @@
         "determine",
         "sam"
       ],
-      "path": "skills\\market-sizing-analysis\\SKILL.md"
+      "path": "skills/market-sizing-analysis/SKILL.md"
     },
     {
       "id": "marketing-ideas",
@@ -7553,7 +7553,7 @@
         "feasibility",
         "scoring"
       ],
-      "path": "skills\\marketing-ideas\\SKILL.md"
+      "path": "skills/marketing-ideas/SKILL.md"
     },
     {
       "id": "marketing-psychology",
@@ -7578,7 +7578,7 @@
         "leverage",
         "feasibility"
       ],
-      "path": "skills\\marketing-psychology\\SKILL.md"
+      "path": "skills/marketing-psychology/SKILL.md"
     },
     {
       "id": "mcp-builder",
@@ -7603,7 +7603,7 @@
         "llms",
         "interact"
       ],
-      "path": "skills\\mcp-builder\\SKILL.md"
+      "path": "skills/mcp-builder/SKILL.md"
     },
     {
       "id": "memory-forensics",
@@ -7628,7 +7628,7 @@
         "related",
         "analyzing"
       ],
-      "path": "skills\\memory-forensics\\SKILL.md"
+      "path": "skills/memory-forensics/SKILL.md"
     },
     {
       "id": "memory-safety-patterns",
@@ -7653,7 +7653,7 @@
         "writing",
         "code"
       ],
-      "path": "skills\\memory-safety-patterns\\SKILL.md"
+      "path": "skills/memory-safety-patterns/SKILL.md"
     },
     {
       "id": "memory-systems",
@@ -7671,7 +7671,7 @@
         "graph",
         "architectures"
       ],
-      "path": "skills\\memory-systems\\SKILL.md"
+      "path": "skills/memory-systems/SKILL.md"
     },
     {
       "id": "mermaid-expert",
@@ -7695,7 +7695,7 @@
         "types",
         "styling"
       ],
-      "path": "skills\\mermaid-expert\\SKILL.md"
+      "path": "skills/mermaid-expert/SKILL.md"
     },
     {
       "id": "metasploit-framework",
@@ -7720,7 +7720,7 @@
         "vulnerabilities",
         "msfconsole"
       ],
-      "path": "skills\\metasploit-framework\\SKILL.md"
+      "path": "skills/metasploit-framework/SKILL.md"
     },
     {
       "id": "micro-saas-launcher",
@@ -7746,7 +7746,7 @@
         "building",
         "profitable"
       ],
-      "path": "skills\\micro-saas-launcher\\SKILL.md"
+      "path": "skills/micro-saas-launcher/SKILL.md"
     },
     {
       "id": "microservices-patterns",
@@ -7770,7 +7770,7 @@
         "monoliths",
         "implementing"
       ],
-      "path": "skills\\microservices-patterns\\SKILL.md"
+      "path": "skills/microservices-patterns/SKILL.md"
     },
     {
       "id": "minecraft-bukkit-pro",
@@ -7795,7 +7795,7 @@
         "event",
         "driven"
       ],
-      "path": "skills\\minecraft-bukkit-pro\\SKILL.md"
+      "path": "skills/minecraft-bukkit-pro/SKILL.md"
     },
     {
       "id": "ml-engineer",
@@ -7819,7 +7819,7 @@
         "testing",
         "monitoring"
       ],
-      "path": "skills\\ml-engineer\\SKILL.md"
+      "path": "skills/ml-engineer/SKILL.md"
     },
     {
       "id": "ml-pipeline-workflow",
@@ -7844,7 +7844,7 @@
         "deployment",
         "creating"
       ],
-      "path": "skills\\ml-pipeline-workflow\\SKILL.md"
+      "path": "skills/ml-pipeline-workflow/SKILL.md"
     },
     {
       "id": "mlops-engineer",
@@ -7868,7 +7868,7 @@
         "implements",
         "automated"
       ],
-      "path": "skills\\mlops-engineer\\SKILL.md"
+      "path": "skills/mlops-engineer/SKILL.md"
     },
     {
       "id": "mobile-design",
@@ -7892,7 +7892,7 @@
         "performance",
         "platform"
       ],
-      "path": "skills\\mobile-design\\SKILL.md"
+      "path": "skills/mobile-design/SKILL.md"
     },
     {
       "id": "mobile-developer",
@@ -7916,7 +7916,7 @@
         "platform",
         "development"
       ],
-      "path": "skills\\mobile-developer\\SKILL.md"
+      "path": "skills/mobile-developer/SKILL.md"
     },
     {
       "id": "modern-javascript-patterns",
@@ -7941,7 +7941,7 @@
         "arrow",
         "functions"
       ],
-      "path": "skills\\modern-javascript-patterns\\SKILL.md"
+      "path": "skills/modern-javascript-patterns/SKILL.md"
     },
     {
       "id": "monorepo-architect",
@@ -7965,7 +7965,7 @@
         "efficient",
         "multi"
       ],
-      "path": "skills\\monorepo-architect\\SKILL.md"
+      "path": "skills/monorepo-architect/SKILL.md"
     },
     {
       "id": "monorepo-management",
@@ -7989,7 +7989,7 @@
         "optimized",
         "dependency"
       ],
-      "path": "skills\\monorepo-management\\SKILL.md"
+      "path": "skills/monorepo-management/SKILL.md"
     },
     {
       "id": "moodle-external-api-development",
@@ -8015,7 +8015,7 @@
         "user",
         "tracking"
       ],
-      "path": "skills\\moodle-external-api-development\\SKILL.md"
+      "path": "skills/moodle-external-api-development/SKILL.md"
     },
     {
       "id": "mtls-configuration",
@@ -8040,7 +8040,7 @@
         "certificate",
         "securing"
       ],
-      "path": "skills\\mtls-configuration\\SKILL.md"
+      "path": "skills/mtls-configuration/SKILL.md"
     },
     {
       "id": "multi-agent-brainstorming",
@@ -8066,7 +8066,7 @@
         "formal",
         "review"
       ],
-      "path": "skills\\multi-agent-brainstorming\\SKILL.md"
+      "path": "skills/multi-agent-brainstorming/SKILL.md"
     },
     {
       "id": "multi-agent-patterns",
@@ -8085,7 +8085,7 @@
         "hierarchical",
         "architectures"
       ],
-      "path": "skills\\multi-agent-patterns\\SKILL.md"
+      "path": "skills/multi-agent-patterns/SKILL.md"
     },
     {
       "id": "multi-cloud-architecture",
@@ -8111,7 +8111,7 @@
         "gcp",
         "building"
       ],
-      "path": "skills\\multi-cloud-architecture\\SKILL.md"
+      "path": "skills/multi-cloud-architecture/SKILL.md"
     },
     {
       "id": "multi-platform-apps-multi-platform",
@@ -8137,7 +8137,7 @@
         "platforms",
         "api"
       ],
-      "path": "skills\\multi-platform-apps-multi-platform\\SKILL.md"
+      "path": "skills/multi-platform-apps-multi-platform/SKILL.md"
     },
     {
       "id": "n8n-code-python",
@@ -8163,7 +8163,7 @@
         "working",
         "standard"
       ],
-      "path": "skills\\n8n-code-python\\SKILL.md"
+      "path": "skills/n8n-code-python/SKILL.md"
     },
     {
       "id": "n8n-mcp-tools-expert",
@@ -8188,7 +8188,7 @@
         "provides",
         "selection"
       ],
-      "path": "skills\\n8n-mcp-tools-expert\\SKILL.md"
+      "path": "skills/n8n-mcp-tools-expert/SKILL.md"
     },
     {
       "id": "n8n-node-configuration",
@@ -8214,7 +8214,7 @@
         "dependencies",
         "determining"
       ],
-      "path": "skills\\n8n-node-configuration\\SKILL.md"
+      "path": "skills/n8n-node-configuration/SKILL.md"
     },
     {
       "id": "neon-postgres",
@@ -8237,7 +8237,7 @@
         "integration",
         "database"
       ],
-      "path": "skills\\neon-postgres\\SKILL.md"
+      "path": "skills/neon-postgres/SKILL.md"
     },
     {
       "id": "nestjs-expert",
@@ -8261,7 +8261,7 @@
         "guards",
         "interceptors"
       ],
-      "path": "skills\\nestjs-expert\\SKILL.md"
+      "path": "skills/nestjs-expert/SKILL.md"
     },
     {
       "id": "network-101",
@@ -8286,7 +8286,7 @@
         "server",
         "configure"
       ],
-      "path": "skills\\network-101\\SKILL.md"
+      "path": "skills/network-101/SKILL.md"
     },
     {
       "id": "network-engineer",
@@ -8310,7 +8310,7 @@
         "multi",
         "connectivity"
       ],
-      "path": "skills\\network-engineer\\SKILL.md"
+      "path": "skills/network-engineer/SKILL.md"
     },
     {
       "id": "nextjs-app-router-patterns",
@@ -8336,7 +8336,7 @@
         "routes",
         "data"
       ],
-      "path": "skills\\nextjs-app-router-patterns\\SKILL.md"
+      "path": "skills/nextjs-app-router-patterns/SKILL.md"
     },
     {
       "id": "nextjs-best-practices",
@@ -8362,7 +8362,7 @@
         "data",
         "fetching"
       ],
-      "path": "skills\\nextjs-best-practices\\SKILL.md"
+      "path": "skills/nextjs-best-practices/SKILL.md"
     },
     {
       "id": "nft-standards",
@@ -8387,7 +8387,7 @@
         "integration",
         "creating"
       ],
-      "path": "skills\\nft-standards\\SKILL.md"
+      "path": "skills/nft-standards/SKILL.md"
     },
     {
       "id": "nodejs-backend-patterns",
@@ -8412,7 +8412,7 @@
         "authentication",
         "database"
       ],
-      "path": "skills\\nodejs-backend-patterns\\SKILL.md"
+      "path": "skills/nodejs-backend-patterns/SKILL.md"
     },
     {
       "id": "nodejs-best-practices",
@@ -8438,7 +8438,7 @@
         "selection",
         "async"
       ],
-      "path": "skills\\nodejs-best-practices\\SKILL.md"
+      "path": "skills/nodejs-best-practices/SKILL.md"
     },
     {
       "id": "nosql-expert",
@@ -8462,7 +8462,7 @@
         "modeling",
         "single"
       ],
-      "path": "skills\\nosql-expert\\SKILL.md"
+      "path": "skills/nosql-expert/SKILL.md"
     },
     {
       "id": "notebooklm",
@@ -8486,7 +8486,7 @@
         "citation",
         "backed"
       ],
-      "path": "skills\\notebooklm\\SKILL.md"
+      "path": "skills/notebooklm/SKILL.md"
     },
     {
       "id": "notion-template-business",
@@ -8511,7 +8511,7 @@
         "pricing",
         "marketplaces"
       ],
-      "path": "skills\\notion-template-business\\SKILL.md"
+      "path": "skills/notion-template-business/SKILL.md"
     },
     {
       "id": "nx-workspace-patterns",
@@ -8536,7 +8536,7 @@
         "optimizing",
         "caching"
       ],
-      "path": "skills\\nx-workspace-patterns\\SKILL.md"
+      "path": "skills/nx-workspace-patterns/SKILL.md"
     },
     {
       "id": "observability-engineer",
@@ -8560,7 +8560,7 @@
         "proactively",
         "infrastructure"
       ],
-      "path": "skills\\observability-engineer\\SKILL.md"
+      "path": "skills/observability-engineer/SKILL.md"
     },
     {
       "id": "observability-monitoring-monitor-setup",
@@ -8587,7 +8587,7 @@
         "collection",
         "distributed"
       ],
-      "path": "skills\\observability-monitoring-monitor-setup\\SKILL.md"
+      "path": "skills/observability-monitoring-monitor-setup/SKILL.md"
     },
     {
       "id": "observability-monitoring-slo-implement",
@@ -8614,7 +8614,7 @@
         "error",
         "budget"
       ],
-      "path": "skills\\observability-monitoring-slo-implement\\SKILL.md"
+      "path": "skills/observability-monitoring-slo-implement/SKILL.md"
     },
     {
       "id": "observe-whatsapp",
@@ -8639,7 +8639,7 @@
         "retries",
         "triage"
       ],
-      "path": "skills\\observe-whatsapp\\SKILL.md"
+      "path": "skills/observe-whatsapp/SKILL.md"
     },
     {
       "id": "obsidian-clipper-template-creator",
@@ -8665,7 +8665,7 @@
         "variables",
         "format"
       ],
-      "path": "skills\\obsidian-clipper-template-creator\\SKILL.md"
+      "path": "skills/obsidian-clipper-template-creator/SKILL.md"
     },
     {
       "id": "on-call-handoff-patterns",
@@ -8691,7 +8691,7 @@
         "transitioning",
         "responsibilities"
       ],
-      "path": "skills\\on-call-handoff-patterns\\SKILL.md"
+      "path": "skills/on-call-handoff-patterns/SKILL.md"
     },
     {
       "id": "onboarding-cro",
@@ -8716,7 +8716,7 @@
         "experience",
         "time"
       ],
-      "path": "skills\\onboarding-cro\\SKILL.md"
+      "path": "skills/onboarding-cro/SKILL.md"
     },
     {
       "id": "openapi-spec-generation",
@@ -8742,7 +8742,7 @@
         "creating",
         "api"
       ],
-      "path": "skills\\openapi-spec-generation\\SKILL.md"
+      "path": "skills/openapi-spec-generation/SKILL.md"
     },
     {
       "id": "oss-hunter",
@@ -8765,7 +8765,7 @@
         "trending",
         "repositories"
       ],
-      "path": "skills\\oss-hunter\\SKILL.md"
+      "path": "skills/oss-hunter/SKILL.md"
     },
     {
       "id": "page-cro",
@@ -8790,7 +8790,7 @@
         "improve",
         "rates"
       ],
-      "path": "skills\\page-cro\\SKILL.md"
+      "path": "skills/page-cro/SKILL.md"
     },
     {
       "id": "paid-ads",
@@ -8815,7 +8815,7 @@
         "linkedin",
         "twitter"
       ],
-      "path": "skills\\paid-ads\\SKILL.md"
+      "path": "skills/paid-ads/SKILL.md"
     },
     {
       "id": "parallel-agents",
@@ -8840,7 +8840,7 @@
         "domain",
         "expertise"
       ],
-      "path": "skills\\parallel-agents\\SKILL.md"
+      "path": "skills/parallel-agents/SKILL.md"
     },
     {
       "id": "payment-integration",
@@ -8865,7 +8865,7 @@
         "pci",
         "compliance"
       ],
-      "path": "skills\\payment-integration\\SKILL.md"
+      "path": "skills/payment-integration/SKILL.md"
     },
     {
       "id": "paypal-integration",
@@ -8890,7 +8890,7 @@
         "payments",
         "online"
       ],
-      "path": "skills\\paypal-integration\\SKILL.md"
+      "path": "skills/paypal-integration/SKILL.md"
     },
     {
       "id": "paywall-upgrade-cro",
@@ -8916,7 +8916,7 @@
         "modals",
         "feature"
       ],
-      "path": "skills\\paywall-upgrade-cro\\SKILL.md"
+      "path": "skills/paywall-upgrade-cro/SKILL.md"
     },
     {
       "id": "pci-compliance",
@@ -8941,7 +8941,7 @@
         "processing",
         "achieving"
       ],
-      "path": "skills\\pci-compliance\\SKILL.md"
+      "path": "skills/pci-compliance/SKILL.md"
     },
     {
       "id": "pdf-official",
@@ -8966,7 +8966,7 @@
         "merging",
         "splitting"
       ],
-      "path": "skills\\pdf-official\\SKILL.md"
+      "path": "skills/pdf-official/SKILL.md"
     },
     {
       "id": "pentest-checklist",
@@ -8991,7 +8991,7 @@
         "security",
         "assessment"
       ],
-      "path": "skills\\pentest-checklist\\SKILL.md"
+      "path": "skills/pentest-checklist/SKILL.md"
     },
     {
       "id": "pentest-commands",
@@ -9016,7 +9016,7 @@
         "metasploit",
         "exploits"
       ],
-      "path": "skills\\pentest-commands\\SKILL.md"
+      "path": "skills/pentest-commands/SKILL.md"
     },
     {
       "id": "performance-engineer",
@@ -9040,7 +9040,7 @@
         "tracing",
         "load"
       ],
-      "path": "skills\\performance-engineer\\SKILL.md"
+      "path": "skills/performance-engineer/SKILL.md"
     },
     {
       "id": "performance-profiling",
@@ -9060,7 +9060,7 @@
         "optimization",
         "techniques"
       ],
-      "path": "skills\\performance-profiling\\SKILL.md"
+      "path": "skills/performance-profiling/SKILL.md"
     },
     {
       "id": "performance-testing-review-ai-review",
@@ -9085,7 +9085,7 @@
         "intelligent",
         "recognition"
       ],
-      "path": "skills\\performance-testing-review-ai-review\\SKILL.md"
+      "path": "skills/performance-testing-review-ai-review/SKILL.md"
     },
     {
       "id": "performance-testing-review-multi-agent-review",
@@ -9105,7 +9105,7 @@
         "review",
         "working"
       ],
-      "path": "skills\\performance-testing-review-multi-agent-review\\SKILL.md"
+      "path": "skills/performance-testing-review-multi-agent-review/SKILL.md"
     },
     {
       "id": "personal-tool-builder",
@@ -9130,7 +9130,7 @@
         "start",
         "scratch"
       ],
-      "path": "skills\\personal-tool-builder\\SKILL.md"
+      "path": "skills/personal-tool-builder/SKILL.md"
     },
     {
       "id": "php-pro",
@@ -9154,7 +9154,7 @@
         "oop",
         "features"
       ],
-      "path": "skills\\php-pro\\SKILL.md"
+      "path": "skills/php-pro/SKILL.md"
     },
     {
       "id": "plaid-fintech",
@@ -9179,7 +9179,7 @@
         "identity",
         "verification"
       ],
-      "path": "skills\\plaid-fintech\\SKILL.md"
+      "path": "skills/plaid-fintech/SKILL.md"
     },
     {
       "id": "plan-writing",
@@ -9204,7 +9204,7 @@
         "implementing",
         "features"
       ],
-      "path": "skills\\plan-writing\\SKILL.md"
+      "path": "skills/plan-writing/SKILL.md"
     },
     {
       "id": "planning-with-files",
@@ -9230,7 +9230,7 @@
         "task",
         "plan"
       ],
-      "path": "skills\\planning-with-files\\SKILL.md"
+      "path": "skills/planning-with-files/SKILL.md"
     },
     {
       "id": "playbook-cloud-security",
@@ -9256,7 +9256,7 @@
         "environments",
         "covers"
       ],
-      "path": "skills\\playbook-cloud-security\\SKILL.md"
+      "path": "skills/playbook-cloud-security/SKILL.md"
     },
     {
       "id": "playbook-defensive-security",
@@ -9282,7 +9282,7 @@
         "coding",
         "standards"
       ],
-      "path": "skills\\playbook-defensive-security\\SKILL.md"
+      "path": "skills/playbook-defensive-security/SKILL.md"
     },
     {
       "id": "playbook-identity-security",
@@ -9308,7 +9308,7 @@
         "oauth",
         "authz"
       ],
-      "path": "skills\\playbook-identity-security\\SKILL.md"
+      "path": "skills/playbook-identity-security/SKILL.md"
     },
     {
       "id": "playbook-web-vulns",
@@ -9334,7 +9334,7 @@
         "10",
         "api"
       ],
-      "path": "skills\\playbook-web-vulns\\SKILL.md"
+      "path": "skills/playbook-web-vulns/SKILL.md"
     },
     {
       "id": "playwright-skill",
@@ -9359,7 +9359,7 @@
         "clean",
         "test"
       ],
-      "path": "skills\\playwright-skill\\SKILL.md"
+      "path": "skills/playwright-skill/SKILL.md"
     },
     {
       "id": "popup-cro",
@@ -9384,7 +9384,7 @@
         "conversions",
         "without"
       ],
-      "path": "skills\\popup-cro\\SKILL.md"
+      "path": "skills/popup-cro/SKILL.md"
     },
     {
       "id": "postgres-best-practices",
@@ -9410,7 +9410,7 @@
         "queries",
         "schema"
       ],
-      "path": "skills\\postgres-best-practices\\SKILL.md"
+      "path": "skills/postgres-best-practices/SKILL.md"
     },
     {
       "id": "postgresql",
@@ -9432,7 +9432,7 @@
         "performance",
         "features"
       ],
-      "path": "skills\\postgresql\\SKILL.md"
+      "path": "skills/postgresql/SKILL.md"
     },
     {
       "id": "postmortem-writing",
@@ -9457,7 +9457,7 @@
         "action",
         "items"
       ],
-      "path": "skills\\postmortem-writing\\SKILL.md"
+      "path": "skills/postmortem-writing/SKILL.md"
     },
     {
       "id": "powershell-windows",
@@ -9478,7 +9478,7 @@
         "error",
         "handling"
       ],
-      "path": "skills\\powershell-windows\\SKILL.md"
+      "path": "skills/powershell-windows/SKILL.md"
     },
     {
       "id": "pptx-official",
@@ -9503,7 +9503,7 @@
         "creating",
         "new"
       ],
-      "path": "skills\\pptx-official\\SKILL.md"
+      "path": "skills/pptx-official/SKILL.md"
     },
     {
       "id": "pricing-strategy",
@@ -9524,7 +9524,7 @@
         "growth",
         "objectives"
       ],
-      "path": "skills\\pricing-strategy\\SKILL.md"
+      "path": "skills/pricing-strategy/SKILL.md"
     },
     {
       "id": "prisma-expert",
@@ -9548,7 +9548,7 @@
         "proactively",
         "issues"
       ],
-      "path": "skills\\prisma-expert\\SKILL.md"
+      "path": "skills/prisma-expert/SKILL.md"
     },
     {
       "id": "privilege-escalation-methods",
@@ -9574,7 +9574,7 @@
         "get",
         "root"
       ],
-      "path": "skills\\privilege-escalation-methods\\SKILL.md"
+      "path": "skills/privilege-escalation-methods/SKILL.md"
     },
     {
       "id": "product-manager-toolkit",
@@ -9599,7 +9599,7 @@
         "prd",
         "discovery"
       ],
-      "path": "skills\\product-manager-toolkit\\SKILL.md"
+      "path": "skills/product-manager-toolkit/SKILL.md"
     },
     {
       "id": "programmatic-seo",
@@ -9624,7 +9624,7 @@
         "mentions",
         "directory"
       ],
-      "path": "skills\\programmatic-seo\\SKILL.md"
+      "path": "skills/programmatic-seo/SKILL.md"
     },
     {
       "id": "projection-patterns",
@@ -9648,7 +9648,7 @@
         "materialized",
         "views"
       ],
-      "path": "skills\\projection-patterns\\SKILL.md"
+      "path": "skills/projection-patterns/SKILL.md"
     },
     {
       "id": "prometheus-configuration",
@@ -9673,7 +9673,7 @@
         "implementing",
         "metrics"
       ],
-      "path": "skills\\prometheus-configuration\\SKILL.md"
+      "path": "skills/prometheus-configuration/SKILL.md"
     },
     {
       "id": "prompt-caching",
@@ -9697,7 +9697,7 @@
         "augmented",
         "generation"
       ],
-      "path": "skills\\prompt-caching\\SKILL.md"
+      "path": "skills/prompt-caching/SKILL.md"
     },
     {
       "id": "prompt-engineer",
@@ -9724,7 +9724,7 @@
         "rtf",
         "risen"
       ],
-      "path": "skills\\prompt-engineer\\SKILL.md"
+      "path": "skills/prompt-engineer/SKILL.md"
     },
     {
       "id": "prompt-engineering",
@@ -9749,7 +9749,7 @@
         "debug",
         "agent"
       ],
-      "path": "skills\\prompt-engineering\\SKILL.md"
+      "path": "skills/prompt-engineering/SKILL.md"
     },
     {
       "id": "prompt-engineering-patterns",
@@ -9774,7 +9774,7 @@
         "improving",
         "outputs"
       ],
-      "path": "skills\\prompt-engineering-patterns\\SKILL.md"
+      "path": "skills/prompt-engineering-patterns/SKILL.md"
     },
     {
       "id": "prompt-library",
@@ -9799,7 +9799,7 @@
         "role",
         "task"
       ],
-      "path": "skills\\prompt-library\\SKILL.md"
+      "path": "skills/prompt-library/SKILL.md"
     },
     {
       "id": "protocol-reverse-engineering",
@@ -9825,7 +9825,7 @@
         "analyzing",
         "traffic"
       ],
-      "path": "skills\\protocol-reverse-engineering\\SKILL.md"
+      "path": "skills/protocol-reverse-engineering/SKILL.md"
     },
     {
       "id": "python-development-python-scaffold",
@@ -9849,7 +9849,7 @@
         "tooling",
         "uv"
       ],
-      "path": "skills\\python-development-python-scaffold\\SKILL.md"
+      "path": "skills/python-development-python-scaffold/SKILL.md"
     },
     {
       "id": "python-packaging",
@@ -9874,7 +9874,7 @@
         "publishing",
         "pypi"
       ],
-      "path": "skills\\python-packaging\\SKILL.md"
+      "path": "skills/python-packaging/SKILL.md"
     },
     {
       "id": "python-patterns",
@@ -9898,7 +9898,7 @@
         "structure",
         "teaches"
       ],
-      "path": "skills\\python-patterns\\SKILL.md"
+      "path": "skills/python-patterns/SKILL.md"
     },
     {
       "id": "python-performance-optimization",
@@ -9924,7 +9924,7 @@
         "slow",
         "optimizing"
       ],
-      "path": "skills\\python-performance-optimization\\SKILL.md"
+      "path": "skills/python-performance-optimization/SKILL.md"
     },
     {
       "id": "python-pro",
@@ -9948,7 +9948,7 @@
         "including",
         "uv"
       ],
-      "path": "skills\\python-pro\\SKILL.md"
+      "path": "skills/python-pro/SKILL.md"
     },
     {
       "id": "python-testing-patterns",
@@ -9972,7 +9972,7 @@
         "setting",
         "up"
       ],
-      "path": "skills\\python-testing-patterns\\SKILL.md"
+      "path": "skills/python-testing-patterns/SKILL.md"
     },
     {
       "id": "quant-analyst",
@@ -9997,7 +9997,7 @@
         "risk",
         "metrics"
       ],
-      "path": "skills\\quant-analyst\\SKILL.md"
+      "path": "skills/quant-analyst/SKILL.md"
     },
     {
       "id": "radix-ui-design-system",
@@ -10021,7 +10021,7 @@
         "grade",
         "libraries"
       ],
-      "path": "skills\\radix-ui-design-system\\SKILL.md"
+      "path": "skills/radix-ui-design-system/SKILL.md"
     },
     {
       "id": "rag-engineer",
@@ -10045,7 +10045,7 @@
         "databases",
         "chunking"
       ],
-      "path": "skills\\rag-engineer\\SKILL.md"
+      "path": "skills/rag-engineer/SKILL.md"
     },
     {
       "id": "rag-implementation",
@@ -10069,7 +10069,7 @@
         "implementing",
         "knowledge"
       ],
-      "path": "skills\\rag-implementation\\SKILL.md"
+      "path": "skills/rag-implementation/SKILL.md"
     },
     {
       "id": "readme",
@@ -10093,7 +10093,7 @@
         "asks",
         "skill"
       ],
-      "path": "skills\\readme\\SKILL.md"
+      "path": "skills/readme/SKILL.md"
     },
     {
       "id": "receiving-code-review",
@@ -10118,7 +10118,7 @@
         "technically",
         "questionable"
       ],
-      "path": "skills\\receiving-code-review\\SKILL.md"
+      "path": "skills/receiving-code-review/SKILL.md"
     },
     {
       "id": "red-team-tactics",
@@ -10144,7 +10144,7 @@
         "evasion",
         "reporting"
       ],
-      "path": "skills\\red-team-tactics\\SKILL.md"
+      "path": "skills/red-team-tactics/SKILL.md"
     },
     {
       "id": "red-team-tools",
@@ -10169,7 +10169,7 @@
         "bug",
         "bounty"
       ],
-      "path": "skills\\red-team-tools\\SKILL.md"
+      "path": "skills/red-team-tools/SKILL.md"
     },
     {
       "id": "reference-builder",
@@ -10194,7 +10194,7 @@
         "listings",
         "configuration"
       ],
-      "path": "skills\\reference-builder\\SKILL.md"
+      "path": "skills/reference-builder/SKILL.md"
     },
     {
       "id": "referral-program",
@@ -10219,7 +10219,7 @@
         "ambassador",
         "viral"
       ],
-      "path": "skills\\referral-program\\SKILL.md"
+      "path": "skills/referral-program/SKILL.md"
     },
     {
       "id": "remotion-best-practices",
@@ -10241,7 +10241,7 @@
         "composition",
         "creation"
       ],
-      "path": "skills\\remotion-best-practices\\SKILL.md"
+      "path": "skills/remotion-best-practices/SKILL.md"
     },
     {
       "id": "requesting-code-review",
@@ -10266,7 +10266,7 @@
         "verify",
         "work"
       ],
-      "path": "skills\\requesting-code-review\\SKILL.md"
+      "path": "skills/requesting-code-review/SKILL.md"
     },
     {
       "id": "research-engineer",
@@ -10290,7 +10290,7 @@
         "zero",
         "flair"
       ],
-      "path": "skills\\research-engineer\\SKILL.md"
+      "path": "skills/research-engineer/SKILL.md"
     },
     {
       "id": "reverse-engineer",
@@ -10314,7 +10314,7 @@
         "pro",
         "ghidra"
       ],
-      "path": "skills\\reverse-engineer\\SKILL.md"
+      "path": "skills/reverse-engineer/SKILL.md"
     },
     {
       "id": "risk-manager",
@@ -10339,7 +10339,7 @@
         "expectancy",
         "implements"
       ],
-      "path": "skills\\risk-manager\\SKILL.md"
+      "path": "skills/risk-manager/SKILL.md"
     },
     {
       "id": "risk-metrics-calculation",
@@ -10365,7 +10365,7 @@
         "drawdown",
         "analysis"
       ],
-      "path": "skills\\risk-metrics-calculation\\SKILL.md"
+      "path": "skills/risk-metrics-calculation/SKILL.md"
     },
     {
       "id": "ruby-pro",
@@ -10389,7 +10389,7 @@
         "gem",
         "development"
       ],
-      "path": "skills\\ruby-pro\\SKILL.md"
+      "path": "skills/ruby-pro/SKILL.md"
     },
     {
       "id": "rust-async-patterns",
@@ -10414,7 +10414,7 @@
         "implementing",
         "debugging"
       ],
-      "path": "skills\\rust-async-patterns\\SKILL.md"
+      "path": "skills/rust-async-patterns/SKILL.md"
     },
     {
       "id": "rust-pro",
@@ -10438,7 +10438,7 @@
         "tokio",
         "axum"
       ],
-      "path": "skills\\rust-pro\\SKILL.md"
+      "path": "skills/rust-pro/SKILL.md"
     },
     {
       "id": "saas-automation-suite",
@@ -10463,7 +10463,7 @@
         "composio",
         "crm"
       ],
-      "path": "skills\\saas-automation-suite\\SKILL.md"
+      "path": "skills/saas-automation-suite/SKILL.md"
     },
     {
       "id": "saga-orchestration",
@@ -10487,7 +10487,7 @@
         "processes",
         "handling"
       ],
-      "path": "skills\\saga-orchestration\\SKILL.md"
+      "path": "skills/saga-orchestration/SKILL.md"
     },
     {
       "id": "sales-automator",
@@ -10512,7 +10512,7 @@
         "pages",
         "case"
       ],
-      "path": "skills\\sales-automator\\SKILL.md"
+      "path": "skills/sales-automator/SKILL.md"
     },
     {
       "id": "salesforce-development",
@@ -10536,7 +10536,7 @@
         "classes",
         "rest"
       ],
-      "path": "skills\\salesforce-development\\SKILL.md"
+      "path": "skills/salesforce-development/SKILL.md"
     },
     {
       "id": "sast-configuration",
@@ -10561,7 +10561,7 @@
         "code",
         "setting"
       ],
-      "path": "skills\\sast-configuration\\SKILL.md"
+      "path": "skills/sast-configuration/SKILL.md"
     },
     {
       "id": "scala-pro",
@@ -10585,7 +10585,7 @@
         "processing",
         "apache"
       ],
-      "path": "skills\\scala-pro\\SKILL.md"
+      "path": "skills/scala-pro/SKILL.md"
     },
     {
       "id": "scanning-tools",
@@ -10609,7 +10609,7 @@
         "networks",
         "open"
       ],
-      "path": "skills\\scanning-tools\\SKILL.md"
+      "path": "skills/scanning-tools/SKILL.md"
     },
     {
       "id": "schema-markup",
@@ -10634,7 +10634,7 @@
         "seo",
         "impact"
       ],
-      "path": "skills\\schema-markup\\SKILL.md"
+      "path": "skills/schema-markup/SKILL.md"
     },
     {
       "id": "screen-reader-testing",
@@ -10659,7 +10659,7 @@
         "jaws",
         "validating"
       ],
-      "path": "skills\\screen-reader-testing\\SKILL.md"
+      "path": "skills/screen-reader-testing/SKILL.md"
     },
     {
       "id": "screenshots",
@@ -10683,7 +10683,7 @@
         "media",
         "landing"
       ],
-      "path": "skills\\screenshots\\SKILL.md"
+      "path": "skills/screenshots/SKILL.md"
     },
     {
       "id": "scroll-experience",
@@ -10708,7 +10708,7 @@
         "narratives",
         "cinematic"
       ],
-      "path": "skills\\scroll-experience\\SKILL.md"
+      "path": "skills/scroll-experience/SKILL.md"
     },
     {
       "id": "search-specialist",
@@ -10732,7 +10732,7 @@
         "source",
         "verification"
       ],
-      "path": "skills\\search-specialist\\SKILL.md"
+      "path": "skills/search-specialist/SKILL.md"
     },
     {
       "id": "secrets-management",
@@ -10756,7 +10756,7 @@
         "solutions",
         "handling"
       ],
-      "path": "skills\\secrets-management\\SKILL.md"
+      "path": "skills/secrets-management/SKILL.md"
     },
     {
       "id": "security-requirement-extraction",
@@ -10782,7 +10782,7 @@
         "threats",
         "actionable"
       ],
-      "path": "skills\\security-requirement-extraction\\SKILL.md"
+      "path": "skills/security-requirement-extraction/SKILL.md"
     },
     {
       "id": "security-scanning-security-dependencies",
@@ -10808,7 +10808,7 @@
         "chain",
         "scan"
       ],
-      "path": "skills\\security-scanning-security-dependencies\\SKILL.md"
+      "path": "skills/security-scanning-security-dependencies/SKILL.md"
     },
     {
       "id": "segment-cdp",
@@ -10833,7 +10833,7 @@
         "tracking",
         "plans"
       ],
-      "path": "skills\\segment-cdp\\SKILL.md"
+      "path": "skills/segment-cdp/SKILL.md"
     },
     {
       "id": "senior-architect",
@@ -10857,7 +10857,7 @@
         "nodejs",
         "express"
       ],
-      "path": "skills\\senior-architect\\SKILL.md"
+      "path": "skills/senior-architect/SKILL.md"
     },
     {
       "id": "senior-fullstack",
@@ -10882,7 +10882,7 @@
         "js",
         "node"
       ],
-      "path": "skills\\senior-fullstack\\SKILL.md"
+      "path": "skills/senior-fullstack/SKILL.md"
     },
     {
       "id": "seo-audit",
@@ -10907,7 +10907,7 @@
         "user",
         "asks"
       ],
-      "path": "skills\\seo-audit\\SKILL.md"
+      "path": "skills/seo-audit/SKILL.md"
     },
     {
       "id": "seo-authority-builder",
@@ -10933,7 +10933,7 @@
         "missing",
         "credibility"
       ],
-      "path": "skills\\seo-authority-builder\\SKILL.md"
+      "path": "skills/seo-authority-builder/SKILL.md"
     },
     {
       "id": "seo-cannibalization-detector",
@@ -10959,7 +10959,7 @@
         "potential",
         "issues"
       ],
-      "path": "skills\\seo-cannibalization-detector\\SKILL.md"
+      "path": "skills/seo-cannibalization-detector/SKILL.md"
     },
     {
       "id": "seo-content-auditor",
@@ -10985,7 +10985,7 @@
         "recommendations",
         "established"
       ],
-      "path": "skills\\seo-content-auditor\\SKILL.md"
+      "path": "skills/seo-content-auditor/SKILL.md"
     },
     {
       "id": "seo-content-planner",
@@ -11011,7 +11011,7 @@
         "gaps",
         "proactively"
       ],
-      "path": "skills\\seo-content-planner\\SKILL.md"
+      "path": "skills/seo-content-planner/SKILL.md"
     },
     {
       "id": "seo-content-refresher",
@@ -11037,7 +11037,7 @@
         "freshness",
         "finds"
       ],
-      "path": "skills\\seo-content-refresher\\SKILL.md"
+      "path": "skills/seo-content-refresher/SKILL.md"
     },
     {
       "id": "seo-content-writer",
@@ -11063,7 +11063,7 @@
         "engaging",
         "following"
       ],
-      "path": "skills\\seo-content-writer\\SKILL.md"
+      "path": "skills/seo-content-writer/SKILL.md"
     },
     {
       "id": "seo-fundamentals",
@@ -11088,7 +11088,7 @@
         "quality",
         "how"
       ],
-      "path": "skills\\seo-fundamentals\\SKILL.md"
+      "path": "skills/seo-fundamentals/SKILL.md"
     },
     {
       "id": "seo-keyword-strategist",
@@ -11114,7 +11114,7 @@
         "semantic",
         "variations"
       ],
-      "path": "skills\\seo-keyword-strategist\\SKILL.md"
+      "path": "skills/seo-keyword-strategist/SKILL.md"
     },
     {
       "id": "seo-meta-optimizer",
@@ -11140,7 +11140,7 @@
         "limits",
         "generates"
       ],
-      "path": "skills\\seo-meta-optimizer\\SKILL.md"
+      "path": "skills/seo-meta-optimizer/SKILL.md"
     },
     {
       "id": "seo-snippet-hunter",
@@ -11166,7 +11166,7 @@
         "creates",
         "optimized"
       ],
-      "path": "skills\\seo-snippet-hunter\\SKILL.md"
+      "path": "skills/seo-snippet-hunter/SKILL.md"
     },
     {
       "id": "seo-structure-architect",
@@ -11191,7 +11191,7 @@
         "schema",
         "markup"
       ],
-      "path": "skills\\seo-structure-architect\\SKILL.md"
+      "path": "skills/seo-structure-architect/SKILL.md"
     },
     {
       "id": "server-management",
@@ -11214,7 +11214,7 @@
         "thinking",
         "commands"
       ],
-      "path": "skills\\server-management\\SKILL.md"
+      "path": "skills/server-management/SKILL.md"
     },
     {
       "id": "service-mesh-expert",
@@ -11239,7 +11239,7 @@
         "traffic",
         "security"
       ],
-      "path": "skills\\service-mesh-expert\\SKILL.md"
+      "path": "skills/service-mesh-expert/SKILL.md"
     },
     {
       "id": "service-mesh-observability",
@@ -11265,7 +11265,7 @@
         "up",
         "monitoring"
       ],
-      "path": "skills\\service-mesh-observability\\SKILL.md"
+      "path": "skills/service-mesh-observability/SKILL.md"
     },
     {
       "id": "sharp-edges",
@@ -11286,7 +11286,7 @@
         "dangerous",
         "configurations"
       ],
-      "path": "skills\\sharp-edges\\SKILL.md"
+      "path": "skills/sharp-edges/SKILL.md"
     },
     {
       "id": "shodan-reconnaissance",
@@ -11311,7 +11311,7 @@
         "devices",
         "internet"
       ],
-      "path": "skills\\shodan-reconnaissance\\SKILL.md"
+      "path": "skills/shodan-reconnaissance/SKILL.md"
     },
     {
       "id": "shopify-apps",
@@ -11336,7 +11336,7 @@
         "webhook",
         "handling"
       ],
-      "path": "skills\\shopify-apps\\SKILL.md"
+      "path": "skills/shopify-apps/SKILL.md"
     },
     {
       "id": "shopify-development",
@@ -11360,7 +11360,7 @@
         "ui",
         "liquid"
       ],
-      "path": "skills\\shopify-development\\SKILL.md"
+      "path": "skills/shopify-development/SKILL.md"
     },
     {
       "id": "signup-flow-cro",
@@ -11386,7 +11386,7 @@
         "activation",
         "flows"
       ],
-      "path": "skills\\signup-flow-cro\\SKILL.md"
+      "path": "skills/signup-flow-cro/SKILL.md"
     },
     {
       "id": "similarity-search-patterns",
@@ -11411,7 +11411,7 @@
         "queries",
         "optimizing"
       ],
-      "path": "skills\\similarity-search-patterns\\SKILL.md"
+      "path": "skills/similarity-search-patterns/SKILL.md"
     },
     {
       "id": "skill-creator",
@@ -11438,7 +11438,7 @@
         "new",
         "custom"
       ],
-      "path": "skills\\skill-creator\\SKILL.md"
+      "path": "skills/skill-creator/SKILL.md"
     },
     {
       "id": "skill-developer",
@@ -11462,7 +11462,7 @@
         "rules",
         "json"
       ],
-      "path": "skills\\skill-developer\\SKILL.md"
+      "path": "skills/skill-developer/SKILL.md"
     },
     {
       "id": "skill-rails-upgrade",
@@ -11483,7 +11483,7 @@
         "provide",
         "assessments"
       ],
-      "path": "skills\\skill-rails-upgrade\\SKILL.md"
+      "path": "skills/skill-rails-upgrade/SKILL.md"
     },
     {
       "id": "slack-bot-builder",
@@ -11509,7 +11509,7 @@
         "block",
         "kit"
       ],
-      "path": "skills\\slack-bot-builder\\SKILL.md"
+      "path": "skills/slack-bot-builder/SKILL.md"
     },
     {
       "id": "slack-gif-creator",
@@ -11535,7 +11535,7 @@
         "constraints",
         "validation"
       ],
-      "path": "skills\\slack-gif-creator\\SKILL.md"
+      "path": "skills/slack-gif-creator/SKILL.md"
     },
     {
       "id": "slo-implementation",
@@ -11559,7 +11559,7 @@
         "establishing",
         "reliability"
       ],
-      "path": "skills\\slo-implementation\\SKILL.md"
+      "path": "skills/slo-implementation/SKILL.md"
     },
     {
       "id": "smtp-penetration-testing",
@@ -11584,7 +11584,7 @@
         "email",
         "users"
       ],
-      "path": "skills\\smtp-penetration-testing\\SKILL.md"
+      "path": "skills/smtp-penetration-testing/SKILL.md"
     },
     {
       "id": "social-content",
@@ -11609,7 +11609,7 @@
         "instagram",
         "tiktok"
       ],
-      "path": "skills\\social-content\\SKILL.md"
+      "path": "skills/social-content/SKILL.md"
     },
     {
       "id": "software-architecture",
@@ -11634,7 +11634,7 @@
         "analyze",
         "any"
       ],
-      "path": "skills\\software-architecture\\SKILL.md"
+      "path": "skills/software-architecture/SKILL.md"
     },
     {
       "id": "solidity-security",
@@ -11659,7 +11659,7 @@
         "auditing",
         "existing"
       ],
-      "path": "skills\\solidity-security\\SKILL.md"
+      "path": "skills/solidity-security/SKILL.md"
     },
     {
       "id": "spark-optimization",
@@ -11684,7 +11684,7 @@
         "improving",
         "performance"
       ],
-      "path": "skills\\spark-optimization\\SKILL.md"
+      "path": "skills/spark-optimization/SKILL.md"
     },
     {
       "id": "sql-optimization-patterns",
@@ -11709,7 +11709,7 @@
         "eliminate",
         "slow"
       ],
-      "path": "skills\\sql-optimization-patterns\\SKILL.md"
+      "path": "skills/sql-optimization-patterns/SKILL.md"
     },
     {
       "id": "sql-pro",
@@ -11733,7 +11733,7 @@
         "performance",
         "tuning"
       ],
-      "path": "skills\\sql-pro\\SKILL.md"
+      "path": "skills/sql-pro/SKILL.md"
     },
     {
       "id": "ssh-penetration-testing",
@@ -11758,7 +11758,7 @@
         "configurations",
         "brute"
       ],
-      "path": "skills\\ssh-penetration-testing\\SKILL.md"
+      "path": "skills/ssh-penetration-testing/SKILL.md"
     },
     {
       "id": "startup-analyst",
@@ -11783,7 +11783,7 @@
         "strategic",
         "planning"
       ],
-      "path": "skills\\startup-analyst\\SKILL.md"
+      "path": "skills/startup-analyst/SKILL.md"
     },
     {
       "id": "startup-business-analyst-business-case",
@@ -11808,7 +11808,7 @@
         "solution",
         "financials"
       ],
-      "path": "skills\\startup-business-analyst-business-case\\SKILL.md"
+      "path": "skills/startup-business-analyst-business-case/SKILL.md"
     },
     {
       "id": "startup-business-analyst-financial-projections",
@@ -11836,7 +11836,7 @@
         "cash",
         "flow"
       ],
-      "path": "skills\\startup-business-analyst-financial-projections\\SKILL.md"
+      "path": "skills/startup-business-analyst-financial-projections/SKILL.md"
     },
     {
       "id": "startup-business-analyst-market-opportunity",
@@ -11863,7 +11863,7 @@
         "som",
         "calculations"
       ],
-      "path": "skills\\startup-business-analyst-market-opportunity\\SKILL.md"
+      "path": "skills/startup-business-analyst-market-opportunity/SKILL.md"
     },
     {
       "id": "startup-financial-modeling",
@@ -11889,7 +11889,7 @@
         "forecast",
         "revenue"
       ],
-      "path": "skills\\startup-financial-modeling\\SKILL.md"
+      "path": "skills/startup-financial-modeling/SKILL.md"
     },
     {
       "id": "startup-metrics-framework",
@@ -11915,7 +11915,7 @@
         "saas",
         "cac"
       ],
-      "path": "skills\\startup-metrics-framework\\SKILL.md"
+      "path": "skills/startup-metrics-framework/SKILL.md"
     },
     {
       "id": "stitch-ui-design",
@@ -11940,7 +11940,7 @@
         "app",
         "interfaces"
       ],
-      "path": "skills\\stitch-ui-design\\SKILL.md"
+      "path": "skills/stitch-ui-design/SKILL.md"
     },
     {
       "id": "stride-analysis-patterns",
@@ -11964,7 +11964,7 @@
         "threat",
         "modeling"
       ],
-      "path": "skills\\stride-analysis-patterns\\SKILL.md"
+      "path": "skills/stride-analysis-patterns/SKILL.md"
     },
     {
       "id": "stripe-integration",
@@ -11989,7 +11989,7 @@
         "subscriptions",
         "webhooks"
       ],
-      "path": "skills\\stripe-integration\\SKILL.md"
+      "path": "skills/stripe-integration/SKILL.md"
     },
     {
       "id": "subagent-driven-development",
@@ -12011,7 +12011,7 @@
         "current",
         "session"
       ],
-      "path": "skills\\subagent-driven-development\\SKILL.md"
+      "path": "skills/subagent-driven-development/SKILL.md"
     },
     {
       "id": "suite-angular",
@@ -12036,7 +12036,7 @@
         "zoneless",
         "architecture"
       ],
-      "path": "skills\\suite-angular\\SKILL.md"
+      "path": "skills/suite-angular/SKILL.md"
     },
     {
       "id": "suite-devops-linux",
@@ -12062,7 +12062,7 @@
         "container",
         "orchestration"
       ],
-      "path": "skills\\suite-devops-linux\\SKILL.md"
+      "path": "skills/suite-devops-linux/SKILL.md"
     },
     {
       "id": "suite-infrastructure-as-code",
@@ -12089,7 +12089,7 @@
         "module",
         "state"
       ],
-      "path": "skills\\suite-infrastructure-as-code\\SKILL.md"
+      "path": "skills/suite-infrastructure-as-code/SKILL.md"
     },
     {
       "id": "suite-react",
@@ -12114,7 +12114,7 @@
         "clean",
         "cross"
       ],
-      "path": "skills\\suite-react\\SKILL.md"
+      "path": "skills/suite-react/SKILL.md"
     },
     {
       "id": "swiftui-expert-skill",
@@ -12139,7 +12139,7 @@
         "performance",
         "apis"
       ],
-      "path": "skills\\swiftui-expert-skill\\SKILL.md"
+      "path": "skills/swiftui-expert-skill/SKILL.md"
     },
     {
       "id": "systematic-debugging",
@@ -12164,7 +12164,7 @@
         "proposing",
         "fixes"
       ],
-      "path": "skills\\systematic-debugging\\SKILL.md"
+      "path": "skills/systematic-debugging/SKILL.md"
     },
     {
       "id": "systems-programming-rust-project",
@@ -12189,7 +12189,7 @@
         "tooling",
         "proper"
       ],
-      "path": "skills\\systems-programming-rust-project\\SKILL.md"
+      "path": "skills/systems-programming-rust-project/SKILL.md"
     },
     {
       "id": "tailwind-design-system",
@@ -12212,7 +12212,7 @@
         "standardizing",
         "ui"
       ],
-      "path": "skills\\tailwind-design-system\\SKILL.md"
+      "path": "skills/tailwind-design-system/SKILL.md"
     },
     {
       "id": "tailwind-patterns",
@@ -12234,7 +12234,7 @@
         "token",
         "architecture"
       ],
-      "path": "skills\\tailwind-patterns\\SKILL.md"
+      "path": "skills/tailwind-patterns/SKILL.md"
     },
     {
       "id": "tavily-web",
@@ -12256,7 +12256,7 @@
         "capabilities",
         "api"
       ],
-      "path": "skills\\tavily-web\\SKILL.md"
+      "path": "skills/tavily-web/SKILL.md"
     },
     {
       "id": "tdd-orchestrator",
@@ -12281,7 +12281,7 @@
         "test",
         "driven"
       ],
-      "path": "skills\\tdd-orchestrator\\SKILL.md"
+      "path": "skills/tdd-orchestrator/SKILL.md"
     },
     {
       "id": "tdd-workflow",
@@ -12302,7 +12302,7 @@
         "refactor",
         "cycle"
       ],
-      "path": "skills\\tdd-workflow\\SKILL.md"
+      "path": "skills/tdd-workflow/SKILL.md"
     },
     {
       "id": "tdd-workflows-tdd-cycle",
@@ -12318,7 +12318,7 @@
         "cycle",
         "working"
       ],
-      "path": "skills\\tdd-workflows-tdd-cycle\\SKILL.md"
+      "path": "skills/tdd-workflows-tdd-cycle/SKILL.md"
     },
     {
       "id": "tdd-workflows-tdd-green",
@@ -12340,7 +12340,7 @@
         "pass",
         "phase"
       ],
-      "path": "skills\\tdd-workflows-tdd-green\\SKILL.md"
+      "path": "skills/tdd-workflows-tdd-green/SKILL.md"
     },
     {
       "id": "tdd-workflows-tdd-red",
@@ -12364,7 +12364,7 @@
         "edge",
         "cases"
       ],
-      "path": "skills\\tdd-workflows-tdd-red\\SKILL.md"
+      "path": "skills/tdd-workflows-tdd-red/SKILL.md"
     },
     {
       "id": "tdd-workflows-tdd-refactor",
@@ -12380,7 +12380,7 @@
         "refactor",
         "working"
       ],
-      "path": "skills\\tdd-workflows-tdd-refactor\\SKILL.md"
+      "path": "skills/tdd-workflows-tdd-refactor/SKILL.md"
     },
     {
       "id": "team-collaboration-issue",
@@ -12406,7 +12406,7 @@
         "collaborative",
         "development"
       ],
-      "path": "skills\\team-collaboration-issue\\SKILL.md"
+      "path": "skills/team-collaboration-issue/SKILL.md"
     },
     {
       "id": "team-collaboration-standup-notes",
@@ -12433,7 +12433,7 @@
         "generation",
         "commit"
       ],
-      "path": "skills\\team-collaboration-standup-notes\\SKILL.md"
+      "path": "skills/team-collaboration-standup-notes/SKILL.md"
     },
     {
       "id": "team-composition-analysis",
@@ -12458,7 +12458,7 @@
         "determine",
         "hiring"
       ],
-      "path": "skills\\team-composition-analysis\\SKILL.md"
+      "path": "skills/team-composition-analysis/SKILL.md"
     },
     {
       "id": "telegram-bot-builder",
@@ -12484,7 +12484,7 @@
         "complex",
         "ai"
       ],
-      "path": "skills\\telegram-bot-builder\\SKILL.md"
+      "path": "skills/telegram-bot-builder/SKILL.md"
     },
     {
       "id": "telegram-mini-app",
@@ -12510,7 +12510,7 @@
         "like",
         "experience"
       ],
-      "path": "skills\\telegram-mini-app\\SKILL.md"
+      "path": "skills/telegram-mini-app/SKILL.md"
     },
     {
       "id": "temporal-python-pro",
@@ -12535,7 +12535,7 @@
         "covers",
         "async"
       ],
-      "path": "skills\\temporal-python-pro\\SKILL.md"
+      "path": "skills/temporal-python-pro/SKILL.md"
     },
     {
       "id": "temporal-python-testing",
@@ -12560,7 +12560,7 @@
         "integration",
         "replay"
       ],
-      "path": "skills\\temporal-python-testing\\SKILL.md"
+      "path": "skills/temporal-python-testing/SKILL.md"
     },
     {
       "id": "test-automator",
@@ -12584,7 +12584,7 @@
         "engineering",
         "scalable"
       ],
-      "path": "skills\\test-automator\\SKILL.md"
+      "path": "skills/test-automator/SKILL.md"
     },
     {
       "id": "test-driven-development",
@@ -12606,7 +12606,7 @@
         "writing",
         "code"
       ],
-      "path": "skills\\test-driven-development\\SKILL.md"
+      "path": "skills/test-driven-development/SKILL.md"
     },
     {
       "id": "test-fixing",
@@ -12630,7 +12630,7 @@
         "grouping",
         "user"
       ],
-      "path": "skills\\test-fixing\\SKILL.md"
+      "path": "skills/test-fixing/SKILL.md"
     },
     {
       "id": "testing-patterns",
@@ -12652,7 +12652,7 @@
         "test",
         "factories"
       ],
-      "path": "skills\\testing-patterns\\SKILL.md"
+      "path": "skills/testing-patterns/SKILL.md"
     },
     {
       "id": "theme-factory",
@@ -12677,7 +12677,7 @@
         "landing",
         "pages"
       ],
-      "path": "skills\\theme-factory\\SKILL.md"
+      "path": "skills/theme-factory/SKILL.md"
     },
     {
       "id": "threat-mitigation-mapping",
@@ -12703,7 +12703,7 @@
         "prioritizing",
         "investments"
       ],
-      "path": "skills\\threat-mitigation-mapping\\SKILL.md"
+      "path": "skills/threat-mitigation-mapping/SKILL.md"
     },
     {
       "id": "threat-modeling-expert",
@@ -12728,7 +12728,7 @@
         "pasta",
         "attack"
       ],
-      "path": "skills\\threat-modeling-expert\\SKILL.md"
+      "path": "skills/threat-modeling-expert/SKILL.md"
     },
     {
       "id": "tool-design",
@@ -12743,7 +12743,7 @@
         "architectural",
         "reduction"
       ],
-      "path": "skills\\tool-design\\SKILL.md"
+      "path": "skills/tool-design/SKILL.md"
     },
     {
       "id": "track-management",
@@ -12767,7 +12767,7 @@
         "features",
         "bugs"
       ],
-      "path": "skills\\track-management\\SKILL.md"
+      "path": "skills/track-management/SKILL.md"
     },
     {
       "id": "trigger-dev",
@@ -12792,7 +12792,7 @@
         "experience",
         "typescript"
       ],
-      "path": "skills\\trigger-dev\\SKILL.md"
+      "path": "skills/trigger-dev/SKILL.md"
     },
     {
       "id": "turborepo-caching",
@@ -12817,7 +12817,7 @@
         "pipelines",
         "implementing"
       ],
-      "path": "skills\\turborepo-caching\\SKILL.md"
+      "path": "skills/turborepo-caching/SKILL.md"
     },
     {
       "id": "tutorial-engineer",
@@ -12841,7 +12841,7 @@
         "concepts",
         "progressive"
       ],
-      "path": "skills\\tutorial-engineer\\SKILL.md"
+      "path": "skills/tutorial-engineer/SKILL.md"
     },
     {
       "id": "twilio-communications",
@@ -12866,7 +12866,7 @@
         "api",
         "user"
       ],
-      "path": "skills\\twilio-communications\\SKILL.md"
+      "path": "skills/twilio-communications/SKILL.md"
     },
     {
       "id": "typescript-advanced-types",
@@ -12892,7 +12892,7 @@
         "building",
         "safe"
       ],
-      "path": "skills\\typescript-advanced-types\\SKILL.md"
+      "path": "skills/typescript-advanced-types/SKILL.md"
     },
     {
       "id": "typescript-expert",
@@ -12916,7 +12916,7 @@
         "migration",
         "tooling"
       ],
-      "path": "skills\\typescript-expert\\SKILL.md"
+      "path": "skills/typescript-expert/SKILL.md"
     },
     {
       "id": "typescript-pro",
@@ -12940,7 +12940,7 @@
         "grade",
         "proactively"
       ],
-      "path": "skills\\typescript-pro\\SKILL.md"
+      "path": "skills/typescript-pro/SKILL.md"
     },
     {
       "id": "ui-ux-designer",
@@ -12966,7 +12966,7 @@
         "standards",
         "specializes"
       ],
-      "path": "skills\\ui-ux-designer\\SKILL.md"
+      "path": "skills/ui-ux-designer/SKILL.md"
     },
     {
       "id": "ui-ux-pro-max",
@@ -12992,7 +12992,7 @@
         "pairings",
         "20"
       ],
-      "path": "skills\\ui-ux-pro-max\\SKILL.md"
+      "path": "skills/ui-ux-pro-max/SKILL.md"
     },
     {
       "id": "ui-visual-validator",
@@ -13018,7 +13018,7 @@
         "masters",
         "screenshot"
       ],
-      "path": "skills\\ui-visual-validator\\SKILL.md"
+      "path": "skills/ui-visual-validator/SKILL.md"
     },
     {
       "id": "unit-testing-test-generate",
@@ -13042,7 +13042,7 @@
         "edge",
         "case"
       ],
-      "path": "skills\\unit-testing-test-generate\\SKILL.md"
+      "path": "skills/unit-testing-test-generate/SKILL.md"
     },
     {
       "id": "unity-developer",
@@ -13066,7 +13066,7 @@
         "lts",
         "urp"
       ],
-      "path": "skills\\unity-developer\\SKILL.md"
+      "path": "skills/unity-developer/SKILL.md"
     },
     {
       "id": "unity-ecs-patterns",
@@ -13091,7 +13091,7 @@
         "development",
         "building"
       ],
-      "path": "skills\\unity-ecs-patterns\\SKILL.md"
+      "path": "skills/unity-ecs-patterns/SKILL.md"
     },
     {
       "id": "unreal-engine-cpp-pro",
@@ -13114,7 +13114,7 @@
         "hygiene",
         "performance"
       ],
-      "path": "skills\\unreal-engine-cpp-pro\\SKILL.md"
+      "path": "skills/unreal-engine-cpp-pro/SKILL.md"
     },
     {
       "id": "upgrading-expo",
@@ -13132,7 +13132,7 @@
         "sdk",
         "versions"
       ],
-      "path": "skills\\upgrading-expo\\SKILL.md"
+      "path": "skills/upgrading-expo/SKILL.md"
     },
     {
       "id": "upstash-qstash",
@@ -13157,7 +13157,7 @@
         "delivery",
         "without"
       ],
-      "path": "skills\\upstash-qstash\\SKILL.md"
+      "path": "skills/upstash-qstash/SKILL.md"
     },
     {
       "id": "using-git-worktrees",
@@ -13183,7 +13183,7 @@
         "executing",
         "plans"
       ],
-      "path": "skills\\using-git-worktrees\\SKILL.md"
+      "path": "skills/using-git-worktrees/SKILL.md"
     },
     {
       "id": "using-neon",
@@ -13208,7 +13208,7 @@
         "development",
         "choosing"
       ],
-      "path": "skills\\using-neon\\SKILL.md"
+      "path": "skills/using-neon/SKILL.md"
     },
     {
       "id": "using-superpowers",
@@ -13233,7 +13233,7 @@
         "skill",
         "invocation"
       ],
-      "path": "skills\\using-superpowers\\SKILL.md"
+      "path": "skills/using-superpowers/SKILL.md"
     },
     {
       "id": "uv-package-manager",
@@ -13259,7 +13259,7 @@
         "managing",
         "dependencies"
       ],
-      "path": "skills\\uv-package-manager\\SKILL.md"
+      "path": "skills/uv-package-manager/SKILL.md"
     },
     {
       "id": "vector-database-engineer",
@@ -13284,7 +13284,7 @@
         "qdrant",
         "milvus"
       ],
-      "path": "skills\\vector-database-engineer\\SKILL.md"
+      "path": "skills/vector-database-engineer/SKILL.md"
     },
     {
       "id": "vector-index-tuning",
@@ -13310,7 +13310,7 @@
         "selecting",
         "quantization"
       ],
-      "path": "skills\\vector-index-tuning\\SKILL.md"
+      "path": "skills/vector-index-tuning/SKILL.md"
     },
     {
       "id": "vercel-deploy-claimable",
@@ -13336,7 +13336,7 @@
         "such",
         "my"
       ],
-      "path": "skills\\vercel-deploy-claimable\\SKILL.md"
+      "path": "skills/vercel-deploy-claimable/SKILL.md"
     },
     {
       "id": "vercel-deployment",
@@ -13357,7 +13357,7 @@
         "deploy",
         "hosting"
       ],
-      "path": "skills\\vercel-deployment\\SKILL.md"
+      "path": "skills/vercel-deployment/SKILL.md"
     },
     {
       "id": "verification-before-completion",
@@ -13383,7 +13383,7 @@
         "creating",
         "prs"
       ],
-      "path": "skills\\verification-before-completion\\SKILL.md"
+      "path": "skills/verification-before-completion/SKILL.md"
     },
     {
       "id": "viral-generator-builder",
@@ -13409,7 +13409,7 @@
         "avatar",
         "creators"
       ],
-      "path": "skills\\viral-generator-builder\\SKILL.md"
+      "path": "skills/viral-generator-builder/SKILL.md"
     },
     {
       "id": "voice-agents",
@@ -13434,7 +13434,7 @@
         "isn",
         "just"
       ],
-      "path": "skills\\voice-agents\\SKILL.md"
+      "path": "skills/voice-agents/SKILL.md"
     },
     {
       "id": "voice-ai-development",
@@ -13459,7 +13459,7 @@
         "covers",
         "openai"
       ],
-      "path": "skills\\voice-ai-development\\SKILL.md"
+      "path": "skills/voice-ai-development/SKILL.md"
     },
     {
       "id": "voice-ai-engine-development",
@@ -13485,7 +13485,7 @@
         "pipelines",
         "streaming"
       ],
-      "path": "skills\\voice-ai-engine-development\\SKILL.md"
+      "path": "skills/voice-ai-engine-development/SKILL.md"
     },
     {
       "id": "vulnerability-scanner",
@@ -13510,7 +13510,7 @@
         "surface",
         "mapping"
       ],
-      "path": "skills\\vulnerability-scanner\\SKILL.md"
+      "path": "skills/vulnerability-scanner/SKILL.md"
     },
     {
       "id": "wcag-audit-patterns",
@@ -13535,7 +13535,7 @@
         "guidance",
         "auditing"
       ],
-      "path": "skills\\wcag-audit-patterns\\SKILL.md"
+      "path": "skills/wcag-audit-patterns/SKILL.md"
     },
     {
       "id": "web-artifacts-builder",
@@ -13561,7 +13561,7 @@
         "html",
         "frontend"
       ],
-      "path": "skills\\web-artifacts-builder\\SKILL.md"
+      "path": "skills/web-artifacts-builder/SKILL.md"
     },
     {
       "id": "web-design-guidelines",
@@ -13586,7 +13586,7 @@
         "accessibility",
         "audit"
       ],
-      "path": "skills\\web-design-guidelines\\SKILL.md"
+      "path": "skills/web-design-guidelines/SKILL.md"
     },
     {
       "id": "web-performance-optimization",
@@ -13612,7 +13612,7 @@
         "vitals",
         "bundle"
       ],
-      "path": "skills\\web-performance-optimization\\SKILL.md"
+      "path": "skills/web-performance-optimization/SKILL.md"
     },
     {
       "id": "web3-testing",
@@ -13636,7 +13636,7 @@
         "integration",
         "mainnet"
       ],
-      "path": "skills\\web3-testing\\SKILL.md"
+      "path": "skills/web3-testing/SKILL.md"
     },
     {
       "id": "windows-privilege-escalation",
@@ -13662,7 +13662,7 @@
         "find",
         "privesc"
       ],
-      "path": "skills\\windows-privilege-escalation\\SKILL.md"
+      "path": "skills/windows-privilege-escalation/SKILL.md"
     },
     {
       "id": "wireshark-analysis",
@@ -13686,7 +13686,7 @@
         "capture",
         "packets"
       ],
-      "path": "skills\\wireshark-analysis\\SKILL.md"
+      "path": "skills/wireshark-analysis/SKILL.md"
     },
     {
       "id": "wordpress-penetration-testing",
@@ -13711,7 +13711,7 @@
         "scan",
         "vulnerabilities"
       ],
-      "path": "skills\\wordpress-penetration-testing\\SKILL.md"
+      "path": "skills/wordpress-penetration-testing/SKILL.md"
     },
     {
       "id": "workflow-orchestration-patterns",
@@ -13733,7 +13733,7 @@
         "determinism",
         "constraints"
       ],
-      "path": "skills\\workflow-orchestration-patterns\\SKILL.md"
+      "path": "skills/workflow-orchestration-patterns/SKILL.md"
     },
     {
       "id": "workflow-patterns",
@@ -13755,7 +13755,7 @@
         "git",
         "commits"
       ],
-      "path": "skills\\workflow-patterns\\SKILL.md"
+      "path": "skills/workflow-patterns/SKILL.md"
     },
     {
       "id": "writing-plans",
@@ -13778,7 +13778,7 @@
         "touching",
         "code"
       ],
-      "path": "skills\\writing-plans\\SKILL.md"
+      "path": "skills/writing-plans/SKILL.md"
     },
     {
       "id": "writing-skills",
@@ -13797,7 +13797,7 @@
         "improving",
         "agent"
       ],
-      "path": "skills\\writing-skills\\SKILL.md"
+      "path": "skills/writing-skills/SKILL.md"
     },
     {
       "id": "xlsx-official",
@@ -13822,7 +13822,7 @@
         "claude",
         "work"
       ],
-      "path": "skills\\xlsx-official\\SKILL.md"
+      "path": "skills/xlsx-official/SKILL.md"
     },
     {
       "id": "youtube-summarizer",
@@ -13850,7 +13850,7 @@
         "detailed",
         "summaries"
       ],
-      "path": "skills\\youtube-summarizer\\SKILL.md"
+      "path": "skills/youtube-summarizer/SKILL.md"
     },
     {
       "id": "zapier-make-patterns",
@@ -13875,7 +13875,7 @@
         "non",
         "developers"
       ],
-      "path": "skills\\zapier-make-patterns\\SKILL.md"
+      "path": "skills/zapier-make-patterns/SKILL.md"
     }
   ]
 }
