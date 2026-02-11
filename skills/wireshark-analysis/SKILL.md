@@ -16,7 +16,7 @@ metadata:
 
 ## When to Use
 
-- Use this skill when you need to this skill should be used when the user asks to "analyze network traffic with wireshark", "capture packets for troubleshooting", "filter pcap files", "follow tcp/udp streams", "detect network anomalies", "investigate suspicious traffic", or "perform protocol analysis". it provides comprehensive techniques for network packet capture, filtering, and analysis using wireshark.
+- Use this skill for Wireshark Analysis when the user asks to "analyze network traffic with wireshark", "capture packets for troubleshooting", "filter pcap files", "follow tcp/udp streams", "detect network anomalies", "investigate suspicious traffic", or "perform protocol analysis". It provides comprehensive techniques for network packet capture, filtering, and analysis using wireshark.
 - Activate this when the user asks about tasks related to wireshark analysis.
 
 ## Purpose

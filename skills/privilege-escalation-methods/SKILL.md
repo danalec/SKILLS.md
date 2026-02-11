@@ -19,7 +19,7 @@ metadata:
 
 ## When to Use
 
-- Use this skill when you need to this skill should be used when the user asks to "escalate privileges", "get root access", "become administrator", "privesc techniques", "abuse sudo", "exploit suid binaries", "kerberoasting", "pass-the-ticket", "token impersonation", or needs guidance on post-exploitation privilege escalation for linux or windows systems.
+- Use this skill for Privilege Escalation Methods when the user asks to "escalate privileges", "get root access", "become administrator", "privesc techniques", "abuse sudo", "exploit suid binaries", "kerberoasting", "pass-the-ticket", "token impersonation", or needs guidance on post-exploitation privilege escalation for linux or windows systems.
 - Activate this when the user asks about tasks related to privilege escalation methods.
 
 ## Purpose

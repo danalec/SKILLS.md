@@ -20,7 +20,7 @@ metadata:
 
 ## When to Use
 
-- Use this skill when you need to this skill should be used when the user asks to "escalate privileges on windows," "find windows privesc vectors," "enumerate windows for privilege escalation," "exploit windows misconfigurations," or "perform post-exploitation privilege escalation." it provides comprehensive guidance for discovering and exploiting privilege escalation vulnerabilities in windows environments.
+- Use this skill for Windows Privilege Escalation when the user asks to "escalate privileges on windows," "find windows privesc vectors," "enumerate windows for privilege escalation," "exploit windows misconfigurations," or "perform post-exploitation privilege escalation." It provides comprehensive guidance for discovering and exploiting privilege escalation vulnerabilities in windows environments.
 - Activate this when the user asks about tasks related to windows privilege escalation.
 
 ## Purpose

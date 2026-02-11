@@ -14,7 +14,7 @@ metadata:
 
 ## When to Use
 
-- Use this skill when you need to this skill should be used when the user asks to "set up a web server", "configure http or https", "perform snmp enumeration", "configure smb shares", "test network services", or needs guidance on configuring and testing network services for penetration testing labs.
+- Use this skill for Network 101 when the user asks to "set up a web server", "configure http or https", "perform snmp enumeration", "configure smb shares", "test network services", or needs guidance on configuring and testing network services for penetration testing labs.
 - Activate this when the user asks about tasks related to network 101.
 
 ## Purpose

@@ -11,7 +11,7 @@ source: community
 
 ## When to Use
 
-- Use this skill when you need to use this skill before any creative or constructive work (features, components, architecture, behavior changes, or functionality). this skill transforms vague ideas into validated designs through disciplined, incremental reasoning and collaboration.
+- Use this skill before starting any creative or constructive work (features, components, architecture, behavior changes, or functionality).
 - Activate this when the user asks about tasks related to brainstorming.
 
 ## Purpose

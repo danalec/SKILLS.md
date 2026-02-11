@@ -15,7 +15,7 @@ source: official
 
 ## When to Use
 
-- Use this skill when you need to comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. when claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) creating new spreadsheets with formulas and formatting, (2) reading or analyzing data, (3) modify existing spreadsheets while preserving formulas, (4) data analysis and visualization in spreadsheets, or (5) recalculating formulas.
+- Use this skill for comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. Activate when working with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) to: (1) create new spreadsheets with formulas and formatting, (2) read or analyze data, (3) modify existing spreadsheets while preserving formulas, (4) perform data analysis and visualization, or (5) recalculate formulas.
 - Activate this when the user asks about tasks related to xlsx official.
 
 ## All Excel files

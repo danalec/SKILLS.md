@@ -19,7 +19,7 @@ metadata:
 
 ## When to Use
 
-- Use this skill when you need to this skill should be used when the user asks to "perform smtp penetration testing", "enumerate email users", "test for open mail relays", "grab smtp banners", "brute force email credentials", or "assess mail server security". it provides comprehensive techniques for testing smtp server security.
+- Use this skill for Smtp Penetration Testing when the user asks to "perform smtp penetration testing", "enumerate email users", "test for open mail relays", "grab smtp banners", "brute force email credentials", or "assess mail server security". It provides comprehensive techniques for testing smtp server security.
 - Activate this when the user asks about tasks related to smtp penetration testing.
 
 ## Purpose

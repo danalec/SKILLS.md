@@ -18,7 +18,7 @@ metadata:
 
 ## When to Use
 
-- Use this skill when you need to this skill should be used when the user asks to "follow red team methodology", "perform bug bounty hunting", "automate reconnaissance", "hunt for xss vulnerabilities", "enumerate subdomains", or needs security researcher techniques and tool configurations from top bug bounty hunters.
+- Use this skill for Red Team Tools when the user asks to "follow red team methodology", "perform bug bounty hunting", "automate reconnaissance", "hunt for xss vulnerabilities", "enumerate subdomains", or needs security researcher techniques and tool configurations from top bug bounty hunters.
 - Activate this when the user asks about tasks related to red team tools.
 
 ## Purpose

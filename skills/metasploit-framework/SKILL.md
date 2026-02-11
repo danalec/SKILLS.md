@@ -19,7 +19,7 @@ metadata:
 
 ## When to Use
 
-- Use this skill when you need to this skill should be used when the user asks to "use metasploit for penetration testing", "exploit vulnerabilities with msfconsole", "create payloads with msfvenom", "perform post-exploitation", "use auxiliary modules for scanning", or "develop custom exploits". it provides comprehensive guidance for leveraging the metasploit framework in security assessments.
+- Use this skill for Metasploit Framework when the user asks to "use metasploit for penetration testing", "exploit vulnerabilities with msfconsole", "create payloads with msfvenom", "perform post-exploitation", "use auxiliary modules for scanning", or "develop custom exploits". It provides comprehensive guidance for leveraging the metasploit framework in security assessments.
 - Activate this when the user asks about tasks related to metasploit framework.
 
 ## Purpose

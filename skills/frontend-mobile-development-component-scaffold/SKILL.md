@@ -142,7 +142,7 @@ class ReactComponentGenerator {
     // Add effects
     if (spec.hooks?.includes('useEffect')) {
       body += `  useEffect(() => {\n`;
-      body += `    // TODO: Add effect logic\n`;
+      body += `    // Add effect logic (data fetching, subscriptions, etc.)\n`;
       body += `  }, [${destructuredProps}]);\n\n`;
     }
 
@@ -168,7 +168,7 @@ class ReactComponentGenerator {
     const a11y = options.accessibility ? '{...a11yProps}' : '';
 
     return `    <div ${className} ${a11y}>\n` +
-           `      {/* TODO: Add component content */}\n` +
+           `      {/* Add component content here (e.g., props, children, or dynamic data) */}\n` +
            `    </div>\n`;
   }
 }

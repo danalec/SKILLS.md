@@ -20,7 +20,7 @@ metadata:
 
 ## When to Use
 
-- Use this skill when you need to this skill should be used when the user asks to "escalate privileges on linux", "find privesc vectors on linux systems", "exploit sudo misconfigurations", "abuse suid binaries", "exploit cron jobs for root access", "enumerate linux systems for privilege escalation", or "gain root access from low-privilege shell". it provides comprehensive techniques for identifying and exploiting privilege escalation paths on linux systems.
+- Use this skill for Linux Privilege Escalation when the user asks to "escalate privileges on linux", "find privesc vectors on linux systems", "exploit sudo misconfigurations", "abuse suid binaries", "exploit cron jobs for root access", "enumerate linux systems for privilege escalation", or "gain root access from low-privilege shell". It provides comprehensive techniques for identifying and exploiting privilege escalation paths on linux systems.
 - Activate this when the user asks about tasks related to linux privilege escalation.
 
 ## Purpose

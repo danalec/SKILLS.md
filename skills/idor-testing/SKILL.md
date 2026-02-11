@@ -20,7 +20,7 @@ metadata:
 
 ## When to Use
 
-- Use this skill when you need to this skill should be used when the user asks to "test for insecure direct object references," "find idor vulnerabilities," "exploit broken access control," "enumerate user ids or object references," or "bypass authorization to access other users' data." it provides comprehensive guidance for detecting, exploiting, and remediating idor vulnerabilities in web applications.
+- Use this skill for Idor Testing when the user asks to "test for insecure direct object references," "find idor vulnerabilities," "exploit broken access control," "enumerate user ids or object references," or "bypass authorization to access other users' data." It provides comprehensive guidance for detecting, exploiting, and remediating idor vulnerabilities in web applications.
 - Activate this when the user asks about tasks related to idor testing.
 
 ## Purpose

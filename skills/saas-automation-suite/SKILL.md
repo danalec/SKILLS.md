@@ -12,7 +12,7 @@ This omnibus skill provides a unified interface for interacting with and automat
 ## When to Use
 
 - Use when you need to automate tasks in platforms like **Airtable, Jira, HubSpot, Slack, GitHub, Stripe**, and many others.
-- Active this when the user requires cross-platform syncs or multi-service workflows.
+- Activate this when the user requires cross-platform syncs or multi-service workflows.
 - Use when you need to manage CRM contacts, project management tasks, or marketing campaigns across disparate tools.
 
 ## Supported Platforms (Partial List)

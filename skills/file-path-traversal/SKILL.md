@@ -19,7 +19,7 @@ metadata:
 
 ## When to Use
 
-- Use this skill when you need to this skill should be used when the user asks to "test for directory traversal", "exploit path traversal vulnerabilities", "read arbitrary files through web applications", "find lfi vulnerabilities", or "access files outside web root". it provides comprehensive file path traversal attack and testing methodologies.
+- Use this skill for File Path Traversal when the user asks to "test for directory traversal", "exploit path traversal vulnerabilities", "read arbitrary files through web applications", "find lfi vulnerabilities", or "access files outside web root". It provides comprehensive file path traversal attack and testing methodologies.
 - Activate this when the user asks about tasks related to file path traversal.
 
 ## Purpose

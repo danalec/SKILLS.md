@@ -19,7 +19,7 @@ metadata:
 
 ## When to Use
 
-- Use this skill when you need to this skill should be used when the user asks to "pentest ssh services", "enumerate ssh configurations", "brute force ssh credentials", "exploit ssh vulnerabilities", "perform ssh tunneling", or "audit ssh security". it provides comprehensive ssh penetration testing methodologies and techniques.
+- Use this skill for Ssh Penetration Testing when the user asks to "pentest ssh services", "enumerate ssh configurations", "brute force ssh credentials", "exploit ssh vulnerabilities", "perform ssh tunneling", or "audit ssh security". It provides comprehensive ssh penetration testing methodologies and techniques.
 - Activate this when the user asks about tasks related to ssh penetration testing.
 
 ## Purpose

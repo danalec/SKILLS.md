@@ -18,7 +18,7 @@ metadata:
 
 ## When to Use
 
-- Use this skill when you need to this skill should be used when the user asks to "pentest wordpress sites", "scan wordpress for vulnerabilities", "enumerate wordpress users, themes, or plugins", "exploit wordpress vulnerabilities", or "use wpscan". it provides comprehensive wordpress security assessment methodologies.
+- Use this skill for WordPress penetration testing when the user asks to "pentest WordPress sites", "scan WordPress for vulnerabilities", "enumerate WordPress users, themes, or plugins", "exploit WordPress vulnerabilities", or "use wpscan". It provides comprehensive WordPress security assessment methodologies.
 - Activate this when the user asks about tasks related to wordpress penetration testing.
 
 ## Purpose
