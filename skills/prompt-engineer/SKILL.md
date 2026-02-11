@@ -1,16 +1,19 @@
 ---
 name: prompt-engineer
-description: "Transforms user prompts into optimized prompts using frameworks (RTF, RISEN, Chain of Thought, RODES, Chain of Density, RACE, RISE, STAR, SOAP, CLEAR, GROW)"
-version: 1.1.0
-author: Eric Andrade
-created: 2025-02-01
-updated: 2026-02-04
-platforms: [github-copilot-cli, claude-code, codex]
-category: automation
-tags: [prompt-engineering, optimization, frameworks, ai-enhancement]
+description: Transforms user prompts into optimized prompts using frameworks
+  (RTF, RISEN, Chain of Thought, RODES, Chain of Density, RACE, RISE, STAR,
+  SOAP, CLEAR, GROW)
 risk: safe
+source: community
+metadata:
+  version: 1.1.0
+  author: Eric Andrade
+  created: 2025-02-01
+  updated: 2026-02-04
+  platforms: github-copilot-cli, claude-code, codex
+  category: automation
+  tags: prompt-engineering, optimization, frameworks, ai-enhancement
 ---
-
 ## Purpose
 
 This skill transforms raw, unstructured user prompts into highly optimized prompts using established prompting frameworks. It analyzes user intent, identifies task complexity, and intelligently selects the most appropriate framework(s) to maximize Claude/ChatGPT output quality.

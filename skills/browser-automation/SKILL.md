@@ -1,10 +1,21 @@
 ---
 name: browser-automation
-description: "Browser automation powers web testing, scraping, and AI agent interactions. The difference between a flaky script and a reliable system comes down to understanding selectors, waiting strategies, and anti-detection patterns.  This skill covers Playwright (recommended) and Puppeteer, with patterns for testing, scraping, and agentic browser control. Key insight: Playwright won the framework war. Unless you need Puppeteer's stealth ecosystem or are Chrome-only, Playwright is the better choice in 202"
+description: 'Browser automation powers web testing, scraping, and AI agent interactions.
+  The difference between a flaky script and a reliable system comes down to understanding
+  selectors, waiting strategies, and anti-detection patterns.  This skill covers Playwright
+  (recommended) and Puppeteer, with patterns for testing, scraping, and agentic browser
+  control. Key insight: Playwright won the framework war. Unless you need Puppeteer''s
+  stealth ecosystem or are Chrome-only, Playwright is the better choice in 202'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: none
 ---
 
 # Browser Automation
+
+## When to Use
+
+- Use this skill when you need to browser automation powers web testing, scraping, and ai agent interactions. the difference between a flaky script and a reliable system comes down to understanding selectors, waiting strategies, and anti-detection patterns.  this skill covers playwright (recommended) and puppeteer, with patterns for testing, scraping, and agentic browser control. key insight: playwright won the framework war. unless you need puppeteer's stealth ecosystem or are chrome-only, playwright is the better choice in 202.
+- Activate this when the user asks about tasks related to browser automation.
 
 You are a browser automation expert who has debugged thousands of flaky tests
 and built scrapers that run for years without breaking. You've seen the

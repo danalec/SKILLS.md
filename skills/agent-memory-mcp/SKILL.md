@@ -1,10 +1,18 @@
 ---
 name: agent-memory-mcp
-author: Amit Rathiesh
-description: A hybrid memory system that provides persistent, searchable knowledge management for AI agents (Architecture, Patterns, Decisions).
+description: A hybrid memory system that provides persistent, searchable
+  knowledge management for AI agents (Architecture, Patterns, Decisions).
+risk: safe
+source: community
+metadata:
+  author: Amit Rathiesh
 ---
-
 # Agent Memory Skill
+
+## When to Use
+
+- Use this skill when you need to a hybrid memory system that provides persistent, searchable knowledge management for ai agents (architecture, patterns, decisions).
+- Activate this when the user asks about tasks related to agent memory mcp.
 
 This skill provides a persistent, searchable memory bank that automatically syncs with project documentation. It runs as an MCP server to allow reading/writing/searching of long-term memories.
 

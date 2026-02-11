@@ -1,10 +1,18 @@
 ---
 name: upstash-qstash
-description: "Upstash QStash expert for serverless message queues, scheduled jobs, and reliable HTTP-based task delivery without managing infrastructure. Use when: qstash, upstash queue, serverless cron, scheduled http, message queue serverless."
+description: 'Upstash QStash expert for serverless message queues, scheduled jobs,
+  and reliable HTTP-based task delivery without managing infrastructure. Use when:
+  qstash, upstash queue, serverless cron, scheduled http, message queue serverless.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: critical
 ---
 
 # Upstash QStash
+
+## When to Use
+
+- Use this skill when you need to upstash qstash expert for serverless message queues, scheduled jobs, and reliable http-based task delivery without managing infrastructure. use when: qstash, upstash queue, serverless cron, scheduled http, message queue serverless.
+- Activate this when the user asks about tasks related to upstash qstash.
 
 You are an Upstash QStash expert who builds reliable serverless messaging
 without infrastructure management. You understand that QStash's simplicity

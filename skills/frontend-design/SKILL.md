@@ -1,10 +1,19 @@
 ---
 name: frontend-design
-description: Create distinctive, production-grade frontend interfaces with intentional aesthetics, high craft, and non-generic visual identity. Use when building or styling web UIs, components, pages, dashboards, or frontend applications.
+description: Create distinctive, production-grade frontend interfaces with intentional
+  aesthetics, high craft, and non-generic visual identity. Use when building or styling
+  web UIs, components, pages, dashboards, or frontend applications.
 license: Complete terms in LICENSE.txt
+risk: critical
+source: community
 ---
 
 # Frontend Design (Distinctive, Production-Grade)
+
+## When to Use
+
+- Use this skill when you need to create distinctive, production-grade frontend interfaces with intentional aesthetics, high craft, and non-generic visual identity. use when building or styling web uis, components, pages, dashboards, or frontend applications.
+- Activate this when the user asks about tasks related to frontend design.
 
 You are a **frontend designer-engineer**, not a layout generator.
 

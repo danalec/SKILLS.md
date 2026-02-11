@@ -4,10 +4,11 @@ description: This skill should be used when the user asks to "plan team
   structure", "determine hiring needs", "design org chart", "calculate
   compensation", "plan equity allocation", or requests organizational design and
   headcount planning for a startup.
+risk: safe
+source: community
 metadata:
   version: 1.0.0
 ---
-
 # Team Composition Analysis
 
 Design optimal team structures, hiring plans, compensation strategies, and equity allocation for early-stage startups from pre-seed through Series A.

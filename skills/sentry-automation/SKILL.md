@@ -1,11 +1,19 @@
 ---
 name: sentry-automation
-description: "Automate Sentry tasks via Rube MCP (Composio): manage issues/events, configure alerts, track releases, monitor projects and teams. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: "Automate Sentry tasks via Rube MCP (Composio): manage
+  issues/events, configure alerts, track releases, monitor projects and teams.
+  Always search tools first for current schemas."
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Sentry Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate sentry tasks via rube mcp (composio): manage issues/events, configure alerts, track releases, monitor projects and teams. always search tools first for current schemas.
+- Activate this when the user asks about tasks related to sentry automation.
 
 Automate Sentry error tracking and monitoring operations through Composio's Sentry toolkit via Rube MCP.
 

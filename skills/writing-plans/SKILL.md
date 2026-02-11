@@ -1,9 +1,17 @@
 ---
 name: writing-plans
-description: Use when you have a spec or requirements for a multi-step task, before touching code
+description: Use when you have a spec or requirements for a multi-step task, before
+  touching code
+risk: safe
+source: community
 ---
 
 # Writing Plans
+
+## When to Use
+
+- Use this skill when you need to use when you have a spec or requirements for a multi-step task, before touching code.
+- Activate this when the user asks about tasks related to writing plans.
 
 ## Overview
 

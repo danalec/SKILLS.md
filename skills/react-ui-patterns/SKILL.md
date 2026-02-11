@@ -1,9 +1,17 @@
 ---
 name: react-ui-patterns
-description: Modern React UI patterns for loading states, error handling, and data fetching. Use when building UI components, handling async data, or managing UI states.
+description: Modern React UI patterns for loading states, error handling, and data
+  fetching. Use when building UI components, handling async data, or managing UI states.
+risk: none
+source: community
 ---
 
 # React UI Patterns
+
+## When to Use
+
+- Use this skill when you need to modern react ui patterns for loading states, error handling, and data fetching. use when building ui components, handling async data, or managing ui states.
+- Activate this when the user asks about tasks related to react ui patterns.
 
 ## Core Principles
 

@@ -1,12 +1,26 @@
 ---
 name: Cloud Penetration Testing
-description: This skill should be used when the user asks to "perform cloud penetration testing", "assess Azure or AWS or GCP security", "enumerate cloud resources", "exploit cloud misconfigurations", "test O365 security", "extract secrets from cloud environments", or "audit cloud infrastructure". It provides comprehensive techniques for security assessment across major cloud platforms.
+description: This skill should be used when the user asks to "perform cloud
+  penetration testing", "assess Azure or AWS or GCP security", "enumerate cloud
+  resources", "exploit cloud misconfigurations", "test O365 security", "extract
+  secrets from cloud environments", or "audit cloud infrastructure". It provides
+  comprehensive techniques for security assessment across major cloud platforms.
+risk: offensive
+source: community
 metadata:
   author: zebbern
   version: "1.1"
 ---
-
 # Cloud Penetration Testing
+
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
+
+
+## When to Use
+
+- Use this skill when you need to this skill should be used when the user asks to "perform cloud penetration testing", "assess azure or aws or gcp security", "enumerate cloud resources", "exploit cloud misconfigurations", "test o365 security", "extract secrets from cloud environments", or "audit cloud infrastructure". it provides comprehensive techniques for security assessment across major cloud platforms.
+- Activate this when the user asks about tasks related to cloud penetration testing.
 
 ## Purpose
 

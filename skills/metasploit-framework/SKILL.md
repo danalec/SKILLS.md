@@ -1,12 +1,26 @@
 ---
 name: Metasploit Framework
-description: This skill should be used when the user asks to "use Metasploit for penetration testing", "exploit vulnerabilities with msfconsole", "create payloads with msfvenom", "perform post-exploitation", "use auxiliary modules for scanning", or "develop custom exploits". It provides comprehensive guidance for leveraging the Metasploit Framework in security assessments.
+description: This skill should be used when the user asks to "use Metasploit for
+  penetration testing", "exploit vulnerabilities with msfconsole", "create
+  payloads with msfvenom", "perform post-exploitation", "use auxiliary modules
+  for scanning", or "develop custom exploits". It provides comprehensive
+  guidance for leveraging the Metasploit Framework in security assessments.
+risk: offensive
+source: community
 metadata:
   author: zebbern
   version: "1.1"
 ---
-
 # Metasploit Framework
+
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
+
+
+## When to Use
+
+- Use this skill when you need to this skill should be used when the user asks to "use metasploit for penetration testing", "exploit vulnerabilities with msfconsole", "create payloads with msfvenom", "perform post-exploitation", "use auxiliary modules for scanning", or "develop custom exploits". it provides comprehensive guidance for leveraging the metasploit framework in security assessments.
+- Activate this when the user asks about tasks related to metasploit framework.
 
 ## Purpose
 

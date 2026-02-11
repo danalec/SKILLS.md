@@ -3,10 +3,11 @@ name: seo-content-planner
 description: Creates comprehensive content outlines and topic clusters for SEO.
   Plans content calendars and identifies topic gaps. Use PROACTIVELY for content
   strategy and planning.
+risk: safe
+source: community
 metadata:
   model: haiku
 ---
-
 ## Use this skill when
 
 - Working on seo content planner tasks or workflows

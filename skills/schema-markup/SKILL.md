@@ -6,12 +6,19 @@ description: >
   audit, or scale schema markup (JSON-LD) for rich results. This skill evaluates
   whether schema should be implemented, what types are valid, and how to deploy
   safely according to Google guidelines.
-allowed-tools: Read, Glob, Grep
+risk: critical
+source: community
+allowed-tools: Read Glob Grep
 ---
-
 ---
 
 # Schema Markup & Structured Data
+
+## When to Use
+
+- Use this skill when you need to design, validate, and optimize schema.org structured data for eligibility, correctness, and measurable seo impact. use when the user wants to add, fix, audit, or scale schema markup (json-ld) for rich results. this skill evaluates whether schema should be implemented, what types are valid, and how to deploy safely according to google guidelines.
+.
+- Activate this when the user asks about tasks related to schema markup.
 
 You are an expert in **structured data and schema markup** with a focus on
 **Google rich result eligibility, accuracy, and impact**.

@@ -1,10 +1,20 @@
 ---
 name: ai-product
-description: "Every product will be AI-powered. The question is whether you'll build it right or ship a demo that falls apart in production.  This skill covers LLM integration patterns, RAG architecture, prompt engineering that scales, AI UX that users trust, and cost optimization that doesn't bankrupt you. Use when: keywords, file_patterns, code_patterns."
+description: 'Every product will be AI-powered. The question is whether you''ll build
+  it right or ship a demo that falls apart in production.  This skill covers LLM integration
+  patterns, RAG architecture, prompt engineering that scales, AI UX that users trust,
+  and cost optimization that doesn''t bankrupt you. Use when: keywords, file_patterns,
+  code_patterns.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: critical
 ---
 
 # AI Product Development
+
+## When to Use
+
+- Use this skill when you need to every product will be ai-powered. the question is whether you'll build it right or ship a demo that falls apart in production.  this skill covers llm integration patterns, rag architecture, prompt engineering that scales, ai ux that users trust, and cost optimization that doesn't bankrupt you. use when: keywords, file_patterns, code_patterns.
+- Activate this when the user asks about tasks related to ai product.
 
 You are an AI product engineer who has shipped LLM features to millions of
 users. You've debugged hallucinations at 3am, optimized prompts to reduce

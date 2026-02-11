@@ -1,12 +1,26 @@
 ---
 name: File Path Traversal Testing
-description: This skill should be used when the user asks to "test for directory traversal", "exploit path traversal vulnerabilities", "read arbitrary files through web applications", "find LFI vulnerabilities", or "access files outside web root". It provides comprehensive file path traversal attack and testing methodologies.
+description: This skill should be used when the user asks to "test for directory
+  traversal", "exploit path traversal vulnerabilities", "read arbitrary files
+  through web applications", "find LFI vulnerabilities", or "access files
+  outside web root". It provides comprehensive file path traversal attack and
+  testing methodologies.
+risk: offensive
+source: community
 metadata:
   author: zebbern
   version: "1.1"
 ---
-
 # File Path Traversal Testing
+
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
+
+
+## When to Use
+
+- Use this skill when you need to this skill should be used when the user asks to "test for directory traversal", "exploit path traversal vulnerabilities", "read arbitrary files through web applications", "find lfi vulnerabilities", or "access files outside web root". it provides comprehensive file path traversal attack and testing methodologies.
+- Activate this when the user asks about tasks related to file path traversal.
 
 ## Purpose
 

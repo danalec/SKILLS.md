@@ -1,10 +1,20 @@
 ---
 name: pdf
-description: Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale.
+description: Comprehensive PDF manipulation toolkit for extracting text and tables,
+  creating new PDFs, merging/splitting documents, and handling forms. When Claude
+  needs to fill in a PDF form or programmatically process, generate, or analyze PDF
+  documents at scale.
 license: Proprietary. LICENSE.txt has complete terms
+risk: safe
+source: official
 ---
 
 # PDF Processing Guide
+
+## When to Use
+
+- Use this skill when you need to comprehensive pdf manipulation toolkit for extracting text and tables, creating new pdfs, merging/splitting documents, and handling forms. when claude needs to fill in a pdf form or programmatically process, generate, or analyze pdf documents at scale.
+- Activate this when the user asks about tasks related to pdf official.
 
 ## Overview
 

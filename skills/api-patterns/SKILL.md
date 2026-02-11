@@ -1,10 +1,17 @@
 ---
 name: api-patterns
-description: API design principles and decision-making. REST vs GraphQL vs tRPC selection, response formats, versioning, pagination.
-allowed-tools: Read, Write, Edit, Glob, Grep
+description: API design principles and decision-making. REST vs GraphQL vs tRPC
+  selection, response formats, versioning, pagination.
+risk: safe
+source: community
+allowed-tools: Read Write Edit Glob Grep
 ---
-
 # API Patterns
+
+## When to Use
+
+- Use this skill when you need to api design principles and decision-making. rest vs graphql vs trpc selection, response formats, versioning, pagination.
+- Activate this when the user asks about tasks related to api patterns.
 
 > API design principles and decision-making for 2025.
 > **Learn to THINK, not copy fixed patterns.**

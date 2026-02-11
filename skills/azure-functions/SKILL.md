@@ -1,10 +1,19 @@
 ---
 name: azure-functions
-description: "Expert patterns for Azure Functions development including isolated worker model, Durable Functions orchestration, cold start optimization, and production patterns. Covers .NET, Python, and Node.js programming models. Use when: azure function, azure functions, durable functions, azure serverless, function app."
+description: 'Expert patterns for Azure Functions development including isolated worker
+  model, Durable Functions orchestration, cold start optimization, and production
+  patterns. Covers .NET, Python, and Node.js programming models. Use when: azure function,
+  azure functions, durable functions, azure serverless, function app.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: critical
 ---
 
 # Azure Functions
+
+## When to Use
+
+- Use this skill when you need to expert patterns for azure functions development including isolated worker model, durable functions orchestration, cold start optimization, and production patterns. covers .net, python, and node.js programming models. use when: azure function, azure functions, durable functions, azure serverless, function app.
+- Activate this when the user asks about tasks related to azure functions.
 
 ## Patterns
 

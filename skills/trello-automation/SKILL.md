@@ -1,11 +1,19 @@
 ---
 name: trello-automation
-description: "Automate Trello boards, cards, and workflows via Rube MCP (Composio). Create cards, manage lists, assign members, and search across boards programmatically."
-requires:
-  mcp: [rube]
+description: Automate Trello boards, cards, and workflows via Rube MCP
+  (Composio). Create cards, manage lists, assign members, and search across
+  boards programmatically.
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Trello Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate trello boards, cards, and workflows via rube mcp (composio). create cards, manage lists, assign members, and search across boards programmatically.
+- Activate this when the user asks about tasks related to trello automation.
 
 Automate Trello board management, card creation, and team workflows through Composio's Rube MCP integration.
 

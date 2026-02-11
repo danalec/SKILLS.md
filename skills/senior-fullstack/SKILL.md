@@ -1,9 +1,20 @@
 ---
 name: senior-fullstack
-description: Comprehensive fullstack development skill for building complete web applications with React, Next.js, Node.js, GraphQL, and PostgreSQL. Includes project scaffolding, code quality analysis, architecture patterns, and complete tech stack guidance. Use when building new projects, analyzing code quality, implementing design patterns, or setting up development workflows.
+description: Comprehensive fullstack development skill for building complete web applications
+  with React, Next.js, Node.js, GraphQL, and PostgreSQL. Includes project scaffolding,
+  code quality analysis, architecture patterns, and complete tech stack guidance.
+  Use when building new projects, analyzing code quality, implementing design patterns,
+  or setting up development workflows.
+risk: safe
+source: community
 ---
 
 # Senior Fullstack
+
+## When to Use
+
+- Use this skill when you need to comprehensive fullstack development skill for building complete web applications with react, next.js, node.js, graphql, and postgresql. includes project scaffolding, code quality analysis, architecture patterns, and complete tech stack guidance. use when building new projects, analyzing code quality, implementing design patterns, or setting up development workflows.
+- Activate this when the user asks about tasks related to senior fullstack.
 
 Complete toolkit for senior fullstack with modern tools and best practices.
 

@@ -1,10 +1,18 @@
 ---
 name: neon-postgres
-description: "Expert patterns for Neon serverless Postgres, branching, connection pooling, and Prisma/Drizzle integration Use when: neon database, serverless postgres, database branching, neon postgres, postgres serverless."
+description: 'Expert patterns for Neon serverless Postgres, branching, connection
+  pooling, and Prisma/Drizzle integration Use when: neon database, serverless postgres,
+  database branching, neon postgres, postgres serverless.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: none
 ---
 
 # Neon Postgres
+
+## When to Use
+
+- Use this skill when you need to expert patterns for neon serverless postgres, branching, connection pooling, and prisma/drizzle integration use when: neon database, serverless postgres, database branching, neon postgres, postgres serverless.
+- Activate this when the user asks about tasks related to neon postgres.
 
 ## Patterns
 

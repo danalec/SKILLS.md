@@ -1,11 +1,14 @@
 ---
 name: clean-code
-description: "Applies principles from Robert C. Martin's 'Clean Code'. Use this skill when writing, reviewing, or refactoring code to ensure high quality, readability, and maintainability. Covers naming, functions, comments, error handling, and class design."
-user-invocable: true
+description: Applies principles from Robert C. Martin's 'Clean Code'. Use this
+  skill when writing, reviewing, or refactoring code to ensure high quality,
+  readability, and maintainability. Covers naming, functions, comments, error
+  handling, and class design.
 risk: safe
-source: "ClawForge (https://github.com/jackjin1997/ClawForge)"
+source: community
+metadata:
+  user-invocable: "true"
 ---
-
 # Clean Code Skill
 
 This skill embodies the principles of "Clean Code" by Robert C. Martin (Uncle Bob). Use it to transform "code that works" into "code that is clean."

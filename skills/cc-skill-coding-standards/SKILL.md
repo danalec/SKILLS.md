@@ -1,11 +1,19 @@
 ---
 name: coding-standards
-description: Universal coding standards, best practices, and patterns for TypeScript, JavaScript, React, and Node.js development.
-author: affaan-m
-version: "1.0"
+description: Universal coding standards, best practices, and patterns for
+  TypeScript, JavaScript, React, and Node.js development.
+risk: safe
+source: community
+metadata:
+  author: affaan-m
+  version: "1.0"
 ---
-
 # Coding Standards & Best Practices
+
+## When to Use
+
+- Use this skill when you need to universal coding standards, best practices, and patterns for typescript, javascript, react, and node.js development.
+- Activate this when the user asks about tasks related to cc skill coding standards.
 
 Universal coding standards applicable across all projects.
 

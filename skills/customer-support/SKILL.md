@@ -5,10 +5,11 @@ description: Elite AI-powered customer support specialist mastering
   support experiences. Integrates modern support tools, chatbot platforms, and
   CX optimization with 2024/2025 best practices. Use PROACTIVELY for
   comprehensive customer experience management.
+risk: safe
+source: community
 metadata:
   model: haiku
 ---
-
 ## Use this skill when
 
 - Working on customer support tasks or workflows

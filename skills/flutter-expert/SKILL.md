@@ -5,10 +5,11 @@ description: Master Flutter development with Dart 3, advanced widgets, and
   performance optimization for mobile, web, desktop, and embedded platforms. Use
   PROACTIVELY for Flutter architecture, UI implementation, or cross-platform
   features.
+risk: critical
+source: community
 metadata:
   model: inherit
 ---
-
 ## Use this skill when
 
 - Working on flutter expert tasks or workflows

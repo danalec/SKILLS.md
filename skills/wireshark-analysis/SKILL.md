@@ -1,12 +1,23 @@
 ---
 name: Wireshark Network Traffic Analysis
-description: This skill should be used when the user asks to "analyze network traffic with Wireshark", "capture packets for troubleshooting", "filter PCAP files", "follow TCP/UDP streams", "detect network anomalies", "investigate suspicious traffic", or "perform protocol analysis". It provides comprehensive techniques for network packet capture, filtering, and analysis using Wireshark.
+description: This skill should be used when the user asks to "analyze network
+  traffic with Wireshark", "capture packets for troubleshooting", "filter PCAP
+  files", "follow TCP/UDP streams", "detect network anomalies", "investigate
+  suspicious traffic", or "perform protocol analysis". It provides comprehensive
+  techniques for network packet capture, filtering, and analysis using
+  Wireshark.
+risk: safe
+source: community
 metadata:
   author: zebbern
   version: "1.1"
 ---
-
 # Wireshark Network Traffic Analysis
+
+## When to Use
+
+- Use this skill when you need to this skill should be used when the user asks to "analyze network traffic with wireshark", "capture packets for troubleshooting", "filter pcap files", "follow tcp/udp streams", "detect network anomalies", "investigate suspicious traffic", or "perform protocol analysis". it provides comprehensive techniques for network packet capture, filtering, and analysis using wireshark.
+- Activate this when the user asks about tasks related to wireshark analysis.
 
 ## Purpose
 

@@ -1,9 +1,17 @@
 ---
 name: concise-planning
-description: Use when a user asks for a plan for a coding task, to generate a clear, actionable, and atomic checklist.
+description: Use when a user asks for a plan for a coding task, to generate a clear,
+  actionable, and atomic checklist.
+risk: safe
+source: community
 ---
 
 # Concise Planning
+
+## When to Use
+
+- Use this skill when you need to use when a user asks for a plan for a coding task, to generate a clear, actionable, and atomic checklist.
+- Activate this when the user asks about tasks related to concise planning.
 
 ## Goal
 

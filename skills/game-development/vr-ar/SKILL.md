@@ -2,9 +2,16 @@
 name: vr-ar
 description: VR/AR development principles. Comfort, interaction, performance requirements.
 allowed-tools: Read, Write, Edit, Glob, Grep
+risk: none
+source: community
 ---
 
 # VR/AR Development
+
+## When to Use
+
+- Use this skill when you need to vr/ar development principles. comfort, interaction, performance requirements.
+- Activate this when the user asks about tasks related to vr ar.
 
 > Immersive experience principles.
 

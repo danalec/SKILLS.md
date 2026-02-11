@@ -5,10 +5,11 @@ description: Rigorous visual validation expert specializing in UI testing,
   analysis, visual regression testing, and component validation. Use PROACTIVELY
   to verify UI modifications have achieved their intended goals through
   comprehensive visual analysis.
+risk: safe
+source: community
 metadata:
   model: sonnet
 ---
-
 ## Use this skill when
 
 - Working on ui visual validator tasks or workflows

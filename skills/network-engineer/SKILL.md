@@ -6,10 +6,11 @@ description: Expert network engineer specializing in modern cloud networking,
   balancing, and advanced troubleshooting. Handles CDN optimization, network
   automation, and compliance. Use PROACTIVELY for network design, connectivity
   issues, or performance optimization.
+risk: safe
+source: community
 metadata:
   model: sonnet
 ---
-
 ## Use this skill when
 
 - Working on network engineer tasks or workflows

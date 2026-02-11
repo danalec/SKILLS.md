@@ -1,10 +1,19 @@
 ---
 name: web-design-guidelines
-description: Review UI code for Web Interface Guidelines compliance. Use when asked to "review my UI", "check accessibility", "audit design", "review UX", or "check my site against best practices".
-argument-hint: <file-or-pattern>
+description: Review UI code for Web Interface Guidelines compliance. Use when
+  asked to "review my UI", "check accessibility", "audit design", "review UX",
+  or "check my site against best practices".
+risk: safe
+source: community
+metadata:
+  argument-hint: <file-or-pattern>
 ---
-
 # Web Interface Guidelines
+
+## When to Use
+
+- Use this skill when you need to review ui code for web interface guidelines compliance. use when asked to "review my ui", "check accessibility", "audit design", "review ux", or "check my site against best practices".
+- Activate this when the user asks about tasks related to web design guidelines.
 
 Review files for compliance with Web Interface Guidelines.
 

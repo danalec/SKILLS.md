@@ -1,11 +1,19 @@
 ---
 name: outlook-calendar-automation
-description: "Automate Outlook Calendar tasks via Rube MCP (Composio): create events, manage attendees, find meeting times, and handle invitations. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: "Automate Outlook Calendar tasks via Rube MCP (Composio): create
+  events, manage attendees, find meeting times, and handle invitations. Always
+  search tools first for current schemas."
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Outlook Calendar Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate outlook calendar tasks via rube mcp (composio): create events, manage attendees, find meeting times, and handle invitations. always search tools first for current schemas.
+- Activate this when the user asks about tasks related to outlook calendar automation.
 
 Automate Outlook Calendar operations through Composio's Outlook toolkit via Rube MCP.
 

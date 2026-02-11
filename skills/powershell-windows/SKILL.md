@@ -1,10 +1,17 @@
 ---
 name: powershell-windows
-description: PowerShell Windows patterns. Critical pitfalls, operator syntax, error handling.
-allowed-tools: Read, Write, Edit, Glob, Grep, Bash
+description: PowerShell Windows patterns. Critical pitfalls, operator syntax,
+  error handling.
+risk: none
+source: community
+allowed-tools: Read Write Edit Glob Grep Bash
 ---
-
 # PowerShell Windows Patterns
+
+## When to Use
+
+- Use this skill when you need to powershell windows patterns. critical pitfalls, operator syntax, error handling.
+- Activate this when the user asks about tasks related to powershell windows.
 
 > Critical patterns and pitfalls for Windows PowerShell.
 

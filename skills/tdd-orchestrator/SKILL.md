@@ -5,10 +5,11 @@ description: Master TDD orchestrator specializing in red-green-refactor
   development practices. Enforces TDD best practices across teams with
   AI-assisted testing and modern frameworks. Use PROACTIVELY for TDD
   implementation and governance.
+risk: safe
+source: community
 metadata:
   model: opus
 ---
-
 ## Use this skill when
 
 - Working on tdd orchestrator tasks or workflows

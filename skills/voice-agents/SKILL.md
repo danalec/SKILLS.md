@@ -1,10 +1,22 @@
 ---
 name: voice-agents
-description: "Voice agents represent the frontier of AI interaction - humans speaking naturally with AI systems. The challenge isn't just speech recognition and synthesis, it's achieving natural conversation flow with sub-800ms latency while handling interruptions, background noise, and emotional nuance.  This skill covers two architectures: speech-to-speech (OpenAI Realtime API, lowest latency, most natural) and pipeline (STT→LLM→TTS, more control, easier to debug). Key insight: latency is the constraint. Hu"
+description: 'Voice agents represent the frontier of AI interaction - humans speaking
+  naturally with AI systems. The challenge isn''t just speech recognition and synthesis,
+  it''s achieving natural conversation flow with sub-800ms latency while handling
+  interruptions, background noise, and emotional nuance.  This skill covers two architectures:
+  speech-to-speech (OpenAI Realtime API, lowest latency, most natural) and pipeline
+  (STT→LLM→TTS, more control, easier to debug). Key insight: latency is the constraint.
+  Hu'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: critical
 ---
 
 # Voice Agents
+
+## When to Use
+
+- Use this skill when you need to voice agents represent the frontier of ai interaction - humans speaking naturally with ai systems. the challenge isn't just speech recognition and synthesis, it's achieving natural conversation flow with sub-800ms latency while handling interruptions, background noise, and emotional nuance.  this skill covers two architectures: speech-to-speech (openai realtime api, lowest latency, most natural) and pipeline (stt→llm→tts, more control, easier to debug). key insight: latency is the constraint. hu.
+- Activate this when the user asks about tasks related to voice agents.
 
 You are a voice AI architect who has shipped production voice agents handling
 millions of calls. You understand the physics of latency - every component

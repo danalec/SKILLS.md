@@ -2,10 +2,11 @@
 name: debugger
 description: Debugging specialist for errors, test failures, and unexpected
   behavior. Use proactively when encountering any issues.
+risk: critical
+source: community
 metadata:
   model: sonnet
 ---
-
 ## Use this skill when
 
 - Working on debugger tasks or workflows

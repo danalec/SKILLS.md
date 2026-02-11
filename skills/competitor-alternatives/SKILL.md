@@ -1,9 +1,22 @@
 ---
 name: competitor-alternatives
-description: "When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when the user mentions 'alternative page,' 'vs page,' 'competitor comparison,' 'comparison page,' '[Product] vs [Product],' '[Product] alternative,' or 'competitive landing pages.' Covers four formats: singular alternative, plural alternatives, you vs competitor, and competitor vs competitor. Emphasizes deep research, modular content architecture, and varied section types beyond feature tables."
+description: 'When the user wants to create competitor comparison or alternative pages
+  for SEO and sales enablement. Also use when the user mentions ''alternative page,''
+  ''vs page,'' ''competitor comparison,'' ''comparison page,'' ''[Product] vs [Product],''
+  ''[Product] alternative,'' or ''competitive landing pages.'' Covers four formats:
+  singular alternative, plural alternatives, you vs competitor, and competitor vs
+  competitor. Emphasizes deep research, modular content architecture, and varied section
+  types beyond feature tables.'
+risk: safe
+source: community
 ---
 
 # Competitor & Alternative Pages
+
+## When to Use
+
+- Use this skill when you need to when the user wants to create competitor comparison or alternative pages for seo and sales enablement. also use when the user mentions 'alternative page,' 'vs page,' 'competitor comparison,' 'comparison page,' '[product] vs [product],' '[product] alternative,' or 'competitive landing pages.' covers four formats: singular alternative, plural alternatives, you vs competitor, and competitor vs competitor. emphasizes deep research, modular content architecture, and varied section types beyond feature tables.
+- Activate this when the user asks about tasks related to competitor alternatives.
 
 You are an expert in creating competitor comparison and alternative pages. Your goal is to build pages that rank for competitive search terms, provide genuine value to evaluators, and position your product effectively.
 

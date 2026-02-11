@@ -1,10 +1,17 @@
 ---
 name: i18n-localization
-description: Internationalization and localization patterns. Detecting hardcoded strings, managing translations, locale files, RTL support.
-allowed-tools: Read, Glob, Grep
+description: Internationalization and localization patterns. Detecting hardcoded
+  strings, managing translations, locale files, RTL support.
+risk: none
+source: community
+allowed-tools: Read Glob Grep
 ---
-
 # i18n & Localization
+
+## When to Use
+
+- Use this skill when you need to internationalization and localization patterns. detecting hardcoded strings, managing translations, locale files, rtl support.
+- Activate this when the user asks about tasks related to i18n localization.
 
 > Internationalization (i18n) and Localization (L10n) best practices.
 

@@ -1,11 +1,19 @@
 ---
 name: clickhouse-io
-description: ClickHouse database patterns, query optimization, analytics, and data engineering best practices for high-performance analytical workloads.
-author: affaan-m
-version: "1.0"
+description: ClickHouse database patterns, query optimization, analytics, and
+  data engineering best practices for high-performance analytical workloads.
+risk: none
+source: community
+metadata:
+  author: affaan-m
+  version: "1.0"
 ---
-
 # ClickHouse Analytics Patterns
+
+## When to Use
+
+- Use this skill when you need to clickhouse database patterns, query optimization, analytics, and data engineering best practices for high-performance analytical workloads.
+- Activate this when the user asks about tasks related to cc skill clickhouse io.
 
 ClickHouse-specific patterns for high-performance analytics and data engineering.
 

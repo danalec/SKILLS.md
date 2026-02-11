@@ -1,11 +1,19 @@
 ---
 name: frontend-patterns
-description: Frontend development patterns for React, Next.js, state management, performance optimization, and UI best practices.
-author: affaan-m
-version: "1.0"
+description: Frontend development patterns for React, Next.js, state management,
+  performance optimization, and UI best practices.
+risk: none
+source: community
+metadata:
+  author: affaan-m
+  version: "1.0"
 ---
-
 # Frontend Development Patterns
+
+## When to Use
+
+- Use this skill when you need to frontend development patterns for react, next.js, state management, performance optimization, and ui best practices.
+- Activate this when the user asks about tasks related to cc skill frontend patterns.
 
 Modern frontend patterns for React, Next.js, and performant user interfaces.
 

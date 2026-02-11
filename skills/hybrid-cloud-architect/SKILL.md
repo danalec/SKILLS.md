@@ -6,9 +6,13 @@ description: Expert hybrid cloud architect specializing in complex multi-cloud
   cross-cloud automation. Handles compliance, cost optimization, disaster
   recovery, and migration strategies. Use PROACTIVELY for hybrid architecture,
   multi-cloud strategy, or complex infrastructure integration.
+risk: offensive
+source: community
 metadata:
   model: opus
 ---
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
 
 ## Use this skill when
 

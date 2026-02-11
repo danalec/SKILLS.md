@@ -2,9 +2,16 @@
 name: 2d-games
 description: 2D game development principles. Sprites, tilemaps, physics, camera.
 allowed-tools: Read, Write, Edit, Glob, Grep
+risk: none
+source: community
 ---
 
 # 2D Game Development
+
+## When to Use
+
+- Use this skill when you need to 2d game development principles. sprites, tilemaps, physics, camera.
+- Activate this when the user asks about tasks related to 2d games.
 
 > Principles for 2D game systems.
 

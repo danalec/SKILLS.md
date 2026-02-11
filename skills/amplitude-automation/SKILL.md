@@ -1,11 +1,19 @@
 ---
 name: amplitude-automation
-description: "Automate Amplitude tasks via Rube MCP (Composio): events, user activity, cohorts, user identification. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: "Automate Amplitude tasks via Rube MCP (Composio): events, user
+  activity, cohorts, user identification. Always search tools first for current
+  schemas."
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Amplitude Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate amplitude tasks via rube mcp (composio): events, user activity, cohorts, user identification. always search tools first for current schemas.
+- Activate this when the user asks about tasks related to amplitude automation.
 
 Automate Amplitude product analytics through Composio's Amplitude toolkit via Rube MCP.
 

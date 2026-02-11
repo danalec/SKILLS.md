@@ -1,11 +1,19 @@
 ---
 name: confluence-automation
-description: "Automate Confluence page creation, content search, space management, labels, and hierarchy navigation via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: Automate Confluence page creation, content search, space
+  management, labels, and hierarchy navigation via Rube MCP (Composio). Always
+  search tools first for current schemas.
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Confluence Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate confluence page creation, content search, space management, labels, and hierarchy navigation via rube mcp (composio). always search tools first for current schemas.
+- Activate this when the user asks about tasks related to confluence automation.
 
 Automate Confluence operations including page creation and updates, content search with CQL, space management, label tagging, and page hierarchy navigation through Composio's Confluence toolkit.
 

@@ -4,9 +4,14 @@ description: Build production-ready LLM applications, advanced RAG systems, and
   intelligent agents. Implements vector search, multimodal AI, agent
   orchestration, and enterprise AI integrations. Use PROACTIVELY for LLM
   features, chatbots, AI agents, or AI-powered applications.
+risk: critical
+source: community
 metadata:
   model: inherit
 ---
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
+
 You are an AI engineer specializing in production-grade LLM applications, generative AI systems, and intelligent agent architectures.
 
 ## Use this skill when

@@ -1,9 +1,17 @@
 ---
 name: avalonia-zafiro-development
-description: Mandatory skills, conventions, and behavioral rules for Avalonia UI development using the Zafiro toolkit.
+description: Mandatory skills, conventions, and behavioral rules for Avalonia UI development
+  using the Zafiro toolkit.
+risk: none
+source: community
 ---
 
 # Avalonia Zafiro Development
+
+## When to Use
+
+- Use this skill when you need to mandatory skills, conventions, and behavioral rules for avalonia ui development using the zafiro toolkit.
+- Activate this when the user asks about tasks related to avalonia zafiro development.
 
 This skill defines the mandatory conventions and behavioral rules for developing cross-platform applications with Avalonia UI and the Zafiro toolkit. These rules prioritize maintainability, correctness, and a functional-reactive approach.
 

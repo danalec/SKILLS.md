@@ -4,10 +4,11 @@ description: Write efficient C code with proper memory management, pointer
   arithmetic, and system calls. Handles embedded systems, kernel modules, and
   performance-critical code. Use PROACTIVELY for C optimization, memory issues,
   or system programming.
+risk: safe
+source: community
 metadata:
   model: opus
 ---
-
 ## Use this skill when
 
 - Working on c pro tasks or workflows

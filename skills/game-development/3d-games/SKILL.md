@@ -2,9 +2,16 @@
 name: 3d-games
 description: 3D game development principles. Rendering, shaders, physics, cameras.
 allowed-tools: Read, Write, Edit, Glob, Grep
+risk: none
+source: community
 ---
 
 # 3D Game Development
+
+## When to Use
+
+- Use this skill when you need to 3d game development principles. rendering, shaders, physics, cameras.
+- Activate this when the user asks about tasks related to 3d games.
 
 > Principles for 3D game systems.
 

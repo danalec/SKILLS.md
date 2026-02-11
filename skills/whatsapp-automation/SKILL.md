@@ -1,11 +1,19 @@
 ---
 name: whatsapp-automation
-description: "Automate WhatsApp Business tasks via Rube MCP (Composio): send messages, manage templates, upload media, and handle contacts. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: "Automate WhatsApp Business tasks via Rube MCP (Composio): send
+  messages, manage templates, upload media, and handle contacts. Always search
+  tools first for current schemas."
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # WhatsApp Business Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate whatsapp business tasks via rube mcp (composio): send messages, manage templates, upload media, and handle contacts. always search tools first for current schemas.
+- Activate this when the user asks about tasks related to whatsapp automation.
 
 Automate WhatsApp Business operations through Composio's WhatsApp toolkit via Rube MCP.
 

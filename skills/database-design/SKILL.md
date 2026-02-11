@@ -1,10 +1,17 @@
 ---
 name: database-design
-description: Database design principles and decision-making. Schema design, indexing strategy, ORM selection, serverless databases.
-allowed-tools: Read, Write, Edit, Glob, Grep
+description: Database design principles and decision-making. Schema design,
+  indexing strategy, ORM selection, serverless databases.
+risk: safe
+source: community
+allowed-tools: Read Write Edit Glob Grep
 ---
-
 # Database Design
+
+## When to Use
+
+- Use this skill when you need to database design principles and decision-making. schema design, indexing strategy, orm selection, serverless databases.
+- Activate this when the user asks about tasks related to database design.
 
 > **Learn to THINK, not copy SQL patterns.**
 

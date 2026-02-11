@@ -6,6 +6,8 @@ description: Expert performance engineer specializing in modern observability,
   Vitals, and performance monitoring. Handles end-to-end optimization, real user
   monitoring, and scalability patterns. Use PROACTIVELY for performance
   optimization, observability, or scalability challenges.
+risk: critical
+source: community
 metadata:
   model: inherit
 ---

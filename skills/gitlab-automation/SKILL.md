@@ -1,11 +1,19 @@
 ---
 name: gitlab-automation
-description: "Automate GitLab project management, issues, merge requests, pipelines, branches, and user operations via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: Automate GitLab project management, issues, merge requests,
+  pipelines, branches, and user operations via Rube MCP (Composio). Always
+  search tools first for current schemas.
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # GitLab Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate gitlab project management, issues, merge requests, pipelines, branches, and user operations via rube mcp (composio). always search tools first for current schemas.
+- Activate this when the user asks about tasks related to gitlab automation.
 
 Automate GitLab operations including project management, issue tracking, merge request workflows, CI/CD pipeline monitoring, branch management, and user administration through Composio's GitLab toolkit.
 

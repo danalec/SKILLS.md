@@ -1,11 +1,19 @@
 ---
 name: tiktok-automation
-description: "Automate TikTok tasks via Rube MCP (Composio): upload/publish videos, post photos, manage content, and view user profiles/stats. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: "Automate TikTok tasks via Rube MCP (Composio): upload/publish
+  videos, post photos, manage content, and view user profiles/stats. Always
+  search tools first for current schemas."
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # TikTok Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate tiktok tasks via rube mcp (composio): upload/publish videos, post photos, manage content, and view user profiles/stats. always search tools first for current schemas.
+- Activate this when the user asks about tasks related to tiktok automation.
 
 Automate TikTok content creation and profile operations through Composio's TikTok toolkit via Rube MCP.
 

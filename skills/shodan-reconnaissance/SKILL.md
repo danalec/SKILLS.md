@@ -1,12 +1,26 @@
 ---
 name: Shodan Reconnaissance and Pentesting
-description: This skill should be used when the user asks to "search for exposed devices on the internet," "perform Shodan reconnaissance," "find vulnerable services using Shodan," "scan IP ranges with Shodan," or "discover IoT devices and open ports." It provides comprehensive guidance for using Shodan's search engine, CLI, and API for penetration testing reconnaissance.
+description: This skill should be used when the user asks to "search for exposed
+  devices on the internet," "perform Shodan reconnaissance," "find vulnerable
+  services using Shodan," "scan IP ranges with Shodan," or "discover IoT devices
+  and open ports." It provides comprehensive guidance for using Shodan's search
+  engine, CLI, and API for penetration testing reconnaissance.
+risk: offensive
+source: community
 metadata:
   author: zebbern
   version: "1.1"
 ---
-
 # Shodan Reconnaissance and Pentesting
+
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
+
+
+## When to Use
+
+- Use this skill when you need to this skill should be used when the user asks to "search for exposed devices on the internet," "perform shodan reconnaissance," "find vulnerable services using shodan," "scan ip ranges with shodan," or "discover iot devices and open ports." it provides comprehensive guidance for using shodan's search engine, cli, and api for penetration testing reconnaissance.
+- Activate this when the user asks about tasks related to shodan reconnaissance.
 
 ## Purpose
 

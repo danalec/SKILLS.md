@@ -1,10 +1,17 @@
 ---
 name: avalonia-layout-zafiro
-description: Guidelines for modern Avalonia UI layout using Zafiro.Avalonia, emphasizing shared styles, generic components, and avoiding XAML redundancy.
-allowed-tools: Read, Write, Edit, Glob, Grep
+description: Guidelines for modern Avalonia UI layout using Zafiro.Avalonia,
+  emphasizing shared styles, generic components, and avoiding XAML redundancy.
+risk: safe
+source: community
+allowed-tools: Read Write Edit Glob Grep
 ---
-
 # Avalonia Layout with Zafiro.Avalonia
+
+## When to Use
+
+- Use this skill when you need to guidelines for modern avalonia ui layout using zafiro.avalonia, emphasizing shared styles, generic components, and avoiding xaml redundancy.
+- Activate this when the user asks about tasks related to avalonia layout zafiro.
 
 > Master modern, clean, and maintainable Avalonia UI layouts.
 > **Focus on semantic containers, shared styles, and minimal XAML.**

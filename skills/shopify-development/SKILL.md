@@ -1,13 +1,27 @@
 ---
 name: shopify-development
-description: |
-  Build Shopify apps, extensions, themes using GraphQL Admin API, Shopify CLI, Polaris UI, and Liquid.
-  TRIGGER: "shopify", "shopify app", "checkout extension", "admin extension", "POS extension",
+description: 'Build Shopify apps, extensions, themes using GraphQL Admin API, Shopify
+  CLI, Polaris UI, and Liquid.
+
+  TRIGGER: "shopify", "shopify app", "checkout extension", "admin extension", "POS
+  extension",
+
   "shopify theme", "liquid template", "polaris", "shopify graphql", "shopify webhook",
-  "shopify billing", "app subscription", "metafields", "shopify functions"
+
+  "shopify billing", "app subscription", "metafields", "shopify functions"'
+risk: safe
+source: community
 ---
 
 # Shopify Development Skill
+
+## When to Use
+
+- Use this skill when you need to build shopify apps, extensions, themes using graphql admin api, shopify cli, polaris ui, and liquid.
+trigger: "shopify", "shopify app", "checkout extension", "admin extension", "pos extension",
+"shopify theme", "liquid template", "polaris", "shopify graphql", "shopify webhook",
+"shopify billing", "app subscription", "metafields", "shopify functions".
+- Activate this when the user asks about tasks related to shopify development.
 
 Use this skill when the user asks about:
 

@@ -1,11 +1,19 @@
 ---
 name: twitter-automation
-description: "Automate Twitter/X tasks via Rube MCP (Composio): posts, search, users, bookmarks, lists, media. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: "Automate Twitter/X tasks via Rube MCP (Composio): posts, search,
+  users, bookmarks, lists, media. Always search tools first for current
+  schemas."
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Twitter/X Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate twitter/x tasks via rube mcp (composio): posts, search, users, bookmarks, lists, media. always search tools first for current schemas.
+- Activate this when the user asks about tasks related to twitter automation.
 
 Automate Twitter/X operations through Composio's Twitter toolkit via Rube MCP.
 

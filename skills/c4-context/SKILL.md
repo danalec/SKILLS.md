@@ -6,10 +6,11 @@ description: Expert C4 Context-level documentation specialist. Creates
   documentation with system documentation to create comprehensive context-level
   architecture. Use when creating the highest-level C4 system context
   documentation.
+risk: safe
+source: community
 metadata:
   model: sonnet
 ---
-
 # C4 Context Level: System Context
 
 ## Use this skill when

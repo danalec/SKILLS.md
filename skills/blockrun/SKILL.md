@@ -1,9 +1,12 @@
 ---
 name: blockrun
-description: Use when user needs capabilities Claude lacks (image generation, real-time X/Twitter data) or explicitly requests external models ("blockrun", "use grok", "use gpt", "dall-e", "deepseek")
-allowed-tools: Read, Bash(python:*), Bash(python3:*), Bash(pip:*), Bash(source:*)
+description: Use when user needs capabilities Claude lacks (image generation,
+  real-time X/Twitter data) or explicitly requests external models ("blockrun",
+  "use grok", "use gpt", "dall-e", "deepseek")
+risk: none
+source: community
+allowed-tools: Read Bash(python:*) Bash(python3:*) Bash(pip:*) Bash(source:*)
 ---
-
 # BlockRun
 
 **BlockRun works with Claude Code and Google Antigravity.**

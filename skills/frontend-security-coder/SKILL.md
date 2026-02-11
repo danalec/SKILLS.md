@@ -4,9 +4,13 @@ description: Expert in secure frontend coding practices specializing in XSS
   prevention, output sanitization, and client-side security patterns. Use
   PROACTIVELY for frontend security implementations or client-side security code
   reviews.
+risk: safe
+source: community
 metadata:
   model: sonnet
 ---
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
 
 ## Use this skill when
 

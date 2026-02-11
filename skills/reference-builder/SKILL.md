@@ -4,10 +4,11 @@ description: Creates exhaustive technical references and API documentation.
   Generates comprehensive parameter listings, configuration guides, and
   searchable reference materials. Use PROACTIVELY for API docs, configuration
   references, or complete technical specifications.
+risk: safe
+source: community
 metadata:
   model: haiku
 ---
-
 ## Use this skill when
 
 - Working on reference builder tasks or workflows

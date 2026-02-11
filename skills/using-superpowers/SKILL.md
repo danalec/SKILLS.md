@@ -1,6 +1,10 @@
 ---
 name: using-superpowers
-description: Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions
+description: Use when starting any conversation - establishes how to find and use
+  skills, requiring Skill tool invocation before ANY response including clarifying
+  questions
+risk: none
+source: community
 ---
 
 <EXTREMELY-IMPORTANT>
@@ -18,6 +22,11 @@ This is not negotiable. This is not optional. You cannot rationalize your way ou
 **In other environments:** Check your platform's documentation for how skills are loaded.
 
 # Using Skills
+
+## When to Use
+
+- Use this skill when you need to use when starting any conversation - establishes how to find and use skills, requiring skill tool invocation before any response including clarifying questions.
+- Activate this when the user asks about tasks related to using superpowers.
 
 ## The Rule
 

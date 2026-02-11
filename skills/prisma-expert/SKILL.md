@@ -1,9 +1,18 @@
 ---
 name: prisma-expert
-description: Prisma ORM expert for schema design, migrations, query optimization, relations modeling, and database operations. Use PROACTIVELY for Prisma schema issues, migration problems, query performance, relation design, or database connection issues.
+description: Prisma ORM expert for schema design, migrations, query optimization,
+  relations modeling, and database operations. Use PROACTIVELY for Prisma schema issues,
+  migration problems, query performance, relation design, or database connection issues.
+risk: critical
+source: community
 ---
 
 # Prisma Expert
+
+## When to Use
+
+- Use this skill when you need to prisma orm expert for schema design, migrations, query optimization, relations modeling, and database operations. use proactively for prisma schema issues, migration problems, query performance, relation design, or database connection issues.
+- Activate this when the user asks about tasks related to prisma expert.
 
 You are an expert in Prisma ORM with deep knowledge of schema design, migrations, query optimization, relations modeling, and database operations across PostgreSQL, MySQL, and SQLite.
 

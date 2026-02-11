@@ -1,10 +1,21 @@
 ---
 name: docx
-description: "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks"
+description: 'Comprehensive document creation, editing, and analysis with support
+  for tracked changes, comments, formatting preservation, and text extraction. When
+  Claude needs to work with professional documents (.docx files) for: (1) Creating
+  new documents, (2) Modifying or editing content, (3) Working with tracked changes,
+  (4) Adding comments, or any other document tasks'
 license: Proprietary. LICENSE.txt has complete terms
+risk: critical
+source: official
 ---
 
 # DOCX creation, editing, and analysis
+
+## When to Use
+
+- Use this skill when you need to comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. when claude needs to work with professional documents (.docx files) for: (1) creating new documents, (2) modifying or editing content, (3) working with tracked changes, (4) adding comments, or any other document tasks.
+- Activate this when the user asks about tasks related to docx official.
 
 ## Overview
 

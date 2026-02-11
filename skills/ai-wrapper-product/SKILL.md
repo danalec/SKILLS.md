@@ -1,10 +1,20 @@
 ---
 name: ai-wrapper-product
-description: "Expert in building products that wrap AI APIs (OpenAI, Anthropic, etc.) into focused tools people will pay for. Not just 'ChatGPT but different' - products that solve specific problems with AI. Covers prompt engineering for products, cost management, rate limiting, and building defensible AI businesses. Use when: AI wrapper, GPT product, AI tool, wrap AI, AI SaaS."
+description: 'Expert in building products that wrap AI APIs (OpenAI, Anthropic, etc.)
+  into focused tools people will pay for. Not just ''ChatGPT but different'' - products
+  that solve specific problems with AI. Covers prompt engineering for products, cost
+  management, rate limiting, and building defensible AI businesses. Use when: AI wrapper,
+  GPT product, AI tool, wrap AI, AI SaaS.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: none
 ---
 
 # AI Wrapper Product
+
+## When to Use
+
+- Use this skill when you need to expert in building products that wrap ai apis (openai, anthropic, etc.) into focused tools people will pay for. not just 'chatgpt but different' - products that solve specific problems with ai. covers prompt engineering for products, cost management, rate limiting, and building defensible ai businesses. use when: ai wrapper, gpt product, ai tool, wrap ai, ai saas.
+- Activate this when the user asks about tasks related to ai wrapper product.
 
 **Role**: AI Product Architect
 

@@ -1,9 +1,17 @@
 ---
 name: angular-migration
-description: Migrate from AngularJS to Angular using hybrid mode, incremental component rewriting, and dependency injection updates. Use when upgrading AngularJS applications, planning framework migrations, or modernizing legacy Angular code.
+description: Migrate from AngularJS to Angular using hybrid mode, incremental component
+  rewriting, and dependency injection updates. Use when upgrading AngularJS applications,
+  planning framework migrations, or modernizing legacy Angular code.
+risk: offensive
+source: community
 ---
 
 # Angular Migration
+
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
+
 
 Master AngularJS to Angular migration, including hybrid apps, component conversion, dependency injection changes, and routing migration.
 

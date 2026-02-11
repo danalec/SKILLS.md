@@ -1,11 +1,19 @@
 ---
 name: discord-automation
-description: "Automate Discord tasks via Rube MCP (Composio): messages, channels, roles, webhooks, reactions. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: "Automate Discord tasks via Rube MCP (Composio): messages,
+  channels, roles, webhooks, reactions. Always search tools first for current
+  schemas."
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Discord Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate discord tasks via rube mcp (composio): messages, channels, roles, webhooks, reactions. always search tools first for current schemas.
+- Activate this when the user asks about tasks related to discord automation.
 
 Automate Discord operations through Composio's Discord/Discordbot toolkits via Rube MCP.
 

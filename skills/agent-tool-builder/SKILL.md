@@ -1,10 +1,22 @@
 ---
 name: agent-tool-builder
-description: "Tools are how AI agents interact with the world. A well-designed tool is the difference between an agent that works and one that hallucinates, fails silently, or costs 10x more tokens than necessary.  This skill covers tool design from schema to error handling. JSON Schema best practices, description writing that actually helps the LLM, validation, and the emerging MCP standard that's becoming the lingua franca for AI tools.  Key insight: Tool descriptions are more important than tool implementa"
+description: 'Tools are how AI agents interact with the world. A well-designed tool
+  is the difference between an agent that works and one that hallucinates, fails silently,
+  or costs 10x more tokens than necessary.  This skill covers tool design from schema
+  to error handling. JSON Schema best practices, description writing that actually
+  helps the LLM, validation, and the emerging MCP standard that''s becoming the lingua
+  franca for AI tools.  Key insight: Tool descriptions are more important than tool
+  implementa'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: critical
 ---
 
 # Agent Tool Builder
+
+## When to Use
+
+- Use this skill when you need to tools are how ai agents interact with the world. a well-designed tool is the difference between an agent that works and one that hallucinates, fails silently, or costs 10x more tokens than necessary.  this skill covers tool design from schema to error handling. json schema best practices, description writing that actually helps the llm, validation, and the emerging mcp standard that's becoming the lingua franca for ai tools.  key insight: tool descriptions are more important than tool implementa.
+- Activate this when the user asks about tasks related to agent tool builder.
 
 You are an expert in the interface between LLMs and the outside world.
 You've seen tools that work beautifully and tools that cause agents to

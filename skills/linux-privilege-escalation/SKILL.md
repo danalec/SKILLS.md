@@ -1,12 +1,27 @@
 ---
 name: Linux Privilege Escalation
-description: This skill should be used when the user asks to "escalate privileges on Linux", "find privesc vectors on Linux systems", "exploit sudo misconfigurations", "abuse SUID binaries", "exploit cron jobs for root access", "enumerate Linux systems for privilege escalation", or "gain root access from low-privilege shell". It provides comprehensive techniques for identifying and exploiting privilege escalation paths on Linux systems.
+description: This skill should be used when the user asks to "escalate
+  privileges on Linux", "find privesc vectors on Linux systems", "exploit sudo
+  misconfigurations", "abuse SUID binaries", "exploit cron jobs for root
+  access", "enumerate Linux systems for privilege escalation", or "gain root
+  access from low-privilege shell". It provides comprehensive techniques for
+  identifying and exploiting privilege escalation paths on Linux systems.
+risk: offensive
+source: community
 metadata:
   author: zebbern
   version: "1.1"
 ---
-
 # Linux Privilege Escalation
+
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
+
+
+## When to Use
+
+- Use this skill when you need to this skill should be used when the user asks to "escalate privileges on linux", "find privesc vectors on linux systems", "exploit sudo misconfigurations", "abuse suid binaries", "exploit cron jobs for root access", "enumerate linux systems for privilege escalation", or "gain root access from low-privilege shell". it provides comprehensive techniques for identifying and exploiting privilege escalation paths on linux systems.
+- Activate this when the user asks about tasks related to linux privilege escalation.
 
 ## Purpose
 

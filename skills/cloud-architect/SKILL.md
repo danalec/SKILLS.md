@@ -6,9 +6,13 @@ description: Expert cloud architect specializing in AWS/Azure/GCP multi-cloud
   microservices, security, compliance, and disaster recovery. Use PROACTIVELY
   for cloud architecture, cost optimization, migration planning, or multi-cloud
   strategies.
+risk: offensive
+source: community
 metadata:
   model: opus
 ---
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
 
 ## Use this skill when
 

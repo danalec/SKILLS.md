@@ -6,9 +6,13 @@ description: Expert database administrator specializing in modern cloud
   recovery, performance optimization, and compliance. Handles multi-cloud
   strategies, container databases, and cost optimization. Use PROACTIVELY for
   database architecture, operations, or reliability engineering.
+risk: offensive
+source: community
 metadata:
   model: sonnet
 ---
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
 
 ## Use this skill when
 

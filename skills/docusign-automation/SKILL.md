@@ -1,11 +1,19 @@
 ---
 name: docusign-automation
-description: "Automate DocuSign tasks via Rube MCP (Composio): templates, envelopes, signatures, document management. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: "Automate DocuSign tasks via Rube MCP (Composio): templates,
+  envelopes, signatures, document management. Always search tools first for
+  current schemas."
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # DocuSign Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate docusign tasks via rube mcp (composio): templates, envelopes, signatures, document management. always search tools first for current schemas.
+- Activate this when the user asks about tasks related to docusign automation.
 
 Automate DocuSign e-signature workflows through Composio's DocuSign toolkit via Rube MCP.
 

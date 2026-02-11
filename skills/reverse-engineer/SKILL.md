@@ -6,11 +6,16 @@ description: Expert reverse engineer specializing in binary analysis,
   library inspection, protocol extraction, and vulnerability research. Use
   PROACTIVELY for binary analysis, CTF challenges, security research, or
   understanding undocumented software.
+risk: offensive
+source: community
 metadata:
   model: opus
 ---
-
 # Common RE scripting environments
+
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
+
 - IDAPython (IDA Pro scripting)
 - Ghidra scripting (Java/Python via Jython)
 - r2pipe (radare2 Python API)

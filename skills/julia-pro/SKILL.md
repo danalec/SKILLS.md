@@ -5,10 +5,11 @@ description: Master Julia 1.10+ with modern features, performance optimization,
   ecosystem including package management, scientific computing, and
   high-performance numerical code. Use PROACTIVELY for Julia development,
   optimization, or advanced Julia patterns.
+risk: critical
+source: community
 metadata:
   model: sonnet
 ---
-
 ## Use this skill when
 
 - Working on julia pro tasks or workflows

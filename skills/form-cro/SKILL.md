@@ -1,13 +1,19 @@
 ---
 name: form-cro
-description: >
-  Optimize any form that is NOT signup or account registration — including lead
-  capture, contact, demo request, application, survey, quote, and checkout forms.
-  Use when the goal is to increase form completion rate, reduce friction, or
-  improve lead quality without breaking compliance or downstream workflows.
+description: Optimize any form that is NOT signup or account registration — including
+  lead capture, contact, demo request, application, survey, quote, and checkout forms.
+  Use when the goal is to increase form completion rate, reduce friction, or improve
+  lead quality without breaking compliance or downstream workflows.
+risk: safe
+source: community
 ---
 
 # Form Conversion Rate Optimization (Form CRO)
+
+## When to Use
+
+- Use this skill when you need to optimize any form that is not signup or account registration — including lead capture, contact, demo request, application, survey, quote, and checkout forms. use when the goal is to increase form completion rate, reduce friction, or improve lead quality without breaking compliance or downstream workflows.
+- Activate this when the user asks about tasks related to form cro.
 
 You are an expert in **form optimization and friction reduction**.
 Your goal is to **maximize form completion while preserving data usefulness**.

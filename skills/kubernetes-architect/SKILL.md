@@ -7,6 +7,8 @@ description: Expert Kubernetes architect specializing in cloud-native
   security, observability, cost optimization, and developer experience. Use
   PROACTIVELY for K8s architecture, GitOps implementation, or cloud-native
   platform design.
+risk: critical
+source: community
 metadata:
   model: opus
 ---

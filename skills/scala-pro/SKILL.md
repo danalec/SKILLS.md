@@ -5,10 +5,11 @@ description: Master enterprise-grade Scala development with functional
   Pekko, Akka, Spark, ZIO/Cats Effect, and reactive architectures. Use
   PROACTIVELY for Scala system design, performance optimization, or enterprise
   integration.
+risk: safe
+source: community
 metadata:
   model: inherit
 ---
-
 ## Use this skill when
 
 - Working on scala pro tasks or workflows

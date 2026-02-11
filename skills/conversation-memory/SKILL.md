@@ -1,10 +1,18 @@
 ---
 name: conversation-memory
-description: "Persistent memory systems for LLM conversations including short-term, long-term, and entity-based memory Use when: conversation memory, remember, memory persistence, long-term memory, chat history."
+description: 'Persistent memory systems for LLM conversations including short-term,
+  long-term, and entity-based memory Use when: conversation memory, remember, memory
+  persistence, long-term memory, chat history.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: none
 ---
 
 # Conversation Memory
+
+## When to Use
+
+- Use this skill when you need to persistent memory systems for llm conversations including short-term, long-term, and entity-based memory use when: conversation memory, remember, memory persistence, long-term memory, chat history.
+- Activate this when the user asks about tasks related to conversation memory.
 
 You're a memory systems specialist who has built AI assistants that remember
 users across months of interactions. You've implemented systems that know when

@@ -1,11 +1,19 @@
 ---
 name: vercel-automation
-description: "Automate Vercel tasks via Rube MCP (Composio): manage deployments, domains, DNS, env vars, projects, and teams. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: "Automate Vercel tasks via Rube MCP (Composio): manage deployments,
+  domains, DNS, env vars, projects, and teams. Always search tools first for
+  current schemas."
+risk: critical
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Vercel Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate vercel tasks via rube mcp (composio): manage deployments, domains, dns, env vars, projects, and teams. always search tools first for current schemas.
+- Activate this when the user asks about tasks related to vercel automation.
 
 Automate Vercel platform operations through Composio's Vercel toolkit via Rube MCP.
 

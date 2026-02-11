@@ -1,11 +1,19 @@
 ---
 name: google-drive-automation
-description: "Automate Google Drive file operations (upload, download, search, share, organize) via Rube MCP (Composio). Upload/download files, manage folders, share with permissions, and search across drives programmatically."
-requires:
-  mcp: [rube]
+description: Automate Google Drive file operations (upload, download, search,
+  share, organize) via Rube MCP (Composio). Upload/download files, manage
+  folders, share with permissions, and search across drives programmatically.
+risk: none
+source: official
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Google Drive Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate google drive file operations (upload, download, search, share, organize) via rube mcp (composio). upload/download files, manage folders, share with permissions, and search across drives programmatically.
+- Activate this when the user asks about tasks related to google drive automation.
 
 Automate Google Drive workflows including file upload/download, search, folder management, sharing/permissions, and organization through Composio's Google Drive toolkit.
 

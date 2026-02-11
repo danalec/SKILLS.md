@@ -1,16 +1,18 @@
 ---
 name: audio-transcriber
-description: "Transform audio recordings into professional Markdown documentation with intelligent summaries using LLM integration"
-version: 1.2.0
-author: Eric Andrade
-created: 2025-02-01
-updated: 2026-02-04
-platforms: [github-copilot-cli, claude-code, codex]
-category: content
-tags: [audio, transcription, whisper, meeting-minutes, speech-to-text]
+description: Transform audio recordings into professional Markdown documentation
+  with intelligent summaries using LLM integration
 risk: safe
+source: community
+metadata:
+  version: 1.2.0
+  author: Eric Andrade
+  created: 2025-02-01
+  updated: 2026-02-04
+  platforms: github-copilot-cli, claude-code, codex
+  category: content
+  tags: audio, transcription, whisper, meeting-minutes, speech-to-text
 ---
-
 ## Purpose
 
 This skill automates audio-to-text transcription with professional Markdown output, extracting rich technical metadata (speakers, timestamps, language, file size, duration) and generating structured meeting minutes and executive summaries. It uses Faster-Whisper or Whisper with zero configuration, working universally across projects without hardcoded paths or API keys.

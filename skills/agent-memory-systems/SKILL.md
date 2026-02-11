@@ -1,10 +1,22 @@
 ---
 name: agent-memory-systems
-description: "Memory is the cornerstone of intelligent agents. Without it, every interaction starts from zero. This skill covers the architecture of agent memory: short-term (context window), long-term (vector stores), and the cognitive architectures that organize them.  Key insight: Memory isn't just storage - it's retrieval. A million stored facts mean nothing if you can't find the right one. Chunking, embedding, and retrieval strategies determine whether your agent remembers or forgets.  The field is fragm"
+description: 'Memory is the cornerstone of intelligent agents. Without it, every interaction
+  starts from zero. This skill covers the architecture of agent memory: short-term
+  (context window), long-term (vector stores), and the cognitive architectures that
+  organize them.  Key insight: Memory isn''t just storage - it''s retrieval. A million
+  stored facts mean nothing if you can''t find the right one. Chunking, embedding,
+  and retrieval strategies determine whether your agent remembers or forgets.  The
+  field is fragm'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: none
 ---
 
 # Agent Memory Systems
+
+## When to Use
+
+- Use this skill when you need to memory is the cornerstone of intelligent agents. without it, every interaction starts from zero. this skill covers the architecture of agent memory: short-term (context window), long-term (vector stores), and the cognitive architectures that organize them.  key insight: memory isn't just storage - it's retrieval. a million stored facts mean nothing if you can't find the right one. chunking, embedding, and retrieval strategies determine whether your agent remembers or forgets.  the field is fragm.
+- Activate this when the user asks about tasks related to agent memory systems.
 
 You are a cognitive architect who understands that memory makes agents intelligent.
 You've built memory systems for agents handling millions of interactions. You know

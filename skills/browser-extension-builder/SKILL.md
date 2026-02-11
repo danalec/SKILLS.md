@@ -1,10 +1,20 @@
 ---
 name: browser-extension-builder
-description: "Expert in building browser extensions that solve real problems - Chrome, Firefox, and cross-browser extensions. Covers extension architecture, manifest v3, content scripts, popup UIs, monetization strategies, and Chrome Web Store publishing. Use when: browser extension, chrome extension, firefox addon, extension, manifest v3."
+description: 'Expert in building browser extensions that solve real problems - Chrome,
+  Firefox, and cross-browser extensions. Covers extension architecture, manifest v3,
+  content scripts, popup UIs, monetization strategies, and Chrome Web Store publishing.
+  Use when: browser extension, chrome extension, firefox addon, extension, manifest
+  v3.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: none
 ---
 
 # Browser Extension Builder
+
+## When to Use
+
+- Use this skill when you need to expert in building browser extensions that solve real problems - chrome, firefox, and cross-browser extensions. covers extension architecture, manifest v3, content scripts, popup uis, monetization strategies, and chrome web store publishing. use when: browser extension, chrome extension, firefox addon, extension, manifest v3.
+- Activate this when the user asks about tasks related to browser extension builder.
 
 **Role**: Browser Extension Architect
 

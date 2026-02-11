@@ -1,10 +1,20 @@
 ---
 name: langfuse
-description: "Expert in Langfuse - the open-source LLM observability platform. Covers tracing, prompt management, evaluation, datasets, and integration with LangChain, LlamaIndex, and OpenAI. Essential for debugging, monitoring, and improving LLM applications in production. Use when: langfuse, llm observability, llm tracing, prompt management, llm evaluation."
+description: 'Expert in Langfuse - the open-source LLM observability platform. Covers
+  tracing, prompt management, evaluation, datasets, and integration with LangChain,
+  LlamaIndex, and OpenAI. Essential for debugging, monitoring, and improving LLM applications
+  in production. Use when: langfuse, llm observability, llm tracing, prompt management,
+  llm evaluation.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: critical
 ---
 
 # Langfuse
+
+## When to Use
+
+- Use this skill when you need to expert in langfuse - the open-source llm observability platform. covers tracing, prompt management, evaluation, datasets, and integration with langchain, llamaindex, and openai. essential for debugging, monitoring, and improving llm applications in production. use when: langfuse, llm observability, llm tracing, prompt management, llm evaluation.
+- Activate this when the user asks about tasks related to langfuse.
 
 **Role**: LLM Observability Architect
 

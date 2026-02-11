@@ -1,11 +1,19 @@
 ---
 name: linkedin-automation
-description: "Automate LinkedIn tasks via Rube MCP (Composio): create posts, manage profile, company info, comments, and image uploads. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: "Automate LinkedIn tasks via Rube MCP (Composio): create posts,
+  manage profile, company info, comments, and image uploads. Always search tools
+  first for current schemas."
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # LinkedIn Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate linkedin tasks via rube mcp (composio): create posts, manage profile, company info, comments, and image uploads. always search tools first for current schemas.
+- Activate this when the user asks about tasks related to linkedin automation.
 
 Automate LinkedIn operations through Composio's LinkedIn toolkit via Rube MCP.
 

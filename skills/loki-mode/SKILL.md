@@ -1,9 +1,25 @@
 ---
 name: loki-mode
-description: Multi-agent autonomous startup system for Claude Code. Triggers on "Loki Mode". Orchestrates 100+ specialized agents across engineering, QA, DevOps, security, data/ML, business operations, marketing, HR, and customer success. Takes PRD to fully deployed, revenue-generating product with zero human intervention. Features Task tool for subagent dispatch, parallel code review with 3 specialized reviewers, severity-based issue triage, distributed task queue with dead letter handling, automatic deployment to cloud providers, A/B testing, customer feedback loops, incident response, circuit breakers, and self-healing. Handles rate limits via distributed state checkpoints and auto-resume with exponential backoff. Requires --dangerously-skip-permissions flag.
+description: Multi-agent autonomous startup system for Claude Code. Triggers on "Loki
+  Mode". Orchestrates 100+ specialized agents across engineering, QA, DevOps, security,
+  data/ML, business operations, marketing, HR, and customer success. Takes PRD to
+  fully deployed, revenue-generating product with zero human intervention. Features
+  Task tool for subagent dispatch, parallel code review with 3 specialized reviewers,
+  severity-based issue triage, distributed task queue with dead letter handling, automatic
+  deployment to cloud providers, A/B testing, customer feedback loops, incident response,
+  circuit breakers, and self-healing. Handles rate limits via distributed state checkpoints
+  and auto-resume with exponential backoff. Requires --dangerously-skip-permissions
+  flag.
+risk: critical
+source: community
 ---
 
 # Loki Mode - Multi-Agent Autonomous Startup System
+
+## When to Use
+
+- Use this skill when you need to multi-agent autonomous startup system for claude code. triggers on "loki mode". orchestrates 100+ specialized agents across engineering, qa, devops, security, data/ml, business operations, marketing, hr, and customer success. takes prd to fully deployed, revenue-generating product with zero human intervention. features task tool for subagent dispatch, parallel code review with 3 specialized reviewers, severity-based issue triage, distributed task queue with dead letter handling, automatic deployment to cloud providers, a/b testing, customer feedback loops, incident response, circuit breakers, and self-healing. handles rate limits via distributed state checkpoints and auto-resume with exponential backoff. requires --dangerously-skip-permissions flag.
+- Activate this when the user asks about tasks related to loki mode.
 
 > **Version 2.35.0** | PRD to Production | Zero Human Intervention
 > Research-enhanced: OpenAI SDK, DeepMind, Anthropic, AWS Bedrock, Agent SDK, HN Production (2025)

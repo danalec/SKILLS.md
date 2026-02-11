@@ -1,9 +1,17 @@
 ---
 name: requesting-code-review
-description: Use when completing tasks, implementing major features, or before merging to verify work meets requirements
+description: Use when completing tasks, implementing major features, or before merging
+  to verify work meets requirements
+risk: safe
+source: community
 ---
 
 # Requesting Code Review
+
+## When to Use
+
+- Use this skill when you need to use when completing tasks, implementing major features, or before merging to verify work meets requirements.
+- Activate this when the user asks about tasks related to requesting code review.
 
 Dispatch superpowers:code-reviewer subagent to catch issues before they cascade.
 

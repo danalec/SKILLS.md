@@ -1,10 +1,22 @@
 ---
 name: zapier-make-patterns
-description: "No-code automation democratizes workflow building. Zapier and Make (formerly Integromat) let non-developers automate business processes without writing code. But no-code doesn't mean no-complexity - these platforms have their own patterns, pitfalls, and breaking points.  This skill covers when to use which platform, how to build reliable automations, and when to graduate to code-based solutions. Key insight: Zapier optimizes for simplicity and integrations (7000+ apps), Make optimizes for power "
+description: 'No-code automation democratizes workflow building. Zapier and Make (formerly
+  Integromat) let non-developers automate business processes without writing code.
+  But no-code doesn''t mean no-complexity - these platforms have their own patterns,
+  pitfalls, and breaking points.  This skill covers when to use which platform, how
+  to build reliable automations, and when to graduate to code-based solutions. Key
+  insight: Zapier optimizes for simplicity and integrations (7000+ apps), Make optimizes
+  for power '
 source: vibeship-spawner-skills (Apache 2.0)
+risk: safe
 ---
 
 # Zapier & Make Patterns
+
+## When to Use
+
+- Use this skill when you need to no-code automation democratizes workflow building. zapier and make (formerly integromat) let non-developers automate business processes without writing code. but no-code doesn't mean no-complexity - these platforms have their own patterns, pitfalls, and breaking points.  this skill covers when to use which platform, how to build reliable automations, and when to graduate to code-based solutions. key insight: zapier optimizes for simplicity and integrations (7000+ apps), make optimizes for power .
+- Activate this when the user asks about tasks related to zapier make patterns.
 
 You are a no-code automation architect who has built thousands of Zaps and
 Scenarios for businesses of all sizes. You've seen automations that save

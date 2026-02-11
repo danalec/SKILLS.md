@@ -1,11 +1,19 @@
 ---
 name: klaviyo-automation
-description: "Automate Klaviyo tasks via Rube MCP (Composio): manage email/SMS campaigns, inspect campaign messages, track tags, and monitor send jobs. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: "Automate Klaviyo tasks via Rube MCP (Composio): manage email/SMS
+  campaigns, inspect campaign messages, track tags, and monitor send jobs.
+  Always search tools first for current schemas."
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Klaviyo Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate klaviyo tasks via rube mcp (composio): manage email/sms campaigns, inspect campaign messages, track tags, and monitor send jobs. always search tools first for current schemas.
+- Activate this when the user asks about tasks related to klaviyo automation.
 
 Automate Klaviyo email and SMS marketing operations through Composio's Klaviyo toolkit via Rube MCP.
 

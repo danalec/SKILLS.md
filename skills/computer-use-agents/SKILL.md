@@ -1,10 +1,21 @@
 ---
 name: computer-use-agents
-description: "Build AI agents that interact with computers like humans do - viewing screens, moving cursors, clicking buttons, and typing text. Covers Anthropic's Computer Use, OpenAI's Operator/CUA, and open-source alternatives. Critical focus on sandboxing, security, and handling the unique challenges of vision-based control. Use when: computer use, desktop automation agent, screen control AI, vision-based agent, GUI automation."
+description: 'Build AI agents that interact with computers like humans do - viewing
+  screens, moving cursors, clicking buttons, and typing text. Covers Anthropic''s
+  Computer Use, OpenAI''s Operator/CUA, and open-source alternatives. Critical focus
+  on sandboxing, security, and handling the unique challenges of vision-based control.
+  Use when: computer use, desktop automation agent, screen control AI, vision-based
+  agent, GUI automation.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: safe
 ---
 
 # Computer Use Agents
+
+## When to Use
+
+- Use this skill when you need to build ai agents that interact with computers like humans do - viewing screens, moving cursors, clicking buttons, and typing text. covers anthropic's computer use, openai's operator/cua, and open-source alternatives. critical focus on sandboxing, security, and handling the unique challenges of vision-based control. use when: computer use, desktop automation agent, screen control ai, vision-based agent, gui automation.
+- Activate this when the user asks about tasks related to computer use agents.
 
 ## Patterns
 

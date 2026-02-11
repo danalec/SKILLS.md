@@ -1,11 +1,19 @@
 ---
 name: sendgrid-automation
-description: "Automate SendGrid email operations including sending emails, managing contacts/lists, sender identities, templates, and analytics via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: Automate SendGrid email operations including sending emails,
+  managing contacts/lists, sender identities, templates, and analytics via Rube
+  MCP (Composio). Always search tools first for current schemas.
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # SendGrid Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate sendgrid email operations including sending emails, managing contacts/lists, sender identities, templates, and analytics via rube mcp (composio). always search tools first for current schemas.
+- Activate this when the user asks about tasks related to sendgrid automation.
 
 Automate SendGrid email delivery workflows including marketing campaigns (Single Sends), contact and list management, sender identity setup, and email analytics through Composio's SendGrid toolkit.
 

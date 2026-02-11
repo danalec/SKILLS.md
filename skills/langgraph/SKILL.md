@@ -1,10 +1,21 @@
 ---
 name: langgraph
-description: "Expert in LangGraph - the production-grade framework for building stateful, multi-actor AI applications. Covers graph construction, state management, cycles and branches, persistence with checkpointers, human-in-the-loop patterns, and the ReAct agent pattern. Used in production at LinkedIn, Uber, and 400+ companies. This is LangChain's recommended approach for building agents. Use when: langgraph, langchain agent, stateful agent, agent graph, react agent."
+description: 'Expert in LangGraph - the production-grade framework for building stateful,
+  multi-actor AI applications. Covers graph construction, state management, cycles
+  and branches, persistence with checkpointers, human-in-the-loop patterns, and the
+  ReAct agent pattern. Used in production at LinkedIn, Uber, and 400+ companies. This
+  is LangChain''s recommended approach for building agents. Use when: langgraph, langchain
+  agent, stateful agent, agent graph, react agent.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: critical
 ---
 
 # LangGraph
+
+## When to Use
+
+- Use this skill when you need to expert in langgraph - the production-grade framework for building stateful, multi-actor ai applications. covers graph construction, state management, cycles and branches, persistence with checkpointers, human-in-the-loop patterns, and the react agent pattern. used in production at linkedin, uber, and 400+ companies. this is langchain's recommended approach for building agents. use when: langgraph, langchain agent, stateful agent, agent graph, react agent.
+- Activate this when the user asks about tasks related to langgraph.
 
 **Role**: LangGraph Agent Architect
 

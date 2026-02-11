@@ -1,9 +1,20 @@
 ---
 name: mobile-design
-description: Mobile-first design and engineering doctrine for iOS and Android apps. Covers touch interaction, performance, platform conventions, offline behavior, and mobile-specific decision-making. Teaches principles and constraints, not fixed layouts. Use for React Native, Flutter, or native mobile apps.
-allowed-tools: Read, Glob, Grep, Bash
+description: Mobile-first design and engineering doctrine for iOS and Android
+  apps. Covers touch interaction, performance, platform conventions, offline
+  behavior, and mobile-specific decision-making. Teaches principles and
+  constraints, not fixed layouts. Use for React Native, Flutter, or native
+  mobile apps.
+risk: none
+source: community
+allowed-tools: Read Glob Grep Bash
 ---
 # Mobile Design System
+
+## When to Use
+
+- Use this skill when you need to mobile-first design and engineering doctrine for ios and android apps. covers touch interaction, performance, platform conventions, offline behavior, and mobile-specific decision-making. teaches principles and constraints, not fixed layouts. use for react native, flutter, or native mobile apps.
+- Activate this when the user asks about tasks related to mobile design.
 
 **(Mobile-First · Touch-First · Platform-Respectful)**
 

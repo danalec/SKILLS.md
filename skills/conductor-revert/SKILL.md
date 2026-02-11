@@ -1,10 +1,11 @@
 ---
 name: conductor-revert
 description: Git-aware undo by logical work unit (track, phase, or task)
+risk: safe
+source: community
 metadata:
   argument-hint: "[track-id | track-id:phase | track-id:task]"
 ---
-
 # Revert Track
 
 Revert changes by logical work unit with full git awareness. Supports reverting entire tracks, specific phases, or individual tasks.

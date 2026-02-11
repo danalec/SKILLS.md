@@ -1,7 +1,14 @@
 ---
 name: security-scanning-security-hardening
-description: "Coordinate multi-layer security scanning and hardening across application, infrastructure, and compliance controls."
+description: Coordinate multi-layer security scanning and hardening across application,
+  infrastructure, and compliance controls.
+risk: offensive
+source: community
 ---
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
+
+
 
 Implement comprehensive security hardening with defense-in-depth strategy through coordinated multi-agent orchestration:
 

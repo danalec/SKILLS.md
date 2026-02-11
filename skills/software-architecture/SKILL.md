@@ -1,9 +1,18 @@
 ---
 name: software-architecture
-description: Guide for quality focused software architecture. This skill should be used when users want to write code, design architecture, analyze code, in any case that relates to software development.
+description: Guide for quality focused software architecture. This skill should be
+  used when users want to write code, design architecture, analyze code, in any case
+  that relates to software development.
+risk: safe
+source: community
 ---
 
 # Software Architecture Development Skill
+
+## When to Use
+
+- Use this skill when you need to guide for quality focused software architecture. this skill should be used when users want to write code, design architecture, analyze code, in any case that relates to software development.
+- Activate this when the user asks about tasks related to software architecture.
 
 This skill provides guidance for quality focused software development and architecture. It is based on Clean Architecture and Domain Driven Design principles.
 

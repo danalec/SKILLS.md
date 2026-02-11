@@ -1,10 +1,18 @@
 ---
 name: mobile-games
-description: Mobile game development principles. Touch input, battery, performance, app stores.
+description: Mobile game development principles. Touch input, battery, performance,
+  app stores.
 allowed-tools: Read, Write, Edit, Glob, Grep
+risk: none
+source: community
 ---
 
 # Mobile Game Development
+
+## When to Use
+
+- Use this skill when you need to mobile game development principles. touch input, battery, performance, app stores.
+- Activate this when the user asks about tasks related to mobile games.
 
 > Platform constraints and optimization principles.
 

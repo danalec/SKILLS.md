@@ -3,10 +3,11 @@ name: seo-content-writer
 description: Writes SEO-optimized content based on provided keywords and topic
   briefs. Creates engaging, comprehensive content following best practices. Use
   PROACTIVELY for content creation tasks.
+risk: safe
+source: community
 metadata:
   model: sonnet
 ---
-
 ## Use this skill when
 
 - Working on seo content writer tasks or workflows

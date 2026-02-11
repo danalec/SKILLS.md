@@ -4,10 +4,11 @@ description: Refactor legacy codebases, migrate outdated frameworks, and
   implement gradual modernization. Handles technical debt, dependency updates,
   and backward compatibility. Use PROACTIVELY for legacy system updates,
   framework migrations, or technical debt reduction.
+risk: safe
+source: community
 metadata:
   model: sonnet
 ---
-
 ## Use this skill when
 
 - Working on legacy modernizer tasks or workflows

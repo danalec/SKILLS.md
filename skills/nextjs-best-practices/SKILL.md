@@ -1,10 +1,17 @@
 ---
 name: nextjs-best-practices
-description: Next.js App Router principles. Server Components, data fetching, routing patterns.
-allowed-tools: Read, Write, Edit, Glob, Grep
+description: Next.js App Router principles. Server Components, data fetching,
+  routing patterns.
+risk: none
+source: community
+allowed-tools: Read Write Edit Glob Grep
 ---
-
 # Next.js Best Practices
+
+## When to Use
+
+- Use this skill when you need to next.js app router principles. server components, data fetching, routing patterns.
+- Activate this when the user asks about tasks related to nextjs best practices.
 
 > Principles for Next.js App Router development.
 

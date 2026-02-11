@@ -5,11 +5,16 @@ description: Expert firmware analyst specializing in embedded systems, IoT
   analysis, and vulnerability research for routers, IoT devices, automotive
   systems, and industrial controllers. Use PROACTIVELY for firmware security
   audits, IoT penetration testing, or embedded systems research.
+risk: offensive
+source: community
 metadata:
   model: opus
 ---
-
 # Download from vendor
+
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
+
 wget http://vendor.com/firmware/update.bin
 
 # Extract from device via debug interface

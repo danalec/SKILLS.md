@@ -1,8 +1,8 @@
 ---
 name: imagen
-description: |
-source: "https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen"
+description: Expert in generating images using Google Gemini's advanced image generation models.
 risk: safe
+source: community
 ---
 
 # Imagen - AI Image Generation Skill

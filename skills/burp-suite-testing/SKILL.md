@@ -1,12 +1,26 @@
 ---
 name: Burp Suite Web Application Testing
-description: This skill should be used when the user asks to "intercept HTTP traffic", "modify web requests", "use Burp Suite for testing", "perform web vulnerability scanning", "test with Burp Repeater", "analyze HTTP history", or "configure proxy for web testing". It provides comprehensive guidance for using Burp Suite's core features for web application security testing.
+description: This skill should be used when the user asks to "intercept HTTP
+  traffic", "modify web requests", "use Burp Suite for testing", "perform web
+  vulnerability scanning", "test with Burp Repeater", "analyze HTTP history", or
+  "configure proxy for web testing". It provides comprehensive guidance for
+  using Burp Suite's core features for web application security testing.
+risk: offensive
+source: community
 metadata:
   author: zebbern
   version: "1.1"
 ---
-
 # Burp Suite Web Application Testing
+
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
+
+
+## When to Use
+
+- Use this skill when you need to this skill should be used when the user asks to "intercept http traffic", "modify web requests", "use burp suite for testing", "perform web vulnerability scanning", "test with burp repeater", "analyze http history", or "configure proxy for web testing". it provides comprehensive guidance for using burp suite's core features for web application security testing.
+- Activate this when the user asks about tasks related to burp suite testing.
 
 ## Purpose
 

@@ -3,10 +3,11 @@ name: payment-integration
 description: Integrate Stripe, PayPal, and payment processors. Handles checkout
   flows, subscriptions, webhooks, and PCI compliance. Use PROACTIVELY when
   implementing payments, billing, or subscription features.
+risk: safe
+source: community
 metadata:
   model: sonnet
 ---
-
 ## Use this skill when
 
 - Working on payment integration tasks or workflows

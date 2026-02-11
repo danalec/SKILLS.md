@@ -1,9 +1,17 @@
 ---
 name: executing-plans
-description: Use when you have a written implementation plan to execute in a separate session with review checkpoints
+description: Use when you have a written implementation plan to execute in a separate
+  session with review checkpoints
+risk: safe
+source: community
 ---
 
 # Executing Plans
+
+## When to Use
+
+- Use this skill when you need to use when you have a written implementation plan to execute in a separate session with review checkpoints.
+- Activate this when the user asks about tasks related to executing plans.
 
 ## Overview
 

@@ -4,10 +4,11 @@ description: Master AI-powered test automation with modern frameworks,
   self-healing tests, and comprehensive quality engineering. Build scalable
   testing strategies with advanced CI/CD integration. Use PROACTIVELY for
   testing automation or quality assurance.
+risk: safe
+source: community
 metadata:
   model: sonnet
 ---
-
 ## Use this skill when
 
 - Working on test automator tasks or workflows

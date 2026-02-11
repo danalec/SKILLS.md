@@ -4,10 +4,11 @@ description: Creates comprehensive technical documentation from existing
   codebases. Analyzes architecture, design patterns, and implementation details
   to produce long-form technical manuals and ebooks. Use PROACTIVELY for system
   documentation, architecture guides, or technical deep-dives.
+risk: safe
+source: community
 metadata:
   model: sonnet
 ---
-
 ## Use this skill when
 
 - Working on docs architect tasks or workflows

@@ -4,10 +4,11 @@ description: Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and
   Pydantic V2. Master microservices, WebSockets, and modern Python async
   patterns. Use PROACTIVELY for FastAPI development, async optimization, or API
   architecture.
+risk: critical
+source: community
 metadata:
   model: opus
 ---
-
 ## Use this skill when
 
 - Working on fastapi pro tasks or workflows

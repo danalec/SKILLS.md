@@ -1,9 +1,17 @@
 ---
 name: attack-tree-construction
-description: Build comprehensive attack trees to visualize threat paths. Use when mapping attack scenarios, identifying defense gaps, or communicating security risks to stakeholders.
+description: Build comprehensive attack trees to visualize threat paths. Use when
+  mapping attack scenarios, identifying defense gaps, or communicating security risks
+  to stakeholders.
+risk: offensive
+source: community
 ---
 
 # Attack Tree Construction
+
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
+
 
 Systematic attack path visualization and analysis.
 

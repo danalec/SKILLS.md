@@ -1,11 +1,19 @@
 ---
 name: intercom-automation
-description: "Automate Intercom tasks via Rube MCP (Composio): conversations, contacts, companies, segments, admins. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: "Automate Intercom tasks via Rube MCP (Composio): conversations,
+  contacts, companies, segments, admins. Always search tools first for current
+  schemas."
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Intercom Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate intercom tasks via rube mcp (composio): conversations, contacts, companies, segments, admins. always search tools first for current schemas.
+- Activate this when the user asks about tasks related to intercom automation.
 
 Automate Intercom operations through Composio's Intercom toolkit via Rube MCP.
 

@@ -1,9 +1,25 @@
 ---
 name: ui-ux-pro-max
-description: "UI/UX design intelligence. 50 styles, 21 palettes, 50 font pairings, 20 charts, 9 stacks (React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind, shadcn/ui). Actions: plan, build, create, design, implement, review, fix, improve, optimize, enhance, refactor, check UI/UX code. Projects: website, landing page, dashboard, admin panel, e-commerce, SaaS, portfolio, blog, mobile app, .html, .tsx, .vue, .svelte. Elements: button, modal, navbar, sidebar, card, table, form, chart. Styles: glassmorphism, claymorphism, minimalism, brutalism, neumorphism, bento grid, dark mode, responsive, skeuomorphism, flat design. Topics: color palette, accessibility, animation, layout, typography, font pairing, spacing, hover, shadow, gradient. Integrations: shadcn/ui MCP for component search and examples."
+description: 'UI/UX design intelligence. 50 styles, 21 palettes, 50 font pairings,
+  20 charts, 9 stacks (React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter,
+  Tailwind, shadcn/ui). Actions: plan, build, create, design, implement, review, fix,
+  improve, optimize, enhance, refactor, check UI/UX code. Projects: website, landing
+  page, dashboard, admin panel, e-commerce, SaaS, portfolio, blog, mobile app, .html,
+  .tsx, .vue, .svelte. Elements: button, modal, navbar, sidebar, card, table, form,
+  chart. Styles: glassmorphism, claymorphism, minimalism, brutalism, neumorphism,
+  bento grid, dark mode, responsive, skeuomorphism, flat design. Topics: color palette,
+  accessibility, animation, layout, typography, font pairing, spacing, hover, shadow,
+  gradient. Integrations: shadcn/ui MCP for component search and examples.'
+risk: safe
+source: community
 ---
 
 # UI/UX Pro Max - Design Intelligence
+
+## When to Use
+
+- Use this skill when you need to ui/ux design intelligence. 50 styles, 21 palettes, 50 font pairings, 20 charts, 9 stacks (react, next.js, vue, svelte, swiftui, react native, flutter, tailwind, shadcn/ui). actions: plan, build, create, design, implement, review, fix, improve, optimize, enhance, refactor, check ui/ux code. projects: website, landing page, dashboard, admin panel, e-commerce, saas, portfolio, blog, mobile app, .html, .tsx, .vue, .svelte. elements: button, modal, navbar, sidebar, card, table, form, chart. styles: glassmorphism, claymorphism, minimalism, brutalism, neumorphism, bento grid, dark mode, responsive, skeuomorphism, flat design. topics: color palette, accessibility, animation, layout, typography, font pairing, spacing, hover, shadow, gradient. integrations: shadcn/ui mcp for component search and examples.
+- Activate this when the user asks about tasks related to ui ux pro max.
 
 Comprehensive design guide for web and mobile applications. Contains 50+ styles, 97 color palettes, 57 font pairings, 99 UX guidelines, and 25 chart types across 9 technology stacks. Searchable database with priority-based recommendations.
 

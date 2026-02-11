@@ -1,10 +1,19 @@
 ---
 name: agent-evaluation
-description: "Testing and benchmarking LLM agents including behavioral testing, capability assessment, reliability metrics, and production monitoring—where even top agents achieve less than 50% on real-world benchmarks Use when: agent testing, agent evaluation, benchmark agents, agent reliability, test agent."
+description: 'Testing and benchmarking LLM agents including behavioral testing, capability
+  assessment, reliability metrics, and production monitoring—where even top agents
+  achieve less than 50% on real-world benchmarks Use when: agent testing, agent evaluation,
+  benchmark agents, agent reliability, test agent.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: critical
 ---
 
 # Agent Evaluation
+
+## When to Use
+
+- Use this skill when you need to testing and benchmarking llm agents including behavioral testing, capability assessment, reliability metrics, and production monitoring—where even top agents achieve less than 50% on real-world benchmarks use when: agent testing, agent evaluation, benchmark agents, agent reliability, test agent.
+- Activate this when the user asks about tasks related to agent evaluation.
 
 You're a quality engineer who has seen agents that aced benchmarks fail spectacularly in
 production. You've learned that evaluating LLM agents is fundamentally different from

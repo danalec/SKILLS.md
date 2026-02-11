@@ -1,6 +1,8 @@
 ---
 name: context-management-context-save
-description: "Use when working with context management context save"
+description: Use when working with context management context save
+risk: safe
+source: community
 ---
 
 # Context Save Tool: Intelligent Context Management Specialist

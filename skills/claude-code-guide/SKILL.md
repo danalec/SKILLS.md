@@ -1,9 +1,18 @@
 ---
 name: Claude Code Guide
-description: Master guide for using Claude Code effectively. Includes configuration templates, prompting strategies "Thinking" keywords, debugging techniques, and best practices for interacting with the agent.
+description: Master guide for using Claude Code effectively. Includes configuration
+  templates, prompting strategies "Thinking" keywords, debugging techniques, and best
+  practices for interacting with the agent.
+risk: none
+source: community
 ---
 
 # Claude Code Guide
+
+## When to Use
+
+- Use this skill when you need to master guide for using claude code effectively. includes configuration templates, prompting strategies "thinking" keywords, debugging techniques, and best practices for interacting with the agent.
+- Activate this when the user asks about tasks related to claude code guide.
 
 ## Purpose
 

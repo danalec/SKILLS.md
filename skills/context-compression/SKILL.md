@@ -1,10 +1,15 @@
 ---
 name: context-compression
-description: "Design and evaluate compression strategies for long-running sessions"
-source: "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression"
+description: Design and evaluate compression strategies for long-running sessions
+source: https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/context-compression
 risk: safe
 ---
 # Context Compression Strategies
+
+## When to Use
+
+- Use this skill when you need to design and evaluate compression strategies for long-running sessions.
+- Activate this when the user asks about tasks related to context compression.
 
 When agent sessions generate millions of tokens of conversation history, compression becomes mandatory. The naive approach is aggressive compression to minimize tokens per request. The correct optimization target is tokens per task: total tokens consumed to complete a task, including re-fetching costs when compression loses critical information.
 

@@ -2,9 +2,10 @@
 name: startup-business-analyst-business-case
 description: Generate comprehensive investor-ready business case document with
   market, solution, financials, and strategy
+risk: safe
+source: community
 allowed-tools: Read Write Edit Glob Grep Bash WebSearch WebFetch
 ---
-
 # Business Case Generator
 
 Generate a comprehensive, investor-ready business case document covering market opportunity, solution, competitive landscape, financial projections, team, risks, and funding ask for startup fundraising and strategic planning.

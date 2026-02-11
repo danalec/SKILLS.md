@@ -6,6 +6,8 @@ description: Expert Terraform/OpenTofu specialist mastering advanced IaC
   code, and CI/CD integration. Covers migration strategies, security best
   practices, and modern IaC ecosystems. Use PROACTIVELY for advanced IaC, state
   management, or infrastructure automation.
+risk: critical
+source: community
 metadata:
   model: opus
 ---

@@ -6,6 +6,8 @@ description: Expert deployment engineer specializing in modern CI/CD pipelines,
   engineering. Handles zero-downtime deployments, security scanning, and
   developer experience optimization. Use PROACTIVELY for CI/CD design, GitOps
   implementation, or deployment automation.
+risk: critical
+source: community
 metadata:
   model: haiku
 ---

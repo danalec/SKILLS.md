@@ -6,6 +6,8 @@ description: Expert backend architect specializing in scalable API design,
   frameworks. Handles service boundary definition, inter-service communication,
   resilience patterns, and observability. Use PROACTIVELY when creating new
   backend services or APIs.
+risk: none
+source: community
 metadata:
   model: inherit
 ---

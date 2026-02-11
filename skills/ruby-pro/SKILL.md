@@ -4,10 +4,11 @@ description: Write idiomatic Ruby code with metaprogramming, Rails patterns, and
   performance optimization. Specializes in Ruby on Rails, gem development, and
   testing frameworks. Use PROACTIVELY for Ruby refactoring, optimization, or
   complex Ruby features.
+risk: safe
+source: community
 metadata:
   model: inherit
 ---
-
 ## Use this skill when
 
 - Working on ruby pro tasks or workflows

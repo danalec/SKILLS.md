@@ -1,10 +1,19 @@
 ---
 name: plaid-fintech
-description: "Expert patterns for Plaid API integration including Link token flows, transactions sync, identity verification, Auth for ACH, balance checks, webhook handling, and fintech compliance best practices. Use when: plaid, bank account linking, bank connection, ach, account aggregation."
+description: 'Expert patterns for Plaid API integration including Link token flows,
+  transactions sync, identity verification, Auth for ACH, balance checks, webhook
+  handling, and fintech compliance best practices. Use when: plaid, bank account linking,
+  bank connection, ach, account aggregation.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: safe
 ---
 
 # Plaid Fintech
+
+## When to Use
+
+- Use this skill when you need to expert patterns for plaid api integration including link token flows, transactions sync, identity verification, auth for ach, balance checks, webhook handling, and fintech compliance best practices. use when: plaid, bank account linking, bank connection, ach, account aggregation.
+- Activate this when the user asks about tasks related to plaid fintech.
 
 ## Patterns
 

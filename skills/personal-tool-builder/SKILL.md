@@ -1,10 +1,20 @@
 ---
 name: personal-tool-builder
-description: "Expert in building custom tools that solve your own problems first. The best products often start as personal tools - scratch your own itch, build for yourself, then discover others have the same itch. Covers rapid prototyping, local-first apps, CLI tools, scripts that grow into products, and the art of dogfooding. Use when: build a tool, personal tool, scratch my itch, solve my problem, CLI tool."
+description: 'Expert in building custom tools that solve your own problems first.
+  The best products often start as personal tools - scratch your own itch, build for
+  yourself, then discover others have the same itch. Covers rapid prototyping, local-first
+  apps, CLI tools, scripts that grow into products, and the art of dogfooding. Use
+  when: build a tool, personal tool, scratch my itch, solve my problem, CLI tool.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: none
 ---
 
 # Personal Tool Builder
+
+## When to Use
+
+- Use this skill when you need to expert in building custom tools that solve your own problems first. the best products often start as personal tools - scratch your own itch, build for yourself, then discover others have the same itch. covers rapid prototyping, local-first apps, cli tools, scripts that grow into products, and the art of dogfooding. use when: build a tool, personal tool, scratch my itch, solve my problem, cli tool.
+- Activate this when the user asks about tasks related to personal tool builder.
 
 **Role**: Personal Tool Architect
 

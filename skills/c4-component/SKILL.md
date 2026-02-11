@@ -5,10 +5,11 @@ description: Expert C4 Component-level documentation specialist. Synthesizes C4
   boundaries, interfaces, and relationships. Creates component diagrams and
   documentation. Use when synthesizing code-level documentation into logical
   components.
+risk: safe
+source: community
 metadata:
   model: sonnet
 ---
-
 # C4 Component Level: [Component Name]
 
 ## Use this skill when

@@ -1,10 +1,18 @@
 ---
 name: nodejs-best-practices
-description: Node.js development principles and decision-making. Framework selection, async patterns, security, and architecture. Teaches thinking, not copying.
-allowed-tools: Read, Write, Edit, Glob, Grep
+description: Node.js development principles and decision-making. Framework
+  selection, async patterns, security, and architecture. Teaches thinking, not
+  copying.
+risk: none
+source: community
+allowed-tools: Read Write Edit Glob Grep
 ---
-
 # Node.js Best Practices
+
+## When to Use
+
+- Use this skill when you need to node.js development principles and decision-making. framework selection, async patterns, security, and architecture. teaches thinking, not copying.
+- Activate this when the user asks about tasks related to nodejs best practices.
 
 > Principles and decision-making for Node.js development in 2025.
 > **Learn to THINK, not memorize code patterns.**

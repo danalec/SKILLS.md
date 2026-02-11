@@ -1,10 +1,18 @@
 ---
 name: game-design
-description: Game design principles. GDD structure, balancing, player psychology, progression.
+description: Game design principles. GDD structure, balancing, player psychology,
+  progression.
 allowed-tools: Read, Glob, Grep
+risk: none
+source: community
 ---
 
 # Game Design Principles
+
+## When to Use
+
+- Use this skill when you need to game design principles. gdd structure, balancing, player psychology, progression.
+- Activate this when the user asks about tasks related to game design.
 
 > Design thinking for engaging games.
 

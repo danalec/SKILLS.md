@@ -1,11 +1,19 @@
 ---
 name: zoom-automation
-description: "Automate Zoom meeting creation, management, recordings, webinars, and participant tracking via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: Automate Zoom meeting creation, management, recordings, webinars,
+  and participant tracking via Rube MCP (Composio). Always search tools first
+  for current schemas.
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Zoom Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate zoom meeting creation, management, recordings, webinars, and participant tracking via rube mcp (composio). always search tools first for current schemas.
+- Activate this when the user asks about tasks related to zoom automation.
 
 Automate Zoom operations including meeting scheduling, webinar management, cloud recording retrieval, participant tracking, and usage reporting through Composio's Zoom toolkit.
 

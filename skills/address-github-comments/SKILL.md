@@ -1,9 +1,17 @@
 ---
 name: address-github-comments
-description: Use when you need to address review or issue comments on an open GitHub Pull Request using the gh CLI.
+description: Use when you need to address review or issue comments on an open GitHub
+  Pull Request using the gh CLI.
+risk: safe
+source: community
 ---
 
 # Address GitHub Comments
+
+## When to Use
+
+- Use this skill when you need to use when you need to address review or issue comments on an open github pull request using the gh cli.
+- Activate this when the user asks about tasks related to address github comments.
 
 ## Overview
 

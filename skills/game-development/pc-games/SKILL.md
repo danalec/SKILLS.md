@@ -1,10 +1,18 @@
 ---
 name: pc-games
-description: PC and console game development principles. Engine selection, platform features, optimization strategies.
+description: PC and console game development principles. Engine selection, platform
+  features, optimization strategies.
 allowed-tools: Read, Write, Edit, Glob, Grep
+risk: none
+source: community
 ---
 
 # PC/Console Game Development
+
+## When to Use
+
+- Use this skill when you need to pc and console game development principles. engine selection, platform features, optimization strategies.
+- Activate this when the user asks about tasks related to pc games.
 
 > Engine selection and platform-specific principles.
 

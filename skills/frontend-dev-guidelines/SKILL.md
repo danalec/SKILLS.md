@@ -1,10 +1,20 @@
 ---
 name: frontend-dev-guidelines
-description: Opinionated frontend development standards for modern React + TypeScript applications. Covers Suspense-first data fetching, lazy loading, feature-based architecture, MUI v7 styling, TanStack Router, performance optimization, and strict TypeScript practices.
+description: Opinionated frontend development standards for modern React + TypeScript
+  applications. Covers Suspense-first data fetching, lazy loading, feature-based architecture,
+  MUI v7 styling, TanStack Router, performance optimization, and strict TypeScript
+  practices.
+risk: critical
+source: community
 ---
 
 
 # Frontend Development Guidelines
+
+## When to Use
+
+- Use this skill when you need to opinionated frontend development standards for modern react + typescript applications. covers suspense-first data fetching, lazy loading, feature-based architecture, mui v7 styling, tanstack router, performance optimization, and strict typescript practices.
+- Activate this when the user asks about tasks related to frontend dev guidelines.
 
 **(React · TypeScript · Suspense-First · Production-Grade)**
 

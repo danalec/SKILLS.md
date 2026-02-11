@@ -1,9 +1,18 @@
 ---
 name: verification-before-completion
-description: Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always
+description: Use when about to claim work is complete, fixed, or passing, before committing
+  or creating PRs - requires running verification commands and confirming output before
+  making any success claims; evidence before assertions always
+risk: none
+source: community
 ---
 
 # Verification Before Completion
+
+## When to Use
+
+- Use this skill when you need to use when about to claim work is complete, fixed, or passing, before committing or creating prs - requires running verification commands and confirming output before making any success claims; evidence before assertions always.
+- Activate this when the user asks about tasks related to verification before completion.
 
 ## Overview
 

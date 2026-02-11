@@ -1,11 +1,19 @@
 ---
 name: webflow-automation
-description: "Automate Webflow CMS collections, site publishing, page management, asset uploads, and ecommerce orders via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: Automate Webflow CMS collections, site publishing, page management,
+  asset uploads, and ecommerce orders via Rube MCP (Composio). Always search
+  tools first for current schemas.
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Webflow Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate webflow cms collections, site publishing, page management, asset uploads, and ecommerce orders via rube mcp (composio). always search tools first for current schemas.
+- Activate this when the user asks about tasks related to webflow automation.
 
 Automate Webflow operations including CMS collection management, site publishing, page inspection, asset uploads, and ecommerce order retrieval through Composio's Webflow toolkit.
 

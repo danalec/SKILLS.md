@@ -3,10 +3,11 @@ name: sales-automator
 description: Draft cold emails, follow-ups, and proposal templates. Creates
   pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales
   outreach or lead nurturing.
+risk: safe
+source: community
 metadata:
   model: haiku
 ---
-
 ## Use this skill when
 
 - Working on sales automator tasks or workflows

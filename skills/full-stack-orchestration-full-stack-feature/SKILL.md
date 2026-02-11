@@ -1,6 +1,8 @@
 ---
 name: full-stack-orchestration-full-stack-feature
-description: "Use when working with full stack orchestration full stack feature"
+description: Use when working with full stack orchestration full stack feature
+risk: safe
+source: community
 ---
 
 ## Use this skill when

@@ -4,10 +4,11 @@ description: Master Django 5.x with async views, DRF, Celery, and Django
   Channels. Build scalable web applications with proper architecture, testing,
   and deployment. Use PROACTIVELY for Django development, ORM optimization, or
   complex Django patterns.
+risk: critical
+source: community
 metadata:
   model: opus
 ---
-
 ## Use this skill when
 
 - Working on django pro tasks or workflows

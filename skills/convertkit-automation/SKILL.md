@@ -1,11 +1,19 @@
 ---
 name: convertkit-automation
-description: "Automate ConvertKit (Kit) tasks via Rube MCP (Composio): manage subscribers, tags, broadcasts, and broadcast stats. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: "Automate ConvertKit (Kit) tasks via Rube MCP (Composio): manage
+  subscribers, tags, broadcasts, and broadcast stats. Always search tools first
+  for current schemas."
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # ConvertKit (Kit) Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate convertkit (kit) tasks via rube mcp (composio): manage subscribers, tags, broadcasts, and broadcast stats. always search tools first for current schemas.
+- Activate this when the user asks about tasks related to convertkit automation.
 
 Automate ConvertKit (now known as Kit) email marketing operations through Composio's Kit toolkit via Rube MCP.
 

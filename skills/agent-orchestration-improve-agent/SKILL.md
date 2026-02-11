@@ -1,6 +1,9 @@
 ---
 name: agent-orchestration-improve-agent
-description: "Systematic improvement of existing agents through performance analysis, prompt engineering, and continuous iteration."
+description: Systematic improvement of existing agents through performance analysis,
+  prompt engineering, and continuous iteration.
+risk: critical
+source: community
 ---
 
 # Agent Performance Optimization Workflow

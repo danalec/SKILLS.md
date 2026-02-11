@@ -5,10 +5,11 @@ description: Build Unity games with optimized C# scripts, efficient rendering,
   cross-platform deployment. Handles gameplay systems, UI implementation, and
   platform optimization. Use PROACTIVELY for Unity performance issues, game
   mechanics, or cross-platform builds.
+risk: critical
+source: community
 metadata:
   model: opus
 ---
-
 ## Use this skill when
 
 - Working on unity developer tasks or workflows

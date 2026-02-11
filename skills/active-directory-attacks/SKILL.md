@@ -1,12 +1,25 @@
 ---
 name: Active Directory Attacks
-description: This skill should be used when the user asks to "attack Active Directory", "exploit AD", "Kerberoasting", "DCSync", "pass-the-hash", "BloodHound enumeration", "Golden Ticket", "Silver Ticket", "AS-REP roasting", "NTLM relay", or needs guidance on Windows domain penetration testing.
+description: This skill should be used when the user asks to "attack Active
+  Directory", "exploit AD", "Kerberoasting", "DCSync", "pass-the-hash",
+  "BloodHound enumeration", "Golden Ticket", "Silver Ticket", "AS-REP roasting",
+  "NTLM relay", or needs guidance on Windows domain penetration testing.
+risk: offensive
+source: community
 metadata:
   author: zebbern
   version: "1.1"
 ---
-
 # Active Directory Attacks
+
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
+
+
+## When to Use
+
+- Use this skill when you need to this skill should be used when the user asks to "attack active directory", "exploit ad", "kerberoasting", "dcsync", "pass-the-hash", "bloodhound enumeration", "golden ticket", "silver ticket", "as-rep roasting", "ntlm relay", or needs guidance on windows domain penetration testing.
+- Activate this when the user asks about tasks related to active directory attacks.
 
 ## Purpose
 

@@ -1,11 +1,19 @@
 ---
 name: activecampaign-automation
-description: "Automate ActiveCampaign tasks via Rube MCP (Composio): manage contacts, tags, list subscriptions, automation enrollment, and tasks. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: "Automate ActiveCampaign tasks via Rube MCP (Composio): manage
+  contacts, tags, list subscriptions, automation enrollment, and tasks. Always
+  search tools first for current schemas."
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # ActiveCampaign Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate activecampaign tasks via rube mcp (composio): manage contacts, tags, list subscriptions, automation enrollment, and tasks. always search tools first for current schemas.
+- Activate this when the user asks about tasks related to activecampaign automation.
 
 Automate ActiveCampaign CRM and marketing automation operations through Composio's ActiveCampaign toolkit via Rube MCP.
 

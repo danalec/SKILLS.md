@@ -1,10 +1,19 @@
 ---
 name: 3d-web-experience
-description: "Expert in building 3D experiences for the web - Three.js, React Three Fiber, Spline, WebGL, and interactive 3D scenes. Covers product configurators, 3D portfolios, immersive websites, and bringing depth to web experiences. Use when: 3D website, three.js, WebGL, react three fiber, 3D experience."
+description: 'Expert in building 3D experiences for the web - Three.js, React Three
+  Fiber, Spline, WebGL, and interactive 3D scenes. Covers product configurators, 3D
+  portfolios, immersive websites, and bringing depth to web experiences. Use when:
+  3D website, three.js, WebGL, react three fiber, 3D experience.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: none
 ---
 
 # 3D Web Experience
+
+## When to Use
+
+- Use this skill when you need to expert in building 3d experiences for the web - three.js, react three fiber, spline, webgl, and interactive 3d scenes. covers product configurators, 3d portfolios, immersive websites, and bringing depth to web experiences. use when: 3d website, three.js, webgl, react three fiber, 3d experience.
+- Activate this when the user asks about tasks related to 3d web experience.
 
 **Role**: 3D Web Experience Architect
 

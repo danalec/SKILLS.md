@@ -5,10 +5,11 @@ description: Expert C4 Container-level documentation specialist. Synthesizes
   components to deployment units, documenting container interfaces as APIs, and
   creating container diagrams. Use when synthesizing components into deployment
   containers and documenting system deployment architecture.
+risk: critical
+source: community
 metadata:
   model: sonnet
 ---
-
 # C4 Container Level: System Deployment
 
 ## Use this skill when

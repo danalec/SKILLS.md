@@ -1,10 +1,18 @@
 ---
 name: algolia-search
-description: "Expert patterns for Algolia search implementation, indexing strategies, React InstantSearch, and relevance tuning Use when: adding search to, algolia, instantsearch, search api, search functionality."
+description: 'Expert patterns for Algolia search implementation, indexing strategies,
+  React InstantSearch, and relevance tuning Use when: adding search to, algolia, instantsearch,
+  search api, search functionality.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: none
 ---
 
 # Algolia Search Integration
+
+## When to Use
+
+- Use this skill when you need to expert patterns for algolia search implementation, indexing strategies, react instantsearch, and relevance tuning use when: adding search to, algolia, instantsearch, search api, search functionality.
+- Activate this when the user asks about tasks related to algolia search.
 
 ## Patterns
 

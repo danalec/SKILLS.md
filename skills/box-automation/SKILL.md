@@ -1,11 +1,20 @@
 ---
 name: box-automation
-description: "Automate Box cloud storage operations including file upload/download, search, folder management, sharing, collaborations, and metadata queries via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: Automate Box cloud storage operations including file
+  upload/download, search, folder management, sharing, collaborations, and
+  metadata queries via Rube MCP (Composio). Always search tools first for
+  current schemas.
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Box Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate box cloud storage operations including file upload/download, search, folder management, sharing, collaborations, and metadata queries via rube mcp (composio). always search tools first for current schemas.
+- Activate this when the user asks about tasks related to box automation.
 
 Automate Box operations including file upload/download, content search, folder management, collaboration, metadata queries, and sign requests through Composio's Box toolkit.
 

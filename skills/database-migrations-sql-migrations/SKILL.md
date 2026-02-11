@@ -2,13 +2,14 @@
 name: database-migrations-sql-migrations
 description: SQL database migrations with zero-downtime strategies for
   PostgreSQL, MySQL, SQL Server
+risk: critical
+source: community
 allowed-tools: Read Write Edit Bash Grep Glob
 metadata:
   version: 1.0.0
   tags: database, sql, migrations, postgresql, mysql, flyway, liquibase, alembic,
     zero-downtime
 ---
-
 # SQL Database Migration Strategy and Implementation
 
 You are a SQL database migration expert specializing in zero-downtime deployments, data integrity, and production-ready migration strategies for PostgreSQL, MySQL, and SQL Server. Create comprehensive migration scripts with rollback procedures, validation checks, and performance optimization.

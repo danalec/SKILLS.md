@@ -1,6 +1,8 @@
 ---
 name: machine-learning-ops-ml-pipeline
-description: "Design and implement a complete ML pipeline for: $ARGUMENTS"
+description: 'Design and implement a complete ML pipeline for: $ARGUMENTS'
+risk: safe
+source: community
 ---
 
 # Machine Learning Pipeline - Multi-Agent MLOps Orchestration

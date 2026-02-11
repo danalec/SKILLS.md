@@ -5,10 +5,11 @@ description: Master Minecraft server plugin development with Bukkit, Spigot, and
   manipulation, player management, and performance optimization. Use PROACTIVELY
   for plugin architecture, gameplay mechanics, server-side features, or
   cross-version compatibility.
+risk: safe
+source: community
 metadata:
   model: opus
 ---
-
 ## Use this skill when
 
 - Working on minecraft bukkit pro tasks or workflows

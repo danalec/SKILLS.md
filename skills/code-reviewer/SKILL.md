@@ -5,10 +5,11 @@ description: Elite code review expert specializing in modern AI-powered code
   reliability. Masters static analysis tools, security scanning, and
   configuration review with 2024/2025 best practices. Use PROACTIVELY for code
   quality assurance.
+risk: critical
+source: community
 metadata:
   model: opus
 ---
-
 ## Use this skill when
 
 - Working on code reviewer tasks or workflows

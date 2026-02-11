@@ -1,10 +1,12 @@
 ---
 name: cc-skill-project-guidelines-example
 description: Project Guidelines Skill (Example)
-author: affaan-m
-version: "1.0"
+risk: critical
+source: community
+metadata:
+  author: affaan-m
+  version: "1.0"
 ---
-
 # Project Guidelines Skill (Example)
 
 This is an example of a project-specific skill. Use this as a template for your own projects.

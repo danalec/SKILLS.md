@@ -1,11 +1,19 @@
 ---
 name: reddit-automation
-description: "Automate Reddit tasks via Rube MCP (Composio): search subreddits, create posts, manage comments, and browse top content. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: "Automate Reddit tasks via Rube MCP (Composio): search subreddits,
+  create posts, manage comments, and browse top content. Always search tools
+  first for current schemas."
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Reddit Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate reddit tasks via rube mcp (composio): search subreddits, create posts, manage comments, and browse top content. always search tools first for current schemas.
+- Activate this when the user asks about tasks related to reddit automation.
 
 Automate Reddit operations through Composio's Reddit toolkit via Rube MCP.
 

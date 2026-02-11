@@ -1,11 +1,18 @@
 ---
 name: hubspot-automation
-description: "Automate HubSpot CRM operations (contacts, companies, deals, tickets, properties) via Rube MCP using Composio integration."
-requires:
-  mcp: [rube]
+description: Automate HubSpot CRM operations (contacts, companies, deals,
+  tickets, properties) via Rube MCP using Composio integration.
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # HubSpot CRM Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate hubspot crm operations (contacts, companies, deals, tickets, properties) via rube mcp using composio integration.
+- Activate this when the user asks about tasks related to hubspot automation.
 
 Automate HubSpot CRM workflows including contact/company management, deal pipeline tracking, ticket search, and custom property creation through Composio's HubSpot toolkit.
 

@@ -3,10 +3,11 @@ name: seo-authority-builder
 description: Analyzes content for E-E-A-T signals and suggests improvements to
   build authority and trust. Identifies missing credibility elements. Use
   PROACTIVELY for YMYL topics.
+risk: safe
+source: community
 metadata:
   model: sonnet
 ---
-
 ## Use this skill when
 
 - Working on seo authority builder tasks or workflows

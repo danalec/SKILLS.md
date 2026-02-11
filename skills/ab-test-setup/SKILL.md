@@ -1,9 +1,17 @@
 ---
 name: ab-test-setup
-description: Structured guide for setting up A/B tests with mandatory gates for hypothesis, metrics, and execution readiness.
+description: Structured guide for setting up A/B tests with mandatory gates for hypothesis,
+  metrics, and execution readiness.
+risk: safe
+source: community
 ---
 
 # A/B Test Setup
+
+## When to Use
+
+- Use this skill when you need to structured guide for setting up a/b tests with mandatory gates for hypothesis, metrics, and execution readiness.
+- Activate this when the user asks about tasks related to ab test setup.
 
 ## 1️⃣ Purpose & Scope
 

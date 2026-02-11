@@ -1,9 +1,17 @@
 ---
 name: avalonia-viewmodels-zafiro
-description: Optimal ViewModel and Wizard creation patterns for Avalonia using Zafiro and ReactiveUI.
+description: Optimal ViewModel and Wizard creation patterns for Avalonia using Zafiro
+  and ReactiveUI.
+risk: none
+source: community
 ---
 
 # Avalonia ViewModels with Zafiro
+
+## When to Use
+
+- Use this skill when you need to optimal viewmodel and wizard creation patterns for avalonia using zafiro and reactiveui.
+- Activate this when the user asks about tasks related to avalonia viewmodels zafiro.
 
 This skill provides a set of best practices and patterns for creating ViewModels, Wizards, and managing navigation in Avalonia applications, leveraging the power of **ReactiveUI** and the **Zafiro** toolkit.
 

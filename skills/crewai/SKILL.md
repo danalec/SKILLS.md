@@ -1,10 +1,21 @@
 ---
 name: crewai
-description: "Expert in CrewAI - the leading role-based multi-agent framework used by 60% of Fortune 500 companies. Covers agent design with roles and goals, task definition, crew orchestration, process types (sequential, hierarchical, parallel), memory systems, and flows for complex workflows. Essential for building collaborative AI agent teams. Use when: crewai, multi-agent team, agent roles, crew of agents, role-based agents."
+description: 'Expert in CrewAI - the leading role-based multi-agent framework used
+  by 60% of Fortune 500 companies. Covers agent design with roles and goals, task
+  definition, crew orchestration, process types (sequential, hierarchical, parallel),
+  memory systems, and flows for complex workflows. Essential for building collaborative
+  AI agent teams. Use when: crewai, multi-agent team, agent roles, crew of agents,
+  role-based agents.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: none
 ---
 
 # CrewAI
+
+## When to Use
+
+- Use this skill when you need to expert in crewai - the leading role-based multi-agent framework used by 60% of fortune 500 companies. covers agent design with roles and goals, task definition, crew orchestration, process types (sequential, hierarchical, parallel), memory systems, and flows for complex workflows. essential for building collaborative ai agent teams. use when: crewai, multi-agent team, agent roles, crew of agents, role-based agents.
+- Activate this when the user asks about tasks related to crewai.
 
 **Role**: CrewAI Multi-Agent Architect
 

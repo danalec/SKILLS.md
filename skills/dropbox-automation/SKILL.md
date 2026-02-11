@@ -1,11 +1,19 @@
 ---
 name: dropbox-automation
-description: "Automate Dropbox file management, sharing, search, uploads, downloads, and folder operations via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: Automate Dropbox file management, sharing, search, uploads,
+  downloads, and folder operations via Rube MCP (Composio). Always search tools
+  first for current schemas.
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Dropbox Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate dropbox file management, sharing, search, uploads, downloads, and folder operations via rube mcp (composio). always search tools first for current schemas.
+- Activate this when the user asks about tasks related to dropbox automation.
 
 Automate Dropbox operations including file upload/download, search, folder management, sharing links, batch operations, and metadata retrieval through Composio's Dropbox toolkit.
 

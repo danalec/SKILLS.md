@@ -3,10 +3,11 @@ name: risk-manager
 description: Monitor portfolio risk, R-multiples, and position limits. Creates
   hedging strategies, calculates expectancy, and implements stop-losses. Use
   PROACTIVELY for risk assessment, trade tracking, or portfolio protection.
+risk: safe
+source: community
 metadata:
   model: inherit
 ---
-
 ## Use this skill when
 
 - Working on risk manager tasks or workflows

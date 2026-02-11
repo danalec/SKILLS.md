@@ -4,10 +4,11 @@ description: Expert data scientist for advanced analytics, machine learning, and
   statistical modeling. Handles complex data analysis, predictive modeling, and
   business intelligence. Use PROACTIVELY for data analysis tasks, ML modeling,
   statistical analysis, and data-driven insights.
+risk: critical
+source: community
 metadata:
   model: inherit
 ---
-
 ## Use this skill when
 
 - Working on data scientist tasks or workflows

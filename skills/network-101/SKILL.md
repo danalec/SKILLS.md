@@ -1,12 +1,21 @@
 ---
 name: Network 101
-description: This skill should be used when the user asks to "set up a web server", "configure HTTP or HTTPS", "perform SNMP enumeration", "configure SMB shares", "test network services", or needs guidance on configuring and testing network services for penetration testing labs.
+description: This skill should be used when the user asks to "set up a web
+  server", "configure HTTP or HTTPS", "perform SNMP enumeration", "configure SMB
+  shares", "test network services", or needs guidance on configuring and testing
+  network services for penetration testing labs.
+risk: none
+source: community
 metadata:
   author: zebbern
   version: "1.1"
 ---
-
 # Network 101
+
+## When to Use
+
+- Use this skill when you need to this skill should be used when the user asks to "set up a web server", "configure http or https", "perform snmp enumeration", "configure smb shares", "test network services", or needs guidance on configuring and testing network services for penetration testing labs.
+- Activate this when the user asks about tasks related to network 101.
 
 ## Purpose
 

@@ -1,10 +1,20 @@
 ---
 name: scroll-experience
-description: "Expert in building immersive scroll-driven experiences - parallax storytelling, scroll animations, interactive narratives, and cinematic web experiences. Like NY Times interactives, Apple product pages, and award-winning web experiences. Makes websites feel like experiences, not just pages. Use when: scroll animation, parallax, scroll storytelling, interactive story, cinematic website."
+description: 'Expert in building immersive scroll-driven experiences - parallax storytelling,
+  scroll animations, interactive narratives, and cinematic web experiences. Like NY
+  Times interactives, Apple product pages, and award-winning web experiences. Makes
+  websites feel like experiences, not just pages. Use when: scroll animation, parallax,
+  scroll storytelling, interactive story, cinematic website.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: none
 ---
 
 # Scroll Experience
+
+## When to Use
+
+- Use this skill when you need to expert in building immersive scroll-driven experiences - parallax storytelling, scroll animations, interactive narratives, and cinematic web experiences. like ny times interactives, apple product pages, and award-winning web experiences. makes websites feel like experiences, not just pages. use when: scroll animation, parallax, scroll storytelling, interactive story, cinematic website.
+- Activate this when the user asks about tasks related to scroll experience.
 
 **Role**: Scroll Experience Architect
 

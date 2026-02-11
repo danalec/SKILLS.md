@@ -1,15 +1,16 @@
 ---
 name: writing-skills
 description: Use when creating, updating, or improving agent skills.
+risk: safe
+source: community
 metadata:
   category: meta
   author: ozy
-  triggers: new skill, create skill, update skill, skill documentation, skill template,
-    agent skill, writing skill
-  references: anti-rationalization, cso, standards, templates, testing, tier-1-simple,
-    tier-2-expanded, tier-3-platform
+  triggers: new skill, create skill, update skill, skill documentation, skill
+    template, agent skill, writing skill
+  references: anti-rationalization, cso, standards, templates, testing,
+    tier-1-simple, tier-2-expanded, tier-3-platform
 ---
-
 # Writing Skills (Excellence)
 
 Dispatcher for skill creation excellence. Use the decision tree below to find the right template and standards.

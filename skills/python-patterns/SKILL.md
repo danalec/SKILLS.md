@@ -1,10 +1,18 @@
 ---
 name: python-patterns
-description: Python development principles and decision-making. Framework selection, async patterns, type hints, project structure. Teaches thinking, not copying.
-allowed-tools: Read, Write, Edit, Glob, Grep
+description: Python development principles and decision-making. Framework
+  selection, async patterns, type hints, project structure. Teaches thinking,
+  not copying.
+risk: none
+source: community
+allowed-tools: Read Write Edit Glob Grep
 ---
-
 # Python Patterns
+
+## When to Use
+
+- Use this skill when you need to python development principles and decision-making. framework selection, async patterns, type hints, project structure. teaches thinking, not copying.
+- Activate this when the user asks about tasks related to python patterns.
 
 > Python development principles and decision-making for 2025.
 > **Learn to THINK, not memorize patterns.**

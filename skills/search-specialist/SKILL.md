@@ -4,10 +4,11 @@ description: Expert web researcher using advanced search techniques and
   synthesis. Masters search operators, result filtering, and multi-source
   verification. Handles competitive analysis and fact-checking. Use PROACTIVELY
   for deep research, information gathering, or trend analysis.
+risk: safe
+source: community
 metadata:
   model: haiku
 ---
-
 ## Use this skill when
 
 - Working on search specialist tasks or workflows

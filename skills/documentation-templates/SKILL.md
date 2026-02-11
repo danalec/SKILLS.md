@@ -1,10 +1,17 @@
 ---
 name: documentation-templates
-description: Documentation templates and structure guidelines. README, API docs, code comments, and AI-friendly documentation.
-allowed-tools: Read, Glob, Grep
+description: Documentation templates and structure guidelines. README, API docs,
+  code comments, and AI-friendly documentation.
+risk: safe
+source: community
+allowed-tools: Read Glob Grep
 ---
-
 # Documentation Templates
+
+## When to Use
+
+- Use this skill when you need to documentation templates and structure guidelines. readme, api docs, code comments, and ai-friendly documentation.
+- Activate this when the user asks about tasks related to documentation templates.
 
 > Templates and structure guidelines for common documentation types.
 

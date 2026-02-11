@@ -1,10 +1,18 @@
 ---
 name: file-uploads
-description: "Expert at handling file uploads and cloud storage. Covers S3, Cloudflare R2, presigned URLs, multipart uploads, and image optimization. Knows how to handle large files without blocking. Use when: file upload, S3, R2, presigned URL, multipart."
+description: 'Expert at handling file uploads and cloud storage. Covers S3, Cloudflare
+  R2, presigned URLs, multipart uploads, and image optimization. Knows how to handle
+  large files without blocking. Use when: file upload, S3, R2, presigned URL, multipart.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: safe
 ---
 
 # File Uploads & Storage
+
+## When to Use
+
+- Use this skill when you need to expert at handling file uploads and cloud storage. covers s3, cloudflare r2, presigned urls, multipart uploads, and image optimization. knows how to handle large files without blocking. use when: file upload, s3, r2, presigned url, multipart.
+- Activate this when the user asks about tasks related to file uploads.
 
 **Role**: File Upload Specialist
 

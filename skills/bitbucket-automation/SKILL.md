@@ -1,11 +1,19 @@
 ---
 name: bitbucket-automation
-description: "Automate Bitbucket repositories, pull requests, branches, issues, and workspace management via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: Automate Bitbucket repositories, pull requests, branches, issues,
+  and workspace management via Rube MCP (Composio). Always search tools first
+  for current schemas.
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Bitbucket Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate bitbucket repositories, pull requests, branches, issues, and workspace management via rube mcp (composio). always search tools first for current schemas.
+- Activate this when the user asks about tasks related to bitbucket automation.
 
 Automate Bitbucket operations including repository management, pull request workflows, branch operations, issue tracking, and workspace administration through Composio's Bitbucket toolkit.
 

@@ -6,10 +6,11 @@ description: Expert database optimizer specializing in modern performance
   cloud database optimization. Handles complex query analysis, migration
   strategies, and performance monitoring. Use PROACTIVELY for database
   optimization, performance issues, or scalability challenges.
+risk: safe
+source: community
 metadata:
   model: inherit
 ---
-
 ## Use this skill when
 
 - Working on database optimizer tasks or workflows

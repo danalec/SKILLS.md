@@ -1,11 +1,19 @@
 ---
 name: close-automation
-description: "Automate Close CRM tasks via Rube MCP (Composio): create leads, manage calls/SMS, handle tasks, and track notes. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: "Automate Close CRM tasks via Rube MCP (Composio): create leads,
+  manage calls/SMS, handle tasks, and track notes. Always search tools first for
+  current schemas."
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Close CRM Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate close crm tasks via rube mcp (composio): create leads, manage calls/sms, handle tasks, and track notes. always search tools first for current schemas.
+- Activate this when the user asks about tasks related to close automation.
 
 Automate Close CRM operations through Composio's Close toolkit via Rube MCP.
 

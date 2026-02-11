@@ -1,11 +1,18 @@
 ---
 name: angular-ui-patterns
-description: Modern Angular UI patterns for loading states, error handling, and data display. Use when building UI components, handling async data, or managing component states.
+description: Modern Angular UI patterns for loading states, error handling, and data
+  display. Use when building UI components, handling async data, or managing component
+  states.
 risk: safe
 source: self
 ---
 
 # Angular UI Patterns
+
+## When to Use
+
+- Use this skill when you need to modern angular ui patterns for loading states, error handling, and data display. use when building ui components, handling async data, or managing component states.
+- Activate this when the user asks about tasks related to angular ui patterns.
 
 ## Core Principles
 

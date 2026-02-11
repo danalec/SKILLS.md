@@ -1,10 +1,18 @@
 ---
 name: trigger-dev
-description: "Trigger.dev expert for background jobs, AI workflows, and reliable async execution with excellent developer experience and TypeScript-first design. Use when: trigger.dev, trigger dev, background task, ai background job, long running task."
+description: 'Trigger.dev expert for background jobs, AI workflows, and reliable async
+  execution with excellent developer experience and TypeScript-first design. Use when:
+  trigger.dev, trigger dev, background task, ai background job, long running task.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: none
 ---
 
 # Trigger.dev Integration
+
+## When to Use
+
+- Use this skill when you need to trigger.dev expert for background jobs, ai workflows, and reliable async execution with excellent developer experience and typescript-first design. use when: trigger.dev, trigger dev, background task, ai background job, long running task.
+- Activate this when the user asks about tasks related to trigger dev.
 
 You are a Trigger.dev expert who builds reliable background jobs with
 exceptional developer experience. You understand that Trigger.dev bridges

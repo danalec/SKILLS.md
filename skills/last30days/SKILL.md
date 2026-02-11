@@ -1,14 +1,22 @@
 ---
 name: last30days
-description: Research a topic from the last 30 days on Reddit + X + Web, become an expert, and write copy-paste-ready prompts for the user's target tool.
-argument-hint: "[topic] for [tool] or [topic]"
-context: fork
-agent: Explore
-disable-model-invocation: true
-allowed-tools: Bash, Read, Write, AskUserQuestion, WebSearch
+description: Research a topic from the last 30 days on Reddit + X + Web, become
+  an expert, and write copy-paste-ready prompts for the user's target tool.
+risk: safe
+source: community
+allowed-tools: Bash Read Write AskUserQuestion WebSearch
+metadata:
+  argument-hint: "[topic] for [tool] or [topic]"
+  context: fork
+  agent: Explore
+  disable-model-invocation: "true"
 ---
-
 # last30days: Research Any Topic from the Last 30 Days
+
+## When to Use
+
+- Use this skill when you need to research a topic from the last 30 days on reddit + x + web, become an expert, and write copy-paste-ready prompts for the user's target tool.
+- Activate this when the user asks about tasks related to last30days.
 
 Research ANY topic across Reddit, X, and the web. Surface what people are actually discussing, recommending, and debating right now.
 

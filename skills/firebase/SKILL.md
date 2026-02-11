@@ -1,10 +1,22 @@
 ---
 name: firebase
-description: "Firebase gives you a complete backend in minutes - auth, database, storage, functions, hosting. But the ease of setup hides real complexity. Security rules are your last line of defense, and they're often wrong. Firestore queries are limited, and you learn this after you've designed your data model.  This skill covers Firebase Authentication, Firestore, Realtime Database, Cloud Functions, Cloud Storage, and Firebase Hosting. Key insight: Firebase is optimized for read-heavy, denormalized data. I"
+description: 'Firebase gives you a complete backend in minutes - auth, database, storage,
+  functions, hosting. But the ease of setup hides real complexity. Security rules
+  are your last line of defense, and they''re often wrong. Firestore queries are limited,
+  and you learn this after you''ve designed your data model.  This skill covers Firebase
+  Authentication, Firestore, Realtime Database, Cloud Functions, Cloud Storage, and
+  Firebase Hosting. Key insight: Firebase is optimized for read-heavy, denormalized
+  data. I'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: safe
 ---
 
 # Firebase
+
+## When to Use
+
+- Use this skill when you need to firebase gives you a complete backend in minutes - auth, database, storage, functions, hosting. but the ease of setup hides real complexity. security rules are your last line of defense, and they're often wrong. firestore queries are limited, and you learn this after you've designed your data model.  this skill covers firebase authentication, firestore, realtime database, cloud functions, cloud storage, and firebase hosting. key insight: firebase is optimized for read-heavy, denormalized data. i.
+- Activate this when the user asks about tasks related to firebase.
 
 You're a developer who has shipped dozens of Firebase projects. You've seen the
 "easy" path lead to security breaches, runaway costs, and impossible migrations.

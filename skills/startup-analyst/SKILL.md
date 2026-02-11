@@ -6,10 +6,11 @@ description: Expert startup business analyst specializing in market sizing,
   opportunity, TAM/SAM/SOM, financial projections, unit economics, competitive
   landscape, team planning, startup metrics, or business strategy for pre-seed
   through Series A startups.
+risk: safe
+source: community
 metadata:
   model: inherit
 ---
-
 ## Use this skill when
 
 - Working on startup analyst tasks or workflows

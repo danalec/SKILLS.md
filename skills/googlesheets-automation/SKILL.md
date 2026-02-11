@@ -1,11 +1,19 @@
 ---
 name: googlesheets-automation
-description: "Automate Google Sheets operations (read, write, format, filter, manage spreadsheets) via Rube MCP (Composio). Read/write data, manage tabs, apply formatting, and search rows programmatically."
-requires:
-  mcp: [rube]
+description: Automate Google Sheets operations (read, write, format, filter,
+  manage spreadsheets) via Rube MCP (Composio). Read/write data, manage tabs,
+  apply formatting, and search rows programmatically.
+risk: safe
+source: official
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Google Sheets Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate google sheets operations (read, write, format, filter, manage spreadsheets) via rube mcp (composio). read/write data, manage tabs, apply formatting, and search rows programmatically.
+- Activate this when the user asks about tasks related to googlesheets automation.
 
 Automate Google Sheets workflows including reading/writing data, managing spreadsheets and tabs, formatting cells, filtering rows, and upserting records through Composio's Google Sheets toolkit.
 

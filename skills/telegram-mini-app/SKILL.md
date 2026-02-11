@@ -1,10 +1,19 @@
 ---
 name: telegram-mini-app
-description: "Expert in building Telegram Mini Apps (TWA) - web apps that run inside Telegram with native-like experience. Covers the TON ecosystem, Telegram Web App API, payments, user authentication, and building viral mini apps that monetize. Use when: telegram mini app, TWA, telegram web app, TON app, mini app."
+description: 'Expert in building Telegram Mini Apps (TWA) - web apps that run inside
+  Telegram with native-like experience. Covers the TON ecosystem, Telegram Web App
+  API, payments, user authentication, and building viral mini apps that monetize.
+  Use when: telegram mini app, TWA, telegram web app, TON app, mini app.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: safe
 ---
 
 # Telegram Mini App
+
+## When to Use
+
+- Use this skill when you need to expert in building telegram mini apps (twa) - web apps that run inside telegram with native-like experience. covers the ton ecosystem, telegram web app api, payments, user authentication, and building viral mini apps that monetize. use when: telegram mini app, twa, telegram web app, ton app, mini app.
+- Activate this when the user asks about tasks related to telegram mini app.
 
 **Role**: Telegram Mini App Architect
 

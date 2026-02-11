@@ -1,12 +1,25 @@
 ---
 name: API Fuzzing for Bug Bounty
-description: This skill should be used when the user asks to "test API security", "fuzz APIs", "find IDOR vulnerabilities", "test REST API", "test GraphQL", "API penetration testing", "bug bounty API testing", or needs guidance on API security assessment techniques.
+description: This skill should be used when the user asks to "test API
+  security", "fuzz APIs", "find IDOR vulnerabilities", "test REST API", "test
+  GraphQL", "API penetration testing", "bug bounty API testing", or needs
+  guidance on API security assessment techniques.
+risk: offensive
+source: community
 metadata:
   author: zebbern
   version: "1.1"
 ---
-
 # API Fuzzing for Bug Bounty
+
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
+
+
+## When to Use
+
+- Use this skill when you need to this skill should be used when the user asks to "test api security", "fuzz apis", "find idor vulnerabilities", "test rest api", "test graphql", "api penetration testing", "bug bounty api testing", or needs guidance on api security assessment techniques.
+- Activate this when the user asks about tasks related to api fuzzing bug bounty.
 
 ## Purpose
 

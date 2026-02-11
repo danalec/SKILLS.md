@@ -4,10 +4,11 @@ description: Draft privacy policies, terms of service, disclaimers, and legal
   notices. Creates GDPR-compliant texts, cookie policies, and data processing
   agreements. Use PROACTIVELY for legal documentation, compliance texts, or
   regulatory requirements.
+risk: safe
+source: community
 metadata:
   model: sonnet
 ---
-
 ## Use this skill when
 
 - Working on legal advisor tasks or workflows

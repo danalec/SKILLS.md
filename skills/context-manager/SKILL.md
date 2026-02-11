@@ -5,10 +5,11 @@ description: Elite AI context engineering specialist mastering dynamic context
   systems. Orchestrates context across multi-agent workflows, enterprise AI
   systems, and long-running projects with 2024/2025 best practices. Use
   PROACTIVELY for complex AI orchestration.
+risk: safe
+source: community
 metadata:
   model: inherit
 ---
-
 ## Use this skill when
 
 - Working on context manager tasks or workflows

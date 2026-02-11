@@ -1,10 +1,20 @@
 ---
 name: pptx
-description: "Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layouts, (4) Adding comments or speaker notes, or any other presentation tasks"
+description: 'Presentation creation, editing, and analysis. When Claude needs to work
+  with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying
+  or editing content, (3) Working with layouts, (4) Adding comments or speaker notes,
+  or any other presentation tasks'
 license: Proprietary. LICENSE.txt has complete terms
+risk: critical
+source: official
 ---
 
 # PPTX creation, editing, and analysis
+
+## When to Use
+
+- Use this skill when you need to presentation creation, editing, and analysis. when claude needs to work with presentations (.pptx files) for: (1) creating new presentations, (2) modifying or editing content, (3) working with layouts, (4) adding comments or speaker notes, or any other presentation tasks.
+- Activate this when the user asks about tasks related to pptx official.
 
 ## Overview
 

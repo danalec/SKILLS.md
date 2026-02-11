@@ -1,10 +1,17 @@
 ---
 name: react-patterns
-description: Modern React patterns and principles. Hooks, composition, performance, TypeScript best practices.
-allowed-tools: Read, Write, Edit, Glob, Grep
+description: Modern React patterns and principles. Hooks, composition,
+  performance, TypeScript best practices.
+risk: critical
+source: community
+allowed-tools: Read Write Edit Glob Grep
 ---
-
 # React Patterns
+
+## When to Use
+
+- Use this skill when you need to modern react patterns and principles. hooks, composition, performance, typescript best practices.
+- Activate this when the user asks about tasks related to react patterns.
 
 > Principles for building production-ready React applications.
 

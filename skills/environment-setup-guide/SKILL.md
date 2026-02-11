@@ -1,6 +1,9 @@
 ---
 name: environment-setup-guide
-description: "Guide developers through setting up development environments with proper tools, dependencies, and configurations"
+description: Guide developers through setting up development environments with proper
+  tools, dependencies, and configurations
+risk: none
+source: community
 ---
 
 # Environment Setup Guide

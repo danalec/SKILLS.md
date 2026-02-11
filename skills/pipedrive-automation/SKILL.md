@@ -1,11 +1,19 @@
 ---
 name: pipedrive-automation
-description: "Automate Pipedrive CRM operations including deals, contacts, organizations, activities, notes, and pipeline management via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: Automate Pipedrive CRM operations including deals, contacts,
+  organizations, activities, notes, and pipeline management via Rube MCP
+  (Composio). Always search tools first for current schemas.
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Pipedrive Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate pipedrive crm operations including deals, contacts, organizations, activities, notes, and pipeline management via rube mcp (composio). always search tools first for current schemas.
+- Activate this when the user asks about tasks related to pipedrive automation.
 
 Automate Pipedrive CRM workflows including deal management, contact and organization operations, activity scheduling, notes, and pipeline/stage queries through Composio's Pipedrive toolkit.
 

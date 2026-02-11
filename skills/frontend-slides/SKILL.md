@@ -1,11 +1,19 @@
 ---
 name: frontend-slides
-description: Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files. Use when the user wants to build a presentation, convert a PPT/PPTX to web, or create slides for a talk/pitch. Helps non-designers discover their aesthetic through visual exploration rather than abstract choices.
+description: Create stunning, animation-rich HTML presentations from scratch or by
+  converting PowerPoint files. Use when the user wants to build a presentation, convert
+  a PPT/PPTX to web, or create slides for a talk/pitch. Helps non-designers discover
+  their aesthetic through visual exploration rather than abstract choices.
 source: https://github.com/zarazhangrui/frontend-slides
 risk: safe
 ---
 
 # Frontend Slides Skill
+
+## When to Use
+
+- Use this skill when you need to create stunning, animation-rich html presentations from scratch or by converting powerpoint files. use when the user wants to build a presentation, convert a ppt/pptx to web, or create slides for a talk/pitch. helps non-designers discover their aesthetic through visual exploration rather than abstract choices.
+- Activate this when the user asks about tasks related to frontend slides.
 
 Create zero-dependency, animation-rich HTML presentations that run entirely in the browser. This skill helps non-designers discover their preferred aesthetic through visual exploration ("show, don't tell"), then generates production-quality slide decks.
 

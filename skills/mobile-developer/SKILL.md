@@ -4,10 +4,11 @@ description: Develop React Native, Flutter, or native mobile apps with modern
   architecture patterns. Masters cross-platform development, native
   integrations, offline sync, and app store optimization. Use PROACTIVELY for
   mobile features, cross-platform code, or app optimization.
+risk: safe
+source: community
 metadata:
   model: inherit
 ---
-
 ## Use this skill when
 
 - Working on mobile developer tasks or workflows

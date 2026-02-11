@@ -122,7 +122,7 @@ function normalizeSkill(skillId) {
   if (!modified) return false;
 
   const ordered = {};
-  for (const key of ['name', 'description', 'license', 'compatibility', 'allowed-tools', 'metadata']) {
+  for (const key of ['name', 'description', 'risk', 'source', 'license', 'compatibility', 'allowed-tools', 'metadata']) {
     if (updated[key] !== undefined) {
       ordered[key] = updated[key];
     }

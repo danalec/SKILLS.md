@@ -1,10 +1,18 @@
 ---
 name: discord-bot-architect
-description: "Specialized skill for building production-ready Discord bots. Covers Discord.js (JavaScript) and Pycord (Python), gateway intents, slash commands, interactive components, rate limiting, and sharding."
+description: Specialized skill for building production-ready Discord bots. Covers
+  Discord.js (JavaScript) and Pycord (Python), gateway intents, slash commands, interactive
+  components, rate limiting, and sharding.
 source: vibeship-spawner-skills (Apache 2.0)
+risk: critical
 ---
 
 # Discord Bot Architect
+
+## When to Use
+
+- Use this skill when you need to specialized skill for building production-ready discord bots. covers discord.js (javascript) and pycord (python), gateway intents, slash commands, interactive components, rate limiting, and sharding.
+- Activate this when the user asks about tasks related to discord bot architect.
 
 ## Patterns
 

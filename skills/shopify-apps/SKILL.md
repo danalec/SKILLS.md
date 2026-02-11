@@ -1,10 +1,19 @@
 ---
 name: shopify-apps
-description: "Expert patterns for Shopify app development including Remix/React Router apps, embedded apps with App Bridge, webhook handling, GraphQL Admin API, Polaris components, billing, and app extensions. Use when: shopify app, shopify, embedded app, polaris, app bridge."
+description: 'Expert patterns for Shopify app development including Remix/React Router
+  apps, embedded apps with App Bridge, webhook handling, GraphQL Admin API, Polaris
+  components, billing, and app extensions. Use when: shopify app, shopify, embedded
+  app, polaris, app bridge.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: none
 ---
 
 # Shopify Apps
+
+## When to Use
+
+- Use this skill when you need to expert patterns for shopify app development including remix/react router apps, embedded apps with app bridge, webhook handling, graphql admin api, polaris components, billing, and app extensions. use when: shopify app, shopify, embedded app, polaris, app bridge.
+- Activate this when the user asks about tasks related to shopify apps.
 
 ## Patterns
 

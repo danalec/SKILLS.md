@@ -1,10 +1,18 @@
 ---
 name: architecture
-description: Architectural decision-making framework. Requirements analysis, trade-off evaluation, ADR documentation. Use when making architecture decisions or analyzing system design.
-allowed-tools: Read, Glob, Grep
+description: Architectural decision-making framework. Requirements analysis,
+  trade-off evaluation, ADR documentation. Use when making architecture
+  decisions or analyzing system design.
+risk: safe
+source: community
+allowed-tools: Read Glob Grep
 ---
-
 # Architecture Decision Framework
+
+## When to Use
+
+- Use this skill when you need to architectural decision-making framework. requirements analysis, trade-off evaluation, adr documentation. use when making architecture decisions or analyzing system design.
+- Activate this when the user asks about tasks related to architecture.
 
 > "Requirements drive architecture. Trade-offs inform decisions. ADRs capture rationale."
 

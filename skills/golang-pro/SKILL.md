@@ -5,6 +5,8 @@ description: Master Go 1.21+ with modern patterns, advanced concurrency,
   latest Go ecosystem including generics, workspaces, and cutting-edge
   frameworks. Use PROACTIVELY for Go development, architecture design, or
   performance optimization.
+risk: critical
+source: community
 metadata:
   model: opus
 ---

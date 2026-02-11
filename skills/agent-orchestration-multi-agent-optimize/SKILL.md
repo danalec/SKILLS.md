@@ -1,6 +1,10 @@
 ---
 name: agent-orchestration-multi-agent-optimize
-description: "Optimize multi-agent systems with coordinated profiling, workload distribution, and cost-aware orchestration. Use when improving agent performance, throughput, or reliability."
+description: Optimize multi-agent systems with coordinated profiling, workload distribution,
+  and cost-aware orchestration. Use when improving agent performance, throughput,
+  or reliability.
+risk: none
+source: community
 ---
 
 # Multi-Agent Optimization Toolkit

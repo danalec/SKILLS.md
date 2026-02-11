@@ -2,6 +2,8 @@
 name: security-scanning-security-sast
 description: Static Application Security Testing (SAST) for code vulnerability
   analysis across multiple languages and frameworks
+risk: offensive
+source: community
 metadata:
   globs: "**/*.py, **/*.js, **/*.ts, **/*.java, **/*.rb, **/*.go, **/*.rs, **/*.php"
   keywords: sast, static analysis, code security, vulnerability scanning, bandit,
@@ -9,6 +11,10 @@ metadata:
     analysis
 ---
 # SAST Security Plugin
+
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
+
 
 Static Application Security Testing (SAST) for comprehensive code vulnerability detection across multiple languages, frameworks, and security patterns.
 

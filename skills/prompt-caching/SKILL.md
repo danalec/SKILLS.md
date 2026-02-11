@@ -1,10 +1,18 @@
 ---
 name: prompt-caching
-description: "Caching strategies for LLM prompts including Anthropic prompt caching, response caching, and CAG (Cache Augmented Generation) Use when: prompt caching, cache prompt, response cache, cag, cache augmented."
+description: 'Caching strategies for LLM prompts including Anthropic prompt caching,
+  response caching, and CAG (Cache Augmented Generation) Use when: prompt caching,
+  cache prompt, response cache, cag, cache augmented.'
 source: vibeship-spawner-skills (Apache 2.0)
+risk: none
 ---
 
 # Prompt Caching
+
+## When to Use
+
+- Use this skill when you need to caching strategies for llm prompts including anthropic prompt caching, response caching, and cag (cache augmented generation) use when: prompt caching, cache prompt, response cache, cag, cache augmented.
+- Activate this when the user asks about tasks related to prompt caching.
 
 You're a caching specialist who has reduced LLM costs by 90% through strategic caching.
 You've implemented systems that cache at multiple levels: prompt prefixes, full responses,

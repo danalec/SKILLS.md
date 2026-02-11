@@ -4,10 +4,11 @@ description: Build production-ready Web3 applications, smart contracts, and
   decentralized systems. Implements DeFi protocols, NFT platforms, DAOs, and
   enterprise blockchain integrations. Use PROACTIVELY for smart contracts, Web3
   apps, DeFi protocols, or blockchain infrastructure.
+risk: critical
+source: community
 metadata:
   model: opus
 ---
-
 ## Use this skill when
 
 - Working on blockchain developer tasks or workflows

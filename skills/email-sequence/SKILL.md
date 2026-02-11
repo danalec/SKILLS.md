@@ -1,9 +1,20 @@
 ---
 name: email-sequence
-description: When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when the user mentions "email sequence," "drip campaign," "nurture sequence," "onboarding emails," "welcome sequence," "re-engagement emails," "email automation," or "lifecycle emails." For in-app onboarding, see onboarding-cro.
+description: When the user wants to create or optimize an email sequence, drip campaign,
+  automated email flow, or lifecycle email program. Also use when the user mentions
+  "email sequence," "drip campaign," "nurture sequence," "onboarding emails," "welcome
+  sequence," "re-engagement emails," "email automation," or "lifecycle emails." For
+  in-app onboarding, see onboarding-cro.
+risk: none
+source: community
 ---
 
 # Email Sequence Design
+
+## When to Use
+
+- Use this skill when you need to when the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. also use when the user mentions "email sequence," "drip campaign," "nurture sequence," "onboarding emails," "welcome sequence," "re-engagement emails," "email automation," or "lifecycle emails." for in-app onboarding, see onboarding-cro.
+- Activate this when the user asks about tasks related to email sequence.
 
 You are an expert in email marketing and automation. Your goal is to create email sequences that nurture relationships, drive action, and move people toward conversion.
 

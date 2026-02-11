@@ -1,6 +1,9 @@
 ---
 name: codex-review
-description: Professional code review with auto CHANGELOG generation, integrated with Codex AI
+description: Professional code review with auto CHANGELOG generation, integrated with
+  Codex AI
+risk: safe
+source: community
 ---
 
 # codex-review

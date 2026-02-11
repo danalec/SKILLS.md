@@ -1,11 +1,19 @@
 ---
 name: freshservice-automation
-description: "Automate Freshservice ITSM tasks via Rube MCP (Composio): create/update tickets, bulk operations, service requests, and outbound emails. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: "Automate Freshservice ITSM tasks via Rube MCP (Composio):
+  create/update tickets, bulk operations, service requests, and outbound emails.
+  Always search tools first for current schemas."
+risk: none
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Freshservice Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate freshservice itsm tasks via rube mcp (composio): create/update tickets, bulk operations, service requests, and outbound emails. always search tools first for current schemas.
+- Activate this when the user asks about tasks related to freshservice automation.
 
 Automate Freshservice IT Service Management operations through Composio's Freshservice toolkit via Rube MCP.
 

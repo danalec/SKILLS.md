@@ -1,13 +1,19 @@
 ---
 name: copywriting
-description: >
-  Use this skill when writing, rewriting, or improving marketing copy
-  for any page (homepage, landing page, pricing, feature, product, or about page).
-  This skill produces clear, compelling, and testable copy while enforcing
-  alignment, honesty, and conversion best practices.
+description: Use this skill when writing, rewriting, or improving marketing copy for
+  any page (homepage, landing page, pricing, feature, product, or about page). This
+  skill produces clear, compelling, and testable copy while enforcing alignment, honesty,
+  and conversion best practices.
+risk: none
+source: community
 ---
 
 # Copywriting
+
+## When to Use
+
+- Use this skill when you need to use this skill when writing, rewriting, or improving marketing copy for any page (homepage, landing page, pricing, feature, product, or about page). this skill produces clear, compelling, and testable copy while enforcing alignment, honesty, and conversion best practices.
+- Activate this when the user asks about tasks related to copywriting.
 
 ## Purpose
 

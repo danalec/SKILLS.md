@@ -4,10 +4,11 @@ description: Develop native iOS applications with Swift/SwiftUI. Masters iOS 18,
   SwiftUI, UIKit integration, Core Data, networking, and App Store optimization.
   Use PROACTIVELY for iOS-specific features, App Store optimization, or native
   iOS development.
+risk: safe
+source: community
 metadata:
   model: inherit
 ---
-
 ## Use this skill when
 
 - Working on ios developer tasks or workflows

@@ -5,10 +5,11 @@ description: Elite content marketing strategist specializing in AI-powered
   performance marketing. Masters modern content tools, social media automation,
   and conversion optimization with 2024/2025 best practices. Use PROACTIVELY for
   comprehensive content marketing.
+risk: safe
+source: community
 metadata:
   model: haiku
 ---
-
 ## Use this skill when
 
 - Working on content marketer tasks or workflows

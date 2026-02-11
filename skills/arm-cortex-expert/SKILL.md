@@ -6,10 +6,11 @@ description: >
   Decades of experience writing reliable, optimized, and maintainable embedded
   code with deep expertise in memory barriers, DMA/cache coherency,
   interrupt-driven I/O, and peripheral drivers.
+risk: safe
+source: community
 metadata:
   model: inherit
 ---
-
 # @arm-cortex-expert
 
 ## Use this skill when

@@ -1,11 +1,19 @@
 ---
 name: monday-automation
-description: "Automate Monday.com work management including boards, items, columns, groups, subitems, and updates via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+description: Automate Monday.com work management including boards, items,
+  columns, groups, subitems, and updates via Rube MCP (Composio). Always search
+  tools first for current schemas.
+risk: safe
+source: community
+metadata:
+  requires: '{"mcp":["rube"]}'
 ---
-
 # Monday.com Automation via Rube MCP
+
+## When to Use
+
+- Use this skill when you need to automate monday.com work management including boards, items, columns, groups, subitems, and updates via rube mcp (composio). always search tools first for current schemas.
+- Activate this when the user asks about tasks related to monday automation.
 
 Automate Monday.com work management workflows including board creation, item management, column value updates, group organization, subitems, and update/comment threads through Composio's Monday toolkit.
 

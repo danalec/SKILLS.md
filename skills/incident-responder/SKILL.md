@@ -6,10 +6,11 @@ description: Expert SRE incident responder specializing in rapid problem
   system reliability patterns. Handles critical outages, communication
   strategies, and continuous improvement. Use IMMEDIATELY for production
   incidents or SRE practices.
+risk: critical
+source: community
 metadata:
   model: sonnet
 ---
-
 ## Use this skill when
 
 - Working on incident responder tasks or workflows

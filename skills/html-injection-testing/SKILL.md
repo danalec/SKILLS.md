@@ -1,12 +1,26 @@
 ---
 name: HTML Injection Testing
-description: This skill should be used when the user asks to "test for HTML injection", "inject HTML into web pages", "perform HTML injection attacks", "deface web applications", or "test content injection vulnerabilities". It provides comprehensive HTML injection attack techniques and testing methodologies.
+description: This skill should be used when the user asks to "test for HTML
+  injection", "inject HTML into web pages", "perform HTML injection attacks",
+  "deface web applications", or "test content injection vulnerabilities". It
+  provides comprehensive HTML injection attack techniques and testing
+  methodologies.
+risk: offensive
+source: community
 metadata:
   author: zebbern
   version: "1.1"
 ---
-
 # HTML Injection Testing
+
+> [!WARNING]
+> **AUTHORIZED USE ONLY**: This skill is for authorized security testing and research purposes only. Use of this skill for unauthorized activities is strictly prohibited.
+
+
+## When to Use
+
+- Use this skill when you need to this skill should be used when the user asks to "test for html injection", "inject html into web pages", "perform html injection attacks", "deface web applications", or "test content injection vulnerabilities". it provides comprehensive html injection attack techniques and testing methodologies.
+- Activate this when the user asks about tasks related to html injection testing.
 
 ## Purpose
 

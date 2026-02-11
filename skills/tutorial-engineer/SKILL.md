@@ -4,10 +4,11 @@ description: Creates step-by-step tutorials and educational content from code.
   Transforms complex concepts into progressive learning experiences with
   hands-on examples. Use PROACTIVELY for onboarding guides, feature tutorials,
   or concept explanations.
+risk: safe
+source: community
 metadata:
   model: sonnet
 ---
-
 ## Use this skill when
 
 - Working on tutorial engineer tasks or workflows
